@@ -2,7 +2,7 @@
 
 ## Gothic Literature is based off of Romaticism
 
-### Romanticism is not *"Romance"* as you think.
+### Romanticism is not *"Romance"* as you'd expect
 
 It was a movement against the Industrial revolution and the Age of Enlightment.
 
@@ -53,17 +53,17 @@ The genre of Gothic literature was popular in the 18th - 19th century. It was ch
 
 ### <u>Style of Narration</u>
 
-- Usual told in the first person (I, My) or third person (He, His)
+- Usually told in the first person (I, My) or third person (He, His)
 
-- The Narrative is built to get you to wonder what had happened in the past, what has caused the person to be the way they are.
+- The narrative is built to get you to wonder what had happened in the past, what has caused the person to be the way they are.
 
 ### <u>Gothic Plot</u>
 
-- Mystery, Nacient curce
+- Mystery, Ancient curses
 - Romance, Tension between the lover and the maidens father.
 - Illicit love and lust
 - Revenge
-- Religion. Usually Chrtianity or spritually and is confrotned and questioned against.
+- Religion. Usually Christianity or spritually, with those ideologies is being confronted and questioned.
 
 ### <u>Gothic Language</u>
 
@@ -71,13 +71,13 @@ The genre of Gothic literature was popular in the 18th - 19th century. It was ch
 
 ### <u>Gothic Characters</u>
 
-- Gloomy, sad, depressed emotions.
+- Gloomy, sad, depressed emotions
 
-- Monotone and expressionless face.
+- Monotone and expressionless face
 
-- Sad Baron or Lord, who lives there.
+- Sad Baron or Lord, who lives there
 
-- Madien / Damsel in distress.
+- Madien / Damsel in distress
 
 - Heroes, Tyrants, Villains or Villainous heros
 
