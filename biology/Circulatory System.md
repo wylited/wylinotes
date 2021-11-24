@@ -13,7 +13,7 @@ The bottom ones are ventricles, the top ones are atriums.
 ____
 
 ## Renal Vein and Artery
-Renal meins kidney, the these 2 veins go to the kidney.
+Renal meins kidney, the these 2 vessels go to the kidney.
 
 ## Hepatic Portal Vein and Hepatic Artery
 The hepatic means liver. The **hepatic portal vein** is a vessel that moves blood from the spleen and gastrointestinal tract to the liver. The hepatic artery goes to the liver from the heart.
