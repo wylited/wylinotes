@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "biology/Balanced Diet.md",
+            "file": "biology/Circulatory System.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biology/Balanced Diet.md",
+                "file": "biology/Circulatory System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biology/Balanced Diet.md"
+                "file": "biology/Circulatory System.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "612d5cbaa68a51bb",
   "lastOpenFiles": [
-    "biology/Balanced Diet.md",
-    "biology/Active Site diagram.md",
-    "biology/Biological Molecules.md",
-    "biology/Enzymes.md",
+    "biology/Circulatory System.md",
+    "biology/Respiration.md",
+    "biology/Simple heart.md",
     "biology/Movement of Substances.md",
-    "dt/common/3/3/work of others.md",
-    "eng/Creative Writing/similies_metaphor.md",
-    "eng/Creative Writing/gothiclit.md",
-    "eng/Creative Writing/descriptive_planning.md",
-    "contributing.md"
+    "biology/Enzymes.md",
+    "biology/Digestive System.md",
+    "biology/Active Site diagram.md",
+    "biology/ADP - ATP.md",
+    "biology/Biological Molecules.md",
+    "biology/Balanced Diet.md"
   ]
 }

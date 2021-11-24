@@ -49,4 +49,4 @@ In total there are 27 amino acids. And as stated above they are made up Carbon, 
 | Reagent | Benedict solution |  Iodine| Biuret | Ethanol |
 | Method | Add Benedict’s solution to the food and boil in a water bath | Add iodine reagent to the food. | Add Biuret reagent to the food. | Add ethanol to the food to dissolve the fat then add water. |
 | Initial Color | Blue | Brick Red | Blue| Colorless| 
-| Positive Indicator | Brick Red (slight precipate) | Blue-Black | Lilac / Purple| Emulsion |
+| Positive Indicator | Brick Red (slight precipate) | Blue-Black | Lilac / Purple| Emulsion / Whiteish clouds |
