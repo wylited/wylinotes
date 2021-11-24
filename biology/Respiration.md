@@ -18,5 +18,5 @@ Anaerboic respiration has 2 major downsides. The lactic acid produced is toxic d
 ## ATP and ADP
 ATP - Adenosine Triphosphate (extra phosphate bond energy)
 ADP - Adenosine Diphosphate (no extra phosphate bond energy)
-![[biology/ADP - ATP.md]]
+![[ADP - ATP]]
 

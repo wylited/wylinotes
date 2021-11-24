@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "612d5cbaa68a51bb",
+        "id": "73220258e6abdc83",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "biology/Simple heart.md"
+            "file": "Biology/Digestive System.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biology/Simple heart.md",
+                "file": "Biology/Digestive System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biology/Simple heart.md"
+                "file": "Biology/Digestive System.md"
               }
             }
           }
@@ -95,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "612d5cbaa68a51bb",
+  "active": "73220258e6abdc83",
   "lastOpenFiles": [
-    "biology/Simple heart.md",
-    "biology/Enzymes.md",
-    "biology/Digestive System.md",
-    "biology/Biological Molecules.md",
-    "biology/Circulatory System.md",
-    "biology/Respiration.md",
-    "biology/Movement of Substances.md",
-    "biology/Active Site diagram.md",
-    "biology/ADP - ATP.md",
-    "biology/Balanced Diet.md"
+    "Biology/Digestive System.md",
+    "Biology/Balanced Diet.md",
+    "Biology/ADP - ATP.md",
+    "Biology/Enzymes.md",
+    "Biology/Biological Molecules.md",
+    "Excalidraw/Drawing 2021-11-24 22.14.58.excalidraw.md",
+    "Recording 20211124221450.webm",
+    "Biology/Circulatory System.md",
+    "Biology/Simple heart.md",
+    "Biology/Respiration.md"
   ]
 }
