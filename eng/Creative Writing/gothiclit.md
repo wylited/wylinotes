@@ -1,8 +1,12 @@
+---
+date created: 2021-11-24 17:59
+---
+
 # Introduction to Gothic Literature
 
 ## Gothic Literature is based off of Romaticism
 
-### Romanticism is not *"Romance"* as you'd expect
+### Romanticism is not _"Romance"_ as you'd expect
 
 It was a movement against the Industrial revolution and the Age of Enlightment.
 
@@ -42,10 +46,10 @@ The genre of Gothic literature was popular in the 18th - 19th century. It was ch
 
 ## Gothic VS Romantic
 
-| Gothic      | Romantic    |
-| ----------- | ----------- |
-| The gothic writers took their imagination and took it to the threshold of the unkown      | A reaction against the rationalism of the Age of Reason      |
-| Gothic writers would take the text and see the potential evil  | Finish later|
+| Gothic                                                                               | Romantic                                                |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| The gothic writers took their imagination and took it to the threshold of the unkown | A reaction against the rationalism of the Age of Reason |
+| Gothic writers would take the text and see the potential evil                        | Finish later                                            |
 
 ---
 

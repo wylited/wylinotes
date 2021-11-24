@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contributing.md",
-            "mode": "preview"
+            "file": "biology/Balanced Diet.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contributing.md",
+                "file": "biology/Balanced Diet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contributing.md"
+                "file": "biology/Balanced Diet.md"
               }
             }
           }
@@ -98,12 +98,15 @@
   },
   "active": "612d5cbaa68a51bb",
   "lastOpenFiles": [
-    "contributing.md",
-    "README.md",
-    "eng/Creative Writing/descriptive_planning.md",
-    "eng/Creative Writing/gothiclit.md",
-    "Untitled.md",
+    "biology/Balanced Diet.md",
+    "biology/Active Site diagram.md",
+    "biology/Biological Molecules.md",
+    "biology/Enzymes.md",
+    "biology/Movement of Substances.md",
+    "dt/common/3/3/work of others.md",
     "eng/Creative Writing/similies_metaphor.md",
-    "dt/common/3/3/work of others.md"
+    "eng/Creative Writing/gothiclit.md",
+    "eng/Creative Writing/descriptive_planning.md",
+    "contributing.md"
   ]
 }

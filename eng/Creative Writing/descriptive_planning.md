@@ -1,8 +1,12 @@
+---
+date created: 2021-11-24 17:59
+---
+
 # Planning a descriptive - Wylited
 
 ## Prompt
 
-### ___Describe an occasion when a group of people are eating together___
+### _**Describe an occasion when a group of people are eating together**_
 
 ---
 
