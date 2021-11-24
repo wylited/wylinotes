@@ -1,0 +1,17 @@
+3.3 - Work of Others
+====================
+
+This unit is based around other people and their main 
+
+Important Designers
+-------------------
+___
+
+### Sir Alec
+
+
+Design Movements
+----------------
+
+Design Companies
+----------------

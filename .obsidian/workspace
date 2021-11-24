@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "e773fb6ac1698cc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "612d5cbaa68a51bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "contributing.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7b571b7cb6e8b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9b5e95b1f5343c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a32c7aaa8968d29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9522d4c9a612901",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcf65f88d25544cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "204df60749023a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf19111656de9b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "contributing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0118cec794e60df5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "contributing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "612d5cbaa68a51bb",
+  "lastOpenFiles": [
+    "contributing.md",
+    "README.md",
+    "eng/Creative Writing/descriptive_planning.md",
+    "eng/Creative Writing/gothiclit.md",
+    "Untitled.md",
+    "eng/Creative Writing/similies_metaphor.md",
+    "dt/common/3/3/work of others.md"
+  ]
+}
