@@ -1,4 +1,4 @@
-# Heart and Circulatory System.
+# Heart
 The circulatory system is made up of blood vessels that carry blood away from and towards the heart. Arteries carry blood away from the heart and veins carry blood back to the heart.
 
 ## The Heart.

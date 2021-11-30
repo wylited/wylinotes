@@ -10,7 +10,7 @@ A balanced diet is based on 7 main nutrients. Carbohydrates, Proteins, Lipids, V
 | Minerals | Used for your bone teeth and staying healthy | Iron - Meat and lentils, Calcium - Dairy products. | Iron Deffiency can cause there to be a lack of hemoglobins in your blood, it can cause anemia. | 
 | Water | Diuretic purposes | Water duh | Pale skin, lack of energy |
 | Dietary fibre | Digestion | Vegetables and Fruits | Constipation |
-
+/theme
 Your diet can also be affected by 3 other major factors
 - Age.
 - Activity levels.

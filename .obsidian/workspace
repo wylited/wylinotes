@@ -7,11 +7,8 @@
         "id": "73220258e6abdc83",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biology/Digestive System.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220
   },
   "right": {
     "id": "dcf65f88d25544cb",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Digestive System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/Digestive System.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -98,15 +92,15 @@
   },
   "active": "73220258e6abdc83",
   "lastOpenFiles": [
-    "Biology/Digestive System.md",
-    "Biology/Balanced Diet.md",
-    "Biology/ADP - ATP.md",
-    "Biology/Enzymes.md",
-    "Biology/Biological Molecules.md",
-    "Excalidraw/Drawing 2021-11-24 22.14.58.excalidraw.md",
-    "Recording 20211124221450.webm",
-    "Biology/Circulatory System.md",
-    "Biology/Simple heart.md",
-    "Biology/Respiration.md"
+    "Biology/Movement of Substances.md",
+    "Biology/Living Organisms/Humans/Respiration.md",
+    "Biology/Living Organisms/Humans/Heart.md",
+    "Biology/Living Organisms/Humans/Humans.md",
+    "Biology/Living Organisms/Humans/Eyes.md",
+    "README.md",
+    "Biology/Living Organisms/Humans/Enzymes.md",
+    "Biology/Living Organisms/Humans/Balanced Diet.md",
+    "Biology/Living Organisms/Humans/Biological Molecules.md",
+    "Biology/Living Organisms/Humans/Digestive System.md"
   ]
 }

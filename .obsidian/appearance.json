@@ -1,5 +1,12 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "theme": "obsidian",
-  "translucency": true
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "folder",
+    "hover",
+    "bulletpoints",
+    "img"
+  ]
 }

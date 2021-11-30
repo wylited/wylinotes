@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "autoSelect": false,
   "autoTrigger": true,
   "autoTriggerMinSize": 3,

@@ -1,13 +1,4 @@
 {
-  "editor:insert-embed": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "theme:use-dark": [
     {
       "modifiers": [
@@ -15,6 +6,14 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
     }
   ]
 }
