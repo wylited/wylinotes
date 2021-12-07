@@ -29,8 +29,3 @@ Active transport makes use of ATP to move substances against a concentration gra
 The ATP provides active transport with the energy required.
 
 ___
-
-#Plants 
-#Animals 
-#Humans 
-#Circulatory 

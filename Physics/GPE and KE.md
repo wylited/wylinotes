@@ -4,7 +4,7 @@ Describe and explain GPE and KE.
 Know the equations for both energy types.
 
 ## Equation for weight
-Weight (Netwons) = Mass (Kg) * Gravitational accelaration (ms<sup>-2</sup>).
+Weight (N) = Mass (Kg) * Gravitational accelaration (ms<sup>-2</sup>).
 Gravitational force earth is usually used as 10 ms<sup>-2</sup> or 9.8 ms<sup>-2</sup>.
 
 ## Equation for GPE, Gravitational potential energy.
@@ -34,3 +34,9 @@ Gravity = 10 m/s
 2) With a higher height, you get a higher GPE. This GPE is transferred into KE.
 3) I would expect equal values of GPE and KE.
 4) To improve the accuracy, I would repeat this several times. I would also make the slope have as littlest amount of friction possible to reduce energy loss.
+
+
+Work done = 7000J
+His speed at the bottom
+Due to KE = 7000J, mass = 70KG
+therefore v = 14.1 m/s

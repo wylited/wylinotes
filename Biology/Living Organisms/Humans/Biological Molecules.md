@@ -1,5 +1,6 @@
 ---
 date created: 2021-11-24 17:43
+date updated: 2021-11-30 21:31
 ---
 
 # Biological molecules
@@ -44,9 +45,9 @@ In total there are 27 amino acids. And as stated above they are made up Carbon, 
 
 ## Food Tests
 
-| - | Carbohydrates | Starch | Protein | Lipids |
-|---|----------------|--------|--------|--------|
-| Reagent | Benedict solution |  Iodine| Biuret | Ethanol |
-| Method | Add Benedict’s solution to the food and boil in a water bath | Add iodine reagent to the food. | Add Biuret reagent to the food. | Add ethanol to the food to dissolve the fat then add water. |
-| Initial Color | Blue | Brick Red | Blue| Colorless| 
-| Positive Indicator | Brick Red (slight precipate) | Blue-Black | Lilac / Purple| Emulsion / Whiteish clouds |
+| -                  | Carbohydrates                                                | Starch                          | Protein                         | Lipids                                                      |
+| ------------------ | ------------------------------------------------------------ | ------------------------------- | ------------------------------- | ----------------------------------------------------------- |
+| Reagent            | Benedict solution                                            | Iodine                          | Biuret                          | Ethanol                                                     |
+| Method             | Add Benedict’s solution to the food and boil in a water bath | Add iodine reagent to the food. | Add Biuret reagent to the food. | Add ethanol to the food to dissolve the fat then add water. |
+| Initial Color      | Blue                                                         | Brick Red                       | Blue                            | Colorless                                                   |
+| Positive Indicator | Brick Red (slight precipate)                                 | Blue-Black                      | Lilac / Purple                  | Emulsion / Whiteish clouds                                  |

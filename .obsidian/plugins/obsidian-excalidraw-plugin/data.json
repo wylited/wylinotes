@@ -9,7 +9,7 @@
   "matchTheme": true,
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
-  "defaultMode": "view",
+  "defaultMode": "normal",
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",

@@ -17,8 +17,8 @@ excalidraw-plugin: parsed
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 835452587,
+			"version": 69,
+			"versionNonce": 1713237177,
 			"isDeleted": false,
 			"id": "s5Y70sm2daNvofqKCN8f7",
 			"fillStyle": "hachure",
@@ -121,8 +121,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 536401285,
+			"version": 67,
+			"versionNonce": 76486487,
 			"isDeleted": false,
 			"id": "SYdnLMEqhC80s-VdEknEP",
 			"fillStyle": "hachure",
@@ -215,8 +215,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 416084299,
+			"version": 62,
+			"versionNonce": 554823065,
 			"isDeleted": false,
 			"id": "AP1SoDCAmC_XbirNtiv9V",
 			"fillStyle": "hachure",
@@ -284,8 +284,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1538120933,
+			"version": 65,
+			"versionNonce": 595596407,
 			"isDeleted": false,
 			"id": "MX3p0Vvo72vl2tyxRSplI",
 			"fillStyle": "hachure",
@@ -368,8 +368,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 1683394539,
+			"version": 64,
+			"versionNonce": 1670566521,
 			"isDeleted": false,
 			"id": "z2ckoLGGigAmj9Vq7jgOz",
 			"fillStyle": "hachure",
@@ -447,8 +447,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 504035397,
+			"version": 67,
+			"versionNonce": 1905552791,
 			"isDeleted": false,
 			"id": "JDH5I0qMuPfW210yvo0TC",
 			"fillStyle": "hachure",
@@ -541,8 +541,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1450400395,
+			"version": 70,
+			"versionNonce": 1919163225,
 			"isDeleted": false,
 			"id": "1A7lM23UKCzmObStuGrzZ",
 			"fillStyle": "hachure",
@@ -645,8 +645,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 269364677,
+			"version": 56,
+			"versionNonce": 1778426551,
 			"isDeleted": false,
 			"id": "HjoJ6YjZyV99o0wmd4QOQ",
 			"fillStyle": "hachure",
@@ -714,8 +714,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1636318475,
+			"version": 72,
+			"versionNonce": 769214521,
 			"isDeleted": false,
 			"id": "IEmb_zE2WB28u_q3VgpnL",
 			"fillStyle": "hachure",
@@ -863,8 +863,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 133049637,
+			"version": 73,
+			"versionNonce": 761869271,
 			"isDeleted": false,
 			"id": "TMO6Omn6f2698gkzn_Nhv",
 			"fillStyle": "hachure",
@@ -1017,8 +1017,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1462920107,
+			"version": 65,
+			"versionNonce": 534108441,
 			"isDeleted": false,
 			"id": "xF6Pk5lkaEAvaVAQlbWeo",
 			"fillStyle": "hachure",
@@ -1131,8 +1131,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 911687813,
+			"version": 66,
+			"versionNonce": 1407361271,
 			"isDeleted": false,
 			"id": "Xj6dJZvW13NgL_ga5NoCM",
 			"fillStyle": "hachure",
@@ -1250,8 +1250,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1847506507,
+			"version": 67,
+			"versionNonce": 1238191609,
 			"isDeleted": false,
 			"id": "lF5j8oQ3g49IJlVnv9PhL",
 			"fillStyle": "hachure",
@@ -1369,8 +1369,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 285665253,
+			"version": 65,
+			"versionNonce": 2129750551,
 			"isDeleted": false,
 			"id": "Z8v8ZtcIuVMKMKGnICwrH",
 			"fillStyle": "hachure",
@@ -1483,8 +1483,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 354923755,
+			"version": 56,
+			"versionNonce": 851650265,
 			"isDeleted": false,
 			"id": "nz-5xx_tfLot2tgKY7UjX",
 			"fillStyle": "hachure",
@@ -1552,8 +1552,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 2047517509,
+			"version": 56,
+			"versionNonce": 730468151,
 			"isDeleted": false,
 			"id": "z3VEkt4U4m6EsKDXXihEF",
 			"fillStyle": "hachure",
@@ -1616,8 +1616,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 2077745035,
+			"version": 69,
+			"versionNonce": 894100409,
 			"isDeleted": false,
 			"id": "99m56EtJsgxSmwfd2LRhN",
 			"fillStyle": "hachure",
@@ -1750,8 +1750,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 901771941,
+			"version": 65,
+			"versionNonce": 1141968983,
 			"isDeleted": false,
 			"id": "uV6__sNNap3iTlz-NbpzL",
 			"fillStyle": "hachure",
@@ -1864,8 +1864,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 2087302699,
+			"version": 61,
+			"versionNonce": 227017881,
 			"isDeleted": false,
 			"id": "Ic2Q2DD1Kxn6g-ASQpezN",
 			"fillStyle": "hachure",
@@ -1958,8 +1958,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 550786565,
+			"version": 54,
+			"versionNonce": 1918561655,
 			"isDeleted": false,
 			"id": "JsniPPgMCuw42nhxGBduN",
 			"fillStyle": "hachure",
@@ -2017,8 +2017,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 50,
-			"versionNonce": 1170716875,
+			"version": 63,
+			"versionNonce": 657328505,
 			"isDeleted": false,
 			"id": "itN9uUjYqKP0bt4__CRIm",
 			"fillStyle": "hachure",
@@ -2121,8 +2121,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 642076005,
+			"version": 56,
+			"versionNonce": 833365655,
 			"isDeleted": false,
 			"id": "N5Xljt9D1IJvpI-lCLVME",
 			"fillStyle": "hachure",
@@ -2185,8 +2185,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1166829419,
+			"version": 56,
+			"versionNonce": 729838169,
 			"isDeleted": false,
 			"id": "OrfWvmMxDhTieIscI8E2O",
 			"fillStyle": "hachure",
@@ -2249,8 +2249,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1969248453,
+			"version": 93,
+			"versionNonce": 549010359,
 			"isDeleted": false,
 			"id": "qcrg0WulhGTFx1gOfwyjM",
 			"fillStyle": "hachure",
@@ -2503,8 +2503,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1375879691,
+			"version": 83,
+			"versionNonce": 1330822969,
 			"isDeleted": false,
 			"id": "vMXDxUMBBayDoEKD7YUzF",
 			"fillStyle": "hachure",
@@ -2707,8 +2707,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 2009266213,
+			"version": 66,
+			"versionNonce": 329690327,
 			"isDeleted": false,
 			"id": "sdcpfEOI2-RvbRHVkPX1O",
 			"fillStyle": "hachure",
@@ -2826,8 +2826,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 337889451,
+			"version": 74,
+			"versionNonce": 1627942937,
 			"isDeleted": false,
 			"id": "n0vcGqT_FtknSKraQUdq3",
 			"fillStyle": "hachure",
@@ -2980,8 +2980,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 123382661,
+			"version": 70,
+			"versionNonce": 1711864311,
 			"isDeleted": false,
 			"id": "gUQmB4aNmHAri94pBu_xO",
 			"fillStyle": "hachure",
@@ -3119,8 +3119,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 832273227,
+			"version": 69,
+			"versionNonce": 378864889,
 			"isDeleted": false,
 			"id": "RaS-3j6r2tBdpZdM97TDx",
 			"fillStyle": "hachure",
@@ -3253,8 +3253,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1684337381,
+			"version": 59,
+			"versionNonce": 216310551,
 			"isDeleted": false,
 			"id": "vtHM4sOciWpx3fnQ3pACi",
 			"fillStyle": "hachure",
@@ -3337,8 +3337,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 918804971,
+			"version": 57,
+			"versionNonce": 461110745,
 			"isDeleted": false,
 			"id": "X5Cr9EhIyFYRwE34GTAGK",
 			"fillStyle": "hachure",
@@ -3411,8 +3411,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1802456645,
+			"version": 66,
+			"versionNonce": 1756244023,
 			"isDeleted": false,
 			"id": "ABeV5rvoGZjPaFNyYMQyt",
 			"fillStyle": "hachure",
@@ -3530,8 +3530,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1084712075,
+			"version": 55,
+			"versionNonce": 1590745785,
 			"isDeleted": false,
 			"id": "VwQsCq6_ix592ZBHyvA2Y",
 			"fillStyle": "hachure",
@@ -3589,8 +3589,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1715076555,
+			"version": 57,
+			"versionNonce": 1464469847,
 			"isDeleted": false,
 			"id": "g0rgT2xLAHiLMfgNMPXqK",
 			"fillStyle": "hachure",
@@ -3678,8 +3678,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 818272357,
+			"version": 59,
+			"versionNonce": 557259673,
 			"isDeleted": false,
 			"id": "2T08107z_d1_rasx8eDNE",
 			"fillStyle": "hachure",
@@ -3777,8 +3777,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 158207083,
+			"version": 57,
+			"versionNonce": 101500535,
 			"isDeleted": false,
 			"id": "IWmnwjsn17qnNgU4BBi1e",
 			"fillStyle": "hachure",
@@ -3866,8 +3866,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 362251205,
+			"version": 57,
+			"versionNonce": 1122123897,
 			"isDeleted": false,
 			"id": "yGQcY9MywqGQbAZrpaMJg",
 			"fillStyle": "hachure",
@@ -3955,8 +3955,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1416054539,
+			"version": 58,
+			"versionNonce": 62578583,
 			"isDeleted": false,
 			"id": "fVOlZJGhgvaPTJoM2CcpZ",
 			"fillStyle": "hachure",
@@ -4049,8 +4049,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 2111619877,
+			"version": 58,
+			"versionNonce": 1368770905,
 			"isDeleted": false,
 			"id": "VvU-X_4cXMyHMZOcAj72_",
 			"fillStyle": "hachure",
@@ -4143,8 +4143,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1577260677,
+			"version": 67,
+			"versionNonce": 310957239,
 			"isDeleted": false,
 			"id": "9jtHIgFah5uXoShidf-Cf",
 			"fillStyle": "hachure",
@@ -4287,8 +4287,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1212366923,
+			"version": 62,
+			"versionNonce": 1453667897,
 			"isDeleted": false,
 			"id": "MG5Wd9lXMrLL6OkYKf7si",
 			"fillStyle": "hachure",
@@ -4401,8 +4401,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1086848485,
+			"version": 59,
+			"versionNonce": 974857687,
 			"isDeleted": false,
 			"id": "bsSsWiJgjdivRyjX3JOBH",
 			"fillStyle": "hachure",
@@ -4505,8 +4505,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 2100885829,
+			"version": 60,
+			"versionNonce": 1693714201,
 			"isDeleted": false,
 			"id": "sqsVMw3dw5VA_pJ0AnnDS",
 			"fillStyle": "hachure",
@@ -4619,8 +4619,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 749963429,
+			"version": 58,
+			"versionNonce": 428233463,
 			"isDeleted": false,
 			"id": "MW9VTsJSOTl5zV365l0Xo",
 			"fillStyle": "hachure",
@@ -4728,8 +4728,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1625631749,
+			"version": 116,
+			"versionNonce": 1727380473,
 			"isDeleted": false,
 			"id": "oknLVF1olUgN3QfUAGBG3",
 			"fillStyle": "hachure",
@@ -5127,8 +5127,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1817658059,
+			"version": 68,
+			"versionNonce": 2035211287,
 			"isDeleted": false,
 			"id": "4KE0z5-WVpvYXkpWSfqxi",
 			"fillStyle": "hachure",
@@ -5291,8 +5291,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 432759653,
+			"version": 48,
+			"versionNonce": 749589721,
 			"isDeleted": false,
 			"id": "Ala266Runq4cCxwPWU0Rx",
 			"fillStyle": "hachure",
@@ -5350,8 +5350,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1167765867,
+			"version": 47,
+			"versionNonce": 493437239,
 			"isDeleted": false,
 			"id": "B_8jYQyHseYnjVl_PfKKP",
 			"fillStyle": "hachure",
@@ -5404,8 +5404,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 2075373253,
+			"version": 64,
+			"versionNonce": 967823801,
 			"isDeleted": false,
 			"id": "CYo548N8pmI3zX8f4iqZG",
 			"fillStyle": "hachure",
@@ -5548,8 +5548,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 230116363,
+			"version": 59,
+			"versionNonce": 1463419479,
 			"isDeleted": false,
 			"id": "IrdPGYp0_I51NMMQgxIts",
 			"fillStyle": "hachure",
@@ -5662,8 +5662,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1161530917,
+			"version": 56,
+			"versionNonce": 1394553497,
 			"isDeleted": false,
 			"id": "vLVyhi-sB80Se7Lg9swP-",
 			"fillStyle": "hachure",
@@ -5766,8 +5766,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1755812523,
+			"version": 56,
+			"versionNonce": 1469423479,
 			"isDeleted": false,
 			"id": "TU3U2iKJFkdK30hNp5JuL",
 			"fillStyle": "hachure",
@@ -5870,8 +5870,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 89162117,
+			"version": 43,
+			"versionNonce": 1303345017,
 			"isDeleted": false,
 			"id": "o_EPmR6VgxsJLjNkvtuIc",
 			"fillStyle": "hachure",
@@ -5909,8 +5909,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 387319115,
+			"version": 78,
+			"versionNonce": 1086363799,
 			"isDeleted": false,
 			"id": "idJsPdDgSUNWFfCzrHbL4",
 			"fillStyle": "hachure",
@@ -6118,8 +6118,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 288360677,
+			"version": 59,
+			"versionNonce": 463741017,
 			"isDeleted": false,
 			"id": "DvuT08MTZU0kArTUZrrx7",
 			"fillStyle": "hachure",
@@ -6232,8 +6232,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 1616716779,
+			"version": 60,
+			"versionNonce": 2020568503,
 			"isDeleted": false,
 			"id": "T4CmUZuhG1FBKkJ7glaeX",
 			"fillStyle": "hachure",
@@ -6356,8 +6356,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 586305803,
+			"version": 50,
+			"versionNonce": 449883449,
 			"isDeleted": false,
 			"id": "E3csVY-82prIse2hUTyYn",
 			"fillStyle": "hachure",
@@ -6475,8 +6475,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 2027903269,
+			"version": 41,
+			"versionNonce": 969318103,
 			"isDeleted": false,
 			"id": "bt11fw8xMLqmIf1ThcTnU",
 			"fillStyle": "hachure",
@@ -6544,8 +6544,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 171571115,
+			"version": 36,
+			"versionNonce": 580427289,
 			"isDeleted": false,
 			"id": "wySwFdwkasVfisK-avrdX",
 			"fillStyle": "hachure",
@@ -6588,8 +6588,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1212345477,
+			"version": 50,
+			"versionNonce": 1733995511,
 			"isDeleted": false,
 			"id": "b13_dTUFlFpej0a2jWmvV",
 			"fillStyle": "hachure",
@@ -6707,8 +6707,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 51628619,
+			"version": 47,
+			"versionNonce": 1374647033,
 			"isDeleted": false,
 			"id": "F4osejPVKWYidpCDzKqHP",
 			"fillStyle": "hachure",
@@ -6811,8 +6811,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1084036069,
+			"version": 67,
+			"versionNonce": 489690391,
 			"isDeleted": false,
 			"id": "XfbMToQNK91I98yZ6tHQi",
 			"fillStyle": "hachure",
@@ -7015,8 +7015,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1918519531,
+			"version": 57,
+			"versionNonce": 492350425,
 			"isDeleted": false,
 			"id": "gQgMmtEMfu6qmYUOhaUep",
 			"fillStyle": "hachure",
@@ -7164,8 +7164,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 771444549,
+			"version": 39,
+			"versionNonce": 45832759,
 			"isDeleted": false,
 			"id": "50Q1vtFU1WfIvdxTzqXul",
 			"fillStyle": "hachure",
@@ -7228,8 +7228,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1033368459,
+			"version": 52,
+			"versionNonce": 484952249,
 			"isDeleted": false,
 			"id": "85OQRko4FbySN8T3Q--r3",
 			"fillStyle": "hachure",
@@ -7352,8 +7352,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 2126192293,
+			"version": 39,
+			"versionNonce": 1558248279,
 			"isDeleted": false,
 			"id": "S0QwE38SPjboAabx8-eNW",
 			"fillStyle": "hachure",
@@ -7416,8 +7416,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 889670187,
+			"version": 50,
+			"versionNonce": 440420761,
 			"isDeleted": false,
 			"id": "ENqtIfMewcrB87Jer7aLV",
 			"fillStyle": "hachure",
@@ -7530,8 +7530,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 2039087621,
+			"version": 52,
+			"versionNonce": 1609922679,
 			"isDeleted": false,
 			"id": "DJP2UWkuvofxv1dOlvtBY",
 			"fillStyle": "hachure",
@@ -7654,8 +7654,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1033030859,
+			"version": 58,
+			"versionNonce": 1586867833,
 			"isDeleted": false,
 			"id": "sj23GupWo9uCTerhuGQ1D",
 			"fillStyle": "hachure",
@@ -7808,8 +7808,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 862288229,
+			"version": 53,
+			"versionNonce": 1102926231,
 			"isDeleted": false,
 			"id": "cvYQwYW_CnRPwl7BHxYnC",
 			"fillStyle": "hachure",
@@ -7937,8 +7937,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 987036523,
+			"version": 38,
+			"versionNonce": 1084979033,
 			"isDeleted": false,
 			"id": "2ulwgx8y2zID7Jipw8XI4",
 			"fillStyle": "hachure",
@@ -7996,8 +7996,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1167787205,
+			"version": 41,
+			"versionNonce": 191694519,
 			"isDeleted": false,
 			"id": "6uBR_ldaoVmEAATUQDAr6",
 			"fillStyle": "hachure",
@@ -8070,8 +8070,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 957896203,
+			"version": 45,
+			"versionNonce": 1926571065,
 			"isDeleted": false,
 			"id": "VOtZhPs7Dfu3sQPmxjEkh",
 			"fillStyle": "hachure",
@@ -8164,8 +8164,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1137189925,
+			"version": 37,
+			"versionNonce": 732501975,
 			"isDeleted": false,
 			"id": "QxGmo3NMHaKr-OY0XfUWj",
 			"fillStyle": "hachure",
@@ -8213,8 +8213,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1465343147,
+			"version": 37,
+			"versionNonce": 284570905,
 			"isDeleted": false,
 			"id": "k_XlHnIVVW5bdTXB655Cr",
 			"fillStyle": "hachure",
@@ -8262,8 +8262,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1910134661,
+			"version": 54,
+			"versionNonce": 1216742647,
 			"isDeleted": false,
 			"id": "IVjzi2CkF17WsQKZmUTBM",
 			"fillStyle": "hachure",
@@ -8396,8 +8396,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1899794251,
+			"version": 50,
+			"versionNonce": 1854024185,
 			"isDeleted": false,
 			"id": "X-O1GEHl6oS8Nv3p5cv64",
 			"fillStyle": "hachure",
@@ -8515,8 +8515,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 974069477,
+			"version": 48,
+			"versionNonce": 1367887383,
 			"isDeleted": false,
 			"id": "ZRbN3Nu-_Cdu3viZyoodb",
 			"fillStyle": "hachure",
@@ -8619,8 +8619,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 153251307,
+			"version": 48,
+			"versionNonce": 612139737,
 			"isDeleted": false,
 			"id": "HLvPQZOyP7xrXElZiRA-q",
 			"fillStyle": "hachure",
@@ -8728,8 +8728,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1660156485,
+			"version": 42,
+			"versionNonce": 1369731895,
 			"isDeleted": false,
 			"id": "k-iNQ2fnxbxkzeR3yywRJ",
 			"fillStyle": "hachure",
@@ -8807,8 +8807,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1913878667,
+			"version": 39,
+			"versionNonce": 1601748921,
 			"isDeleted": false,
 			"id": "9cSYphlQkJJFMhJUNs43B",
 			"fillStyle": "hachure",
@@ -8866,8 +8866,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 90597797,
+			"version": 54,
+			"versionNonce": 20902999,
 			"isDeleted": false,
 			"id": "AHuj2gTicS9OSaqFwGD5Z",
 			"fillStyle": "hachure",
@@ -9005,8 +9005,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 969551659,
+			"version": 50,
+			"versionNonce": 1838833817,
 			"isDeleted": false,
 			"id": "V92y8DmP9NNNZ8-Xj-yAk",
 			"fillStyle": "hachure",
@@ -9124,8 +9124,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1116990725,
+			"version": 48,
+			"versionNonce": 405557623,
 			"isDeleted": false,
 			"id": "Svl1o-vhjyStPgZiSJN_x",
 			"fillStyle": "hachure",
@@ -9228,8 +9228,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1387336139,
+			"version": 41,
+			"versionNonce": 211084665,
 			"isDeleted": false,
 			"id": "w4c8PxHuqHWpZxT4jt1XQ",
 			"fillStyle": "hachure",
@@ -9302,8 +9302,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 972686437,
+			"version": 39,
+			"versionNonce": 1605438103,
 			"isDeleted": false,
 			"id": "ML0BoBMdJYbHTmiVECPkL",
 			"fillStyle": "hachure",
@@ -9366,8 +9366,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 2112004203,
+			"version": 48,
+			"versionNonce": 2007748185,
 			"isDeleted": false,
 			"id": "HzzQgZqpRrh6k9cOtMQbR",
 			"fillStyle": "hachure",
@@ -9475,8 +9475,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1293337221,
+			"version": 36,
+			"versionNonce": 75603895,
 			"isDeleted": false,
 			"id": "V0DvmVJc4brbFhU9UYC25",
 			"fillStyle": "hachure",
@@ -9544,8 +9544,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1183863883,
+			"version": 49,
+			"versionNonce": 900897593,
 			"isDeleted": false,
 			"id": "3xWz4tfteb6Mhget5wxj4",
 			"fillStyle": "hachure",
@@ -9678,8 +9678,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1753623013,
+			"version": 30,
+			"versionNonce": 683839703,
 			"isDeleted": false,
 			"id": "aMQ5Fxv2W-MAW4vNymdVA",
 			"fillStyle": "hachure",
@@ -9717,8 +9717,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1773507307,
+			"version": 50,
+			"versionNonce": 655150105,
 			"isDeleted": false,
 			"id": "ZtJraKDl7gscoblsxkT4w",
 			"fillStyle": "hachure",
@@ -9856,8 +9856,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1683072325,
+			"version": 35,
+			"versionNonce": 906518007,
 			"isDeleted": false,
 			"id": "2az0wAJ8sAnOAPyikzScU",
 			"fillStyle": "hachure",
@@ -9920,8 +9920,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 2130312587,
+			"version": 50,
+			"versionNonce": 1403904249,
 			"isDeleted": false,
 			"id": "vNQt5mZw0ejd7xAWwQILc",
 			"fillStyle": "hachure",
@@ -10059,8 +10059,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 64402597,
+			"version": 43,
+			"versionNonce": 1868007191,
 			"isDeleted": false,
 			"id": "X74IVMlFllegqm3Nk3JWN",
 			"fillStyle": "hachure",
@@ -10163,8 +10163,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1368921131,
+			"version": 44,
+			"versionNonce": 2031704537,
 			"isDeleted": false,
 			"id": "jUA8q0NoK4RxSjm3tJ245",
 			"fillStyle": "hachure",
@@ -10272,8 +10272,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1120065541,
+			"version": 41,
+			"versionNonce": 1126468663,
 			"isDeleted": false,
 			"id": "QabdsaEc4IJ9KFYmZtwAt",
 			"fillStyle": "hachure",
@@ -10361,8 +10361,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1635407563,
+			"version": 44,
+			"versionNonce": 1482864313,
 			"isDeleted": false,
 			"id": "j-1SrL_fRbtdv9ZiZ5eu9",
 			"fillStyle": "hachure",
@@ -10470,8 +10470,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1259573093,
+			"version": 35,
+			"versionNonce": 1565781335,
 			"isDeleted": false,
 			"id": "F9yFedWdnZzEfdme44neF",
 			"fillStyle": "hachure",
@@ -10534,8 +10534,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1295730027,
+			"version": 33,
+			"versionNonce": 1143830425,
 			"isDeleted": false,
 			"id": "wnuPQYcSwti8c4dmtKLmq",
 			"fillStyle": "hachure",
@@ -10583,8 +10583,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 722885317,
+			"version": 45,
+			"versionNonce": 2033855095,
 			"isDeleted": false,
 			"id": "6BUMm1Gp9O--E7el5HOk8",
 			"fillStyle": "hachure",
@@ -10697,8 +10697,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 2082824203,
+			"version": 42,
+			"versionNonce": 1856838777,
 			"isDeleted": false,
 			"id": "a5nLndD-9agMavk714rh3",
 			"fillStyle": "hachure",
@@ -10796,8 +10796,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1265154597,
+			"version": 48,
+			"versionNonce": 1939587991,
 			"isDeleted": false,
 			"id": "8ChP-GeIPrfZTRFJY01Nn",
 			"fillStyle": "hachure",
@@ -10925,8 +10925,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 137569963,
+			"version": 34,
+			"versionNonce": 2007311705,
 			"isDeleted": false,
 			"id": "Td17dCcFqtKu1anOQj6rX",
 			"fillStyle": "hachure",
@@ -10979,8 +10979,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 620244357,
+			"version": 34,
+			"versionNonce": 481114295,
 			"isDeleted": false,
 			"id": "r4DJwv64w1jgjj2unYmKH",
 			"fillStyle": "hachure",
@@ -11033,8 +11033,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1745819979,
+			"version": 38,
+			"versionNonce": 979964473,
 			"isDeleted": false,
 			"id": "j5E0lGZlnwUiYU6WxCJz5",
 			"fillStyle": "hachure",
@@ -11112,8 +11112,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 922891493,
+			"version": 39,
+			"versionNonce": 1242761687,
 			"isDeleted": false,
 			"id": "a_atPqB2zfZTbMlCU-CmG",
 			"fillStyle": "hachure",
@@ -11191,8 +11191,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1494464491,
+			"version": 46,
+			"versionNonce": 1541169945,
 			"isDeleted": false,
 			"id": "GOPZwpZJDPBBTJs9pYsp_",
 			"fillStyle": "hachure",
@@ -11310,8 +11310,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1024741445,
+			"version": 39,
+			"versionNonce": 685881079,
 			"isDeleted": false,
 			"id": "nN6aUd7ngvDceD5g1eQoE",
 			"fillStyle": "hachure",
@@ -11389,8 +11389,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 155943563,
+			"version": 43,
+			"versionNonce": 410163193,
 			"isDeleted": false,
 			"id": "aQ_7tFS0YWAa7Ncwu2L87",
 			"fillStyle": "hachure",
@@ -11493,8 +11493,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 621543333,
+			"version": 38,
+			"versionNonce": 1335738391,
 			"isDeleted": false,
 			"id": "9s9QH2bb8BGmJPXZNo28g",
 			"fillStyle": "hachure",
@@ -11572,8 +11572,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 24181035,
+			"version": 41,
+			"versionNonce": 1378824409,
 			"isDeleted": false,
 			"id": "ranU7fggYG1d2ac9sfVJi",
 			"fillStyle": "hachure",
@@ -11661,8 +11661,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1159119621,
+			"version": 54,
+			"versionNonce": 272344375,
 			"isDeleted": false,
 			"id": "yEK-TiVdSW1smeN7FhbZ1",
 			"fillStyle": "hachure",
@@ -11820,8 +11820,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1324260299,
+			"version": 38,
+			"versionNonce": 1587916217,
 			"isDeleted": false,
 			"id": "T01ig1w9cKXT-GTlmh1zP",
 			"fillStyle": "hachure",
@@ -11899,8 +11899,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1370626661,
+			"version": 34,
+			"versionNonce": 169862743,
 			"isDeleted": false,
 			"id": "lFc5Odklie6sx8mn5sD7b",
 			"fillStyle": "hachure",
@@ -11958,8 +11958,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1843325547,
+			"version": 42,
+			"versionNonce": 351899289,
 			"isDeleted": false,
 			"id": "LWQY6OQ57iHqscwvEKpzW",
 			"fillStyle": "hachure",
@@ -12057,8 +12057,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 330008005,
+			"version": 47,
+			"versionNonce": 2082407287,
 			"isDeleted": false,
 			"id": "pGt6Eca4ASIx0ZSVrCZ65",
 			"fillStyle": "hachure",
@@ -12181,8 +12181,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1930192139,
+			"version": 49,
+			"versionNonce": 467555193,
 			"isDeleted": false,
 			"id": "tnGP6XAx_7jXTmyylCvhT",
 			"fillStyle": "hachure",
@@ -12310,8 +12310,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1579189541,
+			"version": 36,
+			"versionNonce": 1451064471,
 			"isDeleted": false,
 			"id": "oLPpP-nr8ek0AIGksKcRP",
 			"fillStyle": "hachure",
@@ -12379,8 +12379,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1978764203,
+			"version": 35,
+			"versionNonce": 2006416473,
 			"isDeleted": false,
 			"id": "kjj1aJRroluthyGuxXgkA",
 			"fillStyle": "hachure",
@@ -12443,8 +12443,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1149147269,
+			"version": 45,
+			"versionNonce": 217043383,
 			"isDeleted": false,
 			"id": "apeVbr9krzyVHxtMdGtE8",
 			"fillStyle": "hachure",
@@ -12557,8 +12557,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 985194059,
+			"version": 42,
+			"versionNonce": 1475905849,
 			"isDeleted": false,
 			"id": "kfRVJvRTtqUZPatQ7RMbM",
 			"fillStyle": "hachure",
@@ -12656,8 +12656,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 277037029,
+			"version": 42,
+			"versionNonce": 681214679,
 			"isDeleted": false,
 			"id": "BN9UrsdR50grTIbfOjmbe",
 			"fillStyle": "hachure",
@@ -12755,8 +12755,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 473750763,
+			"version": 39,
+			"versionNonce": 644151833,
 			"isDeleted": false,
 			"id": "gIjj2RKvVX63ETOwtZViu",
 			"fillStyle": "hachure",
@@ -12839,8 +12839,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 2017196869,
+			"version": 65,
+			"versionNonce": 437391351,
 			"isDeleted": false,
 			"id": "G195MxEiaBrOsLgZj7b5s",
 			"fillStyle": "hachure",
@@ -13053,8 +13053,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 906495883,
+			"version": 32,
+			"versionNonce": 1406160633,
 			"isDeleted": false,
 			"id": "q3YaD_PYmTVOdZAM475YT",
 			"fillStyle": "hachure",
@@ -13097,8 +13097,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 344960517,
+			"version": 35,
+			"versionNonce": 1264253207,
 			"isDeleted": false,
 			"id": "1CgZS7-REtRYJPrziW7IE",
 			"fillStyle": "hachure",
@@ -13171,8 +13171,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 909515,
+			"version": 35,
+			"versionNonce": 1723729881,
 			"isDeleted": false,
 			"id": "6Zo-uGtfLSg4iCH9pts4e",
 			"fillStyle": "hachure",
@@ -13245,8 +13245,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 953525605,
+			"version": 56,
+			"versionNonce": 1911143991,
 			"isDeleted": false,
 			"id": "ox5q7UQ5MNFyY0SBboYTg",
 			"fillStyle": "hachure",
@@ -13424,8 +13424,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 617451371,
+			"version": 51,
+			"versionNonce": 1229038777,
 			"isDeleted": false,
 			"id": "0_vtOMQwAqRySd22Jw5om",
 			"fillStyle": "hachure",
@@ -13578,8 +13578,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 69578949,
+			"version": 70,
+			"versionNonce": 547544919,
 			"isDeleted": false,
 			"id": "0KakxkUb6_FGXLJMXQb2Z",
 			"fillStyle": "hachure",
@@ -13827,8 +13827,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 2128505355,
+			"version": 68,
+			"versionNonce": 1459529113,
 			"isDeleted": false,
 			"id": "jdhf9P_rOB0sDRPBOsO7j",
 			"fillStyle": "hachure",
@@ -14066,8 +14066,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 874336293,
+			"version": 49,
+			"versionNonce": 433773687,
 			"isDeleted": false,
 			"id": "2V6dtm2SQSTsnzFx3Aiqf",
 			"fillStyle": "hachure",
@@ -14205,8 +14205,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 591065259,
+			"version": 43,
+			"versionNonce": 724077177,
 			"isDeleted": false,
 			"id": "zNlsE2FTDINbrEXNgzb7p",
 			"fillStyle": "hachure",
@@ -14314,8 +14314,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1990853509,
+			"version": 44,
+			"versionNonce": 1633039767,
 			"isDeleted": false,
 			"id": "ZNU0lnFlmUB9R6dID0yLd",
 			"fillStyle": "hachure",
@@ -14433,8 +14433,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 596484939,
+			"version": 45,
+			"versionNonce": 780325721,
 			"isDeleted": false,
 			"id": "cvHXmzz8lWLiWkj_Iud9S",
 			"fillStyle": "hachure",
@@ -14557,8 +14557,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1611221733,
+			"version": 32,
+			"versionNonce": 239692471,
 			"isDeleted": false,
 			"id": "nYftUbPqsOushjy--CdJG",
 			"fillStyle": "hachure",
@@ -14611,8 +14611,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 2016477675,
+			"version": 30,
+			"versionNonce": 1700855865,
 			"isDeleted": false,
 			"id": "lmAGxDxg0-sp_RutR5MtD",
 			"fillStyle": "hachure",
@@ -14655,8 +14655,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 550020677,
+			"version": 55,
+			"versionNonce": 1566112727,
 			"isDeleted": false,
 			"id": "yedyl0wjlUwMMehBzPegz",
 			"fillStyle": "hachure",
@@ -14829,8 +14829,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 707759243,
+			"version": 43,
+			"versionNonce": 2108068121,
 			"isDeleted": false,
 			"id": "of-nHOM6TbdxEVIvSbLZz",
 			"fillStyle": "hachure",
@@ -14943,8 +14943,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 2076546469,
+			"version": 40,
+			"versionNonce": 43608311,
 			"isDeleted": false,
 			"id": "xFtx55LhGPu8eTDiX2ENp",
 			"fillStyle": "hachure",
@@ -15042,8 +15042,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1027851051,
+			"version": 71,
+			"versionNonce": 482805241,
 			"isDeleted": false,
 			"id": "yyKdBHKClcDHd0AaShFfa",
 			"fillStyle": "hachure",
@@ -15296,8 +15296,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 2083363077,
+			"version": 45,
+			"versionNonce": 999240215,
 			"isDeleted": false,
 			"id": "Sh0BlSQykfU4lDRq9M9P2",
 			"fillStyle": "hachure",
@@ -15420,8 +15420,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1507337675,
+			"version": 34,
+			"versionNonce": 1841684185,
 			"isDeleted": false,
 			"id": "cDQQAGjbin014I1OWuXl4",
 			"fillStyle": "hachure",
@@ -15484,8 +15484,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1803432037,
+			"version": 30,
+			"versionNonce": 556717879,
 			"isDeleted": false,
 			"id": "9v8EPCUGw0WTkHAfRZ9Cy",
 			"fillStyle": "hachure",
@@ -15528,8 +15528,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 923219051,
+			"version": 45,
+			"versionNonce": 1865849785,
 			"isDeleted": false,
 			"id": "57-hWDnMpIsQqcpOUy1ux",
 			"fillStyle": "hachure",
@@ -15652,8 +15652,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 126147525,
+			"version": 40,
+			"versionNonce": 970774615,
 			"isDeleted": false,
 			"id": "Lzk1zmXqp71lO86F1kZvn",
 			"fillStyle": "hachure",
@@ -15746,8 +15746,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1151037195,
+			"version": 39,
+			"versionNonce": 20757657,
 			"isDeleted": false,
 			"id": "JV6grm3lF40BzZgD0MGRB",
 			"fillStyle": "hachure",
@@ -15840,8 +15840,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 2019498789,
+			"version": 40,
+			"versionNonce": 1265481079,
 			"isDeleted": false,
 			"id": "LUfAD41uVL9e5D14ZVRbQ",
 			"fillStyle": "hachure",
@@ -15939,8 +15939,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 353326507,
+			"version": 50,
+			"versionNonce": 864797049,
 			"isDeleted": false,
 			"id": "Z4WsBA7TUr1ZkaT4Z1r9M",
 			"fillStyle": "hachure",
@@ -16088,8 +16088,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 278156773,
+			"version": 43,
+			"versionNonce": 1831202455,
 			"isDeleted": false,
 			"id": "qcfINPfJXl50u0Wl84Uzu",
 			"fillStyle": "hachure",
@@ -16212,8 +16212,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 837822187,
+			"version": 44,
+			"versionNonce": 1399269977,
 			"isDeleted": false,
 			"id": "Pu6BfCWjTtrtNqUavbVBf",
 			"fillStyle": "hachure",
@@ -16336,8 +16336,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1102729541,
+			"version": 31,
+			"versionNonce": 1505362871,
 			"isDeleted": false,
 			"id": "sEiyp7jK_Lj3U4Gn0N0uk",
 			"fillStyle": "hachure",
@@ -16400,8 +16400,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 180490635,
+			"version": 40,
+			"versionNonce": 966948665,
 			"isDeleted": false,
 			"id": "MN7j4oPnOQqfid1LpJkcB",
 			"fillStyle": "hachure",
@@ -16509,8 +16509,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1190167557,
+			"version": 41,
+			"versionNonce": 21918935,
 			"isDeleted": false,
 			"id": "8mu57fUDABOAzmt-CV7Q1",
 			"fillStyle": "hachure",
@@ -16633,8 +16633,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 684263109,
+			"version": 35,
+			"versionNonce": 1486956569,
 			"isDeleted": false,
 			"id": "3pv3SdV00WNcqmUqLHep1",
 			"fillStyle": "hachure",
@@ -16742,8 +16742,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1766028299,
+			"version": 26,
+			"versionNonce": 1534575095,
 			"isDeleted": false,
 			"id": "iMFHm98b1lRMeBa_Y18pW",
 			"fillStyle": "hachure",
@@ -16801,8 +16801,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 1441130021,
+			"version": 23,
+			"versionNonce": 173456633,
 			"isDeleted": false,
 			"id": "XFCOFJzWib5kkZ7cs8F0c",
 			"fillStyle": "hachure",
@@ -16845,8 +16845,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1349434027,
+			"version": 36,
+			"versionNonce": 2033871639,
 			"isDeleted": false,
 			"id": "xQ-sorzaGeYRSvSPRWkHQ",
 			"fillStyle": "hachure",
@@ -16954,8 +16954,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1055906181,
+			"version": 34,
+			"versionNonce": 507950553,
 			"isDeleted": false,
 			"id": "s_pEWeAluLqOPbH8HzSf3",
 			"fillStyle": "hachure",
@@ -17058,8 +17058,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1270361419,
+			"version": 31,
+			"versionNonce": 1460334647,
 			"isDeleted": false,
 			"id": "6PTzdFlMa4xEO947zb4Lw",
 			"fillStyle": "hachure",
@@ -17142,8 +17142,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 220487909,
+			"version": 30,
+			"versionNonce": 662999737,
 			"isDeleted": false,
 			"id": "5wPJ06Zbbltd8fQi2X1-1",
 			"fillStyle": "hachure",
@@ -17226,8 +17226,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 242895851,
+			"version": 38,
+			"versionNonce": 1858982231,
 			"isDeleted": false,
 			"id": "lO1ZjNQ_Dr2P_FamckCCx",
 			"fillStyle": "hachure",
@@ -17345,8 +17345,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1712389189,
+			"version": 33,
+			"versionNonce": 179557273,
 			"isDeleted": false,
 			"id": "e4je14v3_JynTGf8QNRJD",
 			"fillStyle": "hachure",
@@ -17444,8 +17444,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1666481675,
+			"version": 37,
+			"versionNonce": 165121655,
 			"isDeleted": false,
 			"id": "qDDYytHSMqcTPH4jZLahx",
 			"fillStyle": "hachure",
@@ -17588,8 +17588,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1001339339,
+			"version": 25,
+			"versionNonce": 1275590777,
 			"isDeleted": false,
 			"id": "J8S2TqHcN3t2JVHRBrV7A",
 			"fillStyle": "hachure",
@@ -17672,8 +17672,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 8,
-			"versionNonce": 1262124107,
+			"version": 21,
+			"versionNonce": 1391241111,
 			"isDeleted": false,
 			"id": "LA-8iGPUZFW4jC3YQMyOS",
 			"fillStyle": "hachure",
@@ -17736,8 +17736,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 34685259,
+			"version": 29,
+			"versionNonce": 491028825,
 			"isDeleted": false,
 			"id": "JwzTjHPAxqCC23EjPFZV3",
 			"fillStyle": "hachure",
@@ -17836,6 +17836,225 @@ excalidraw-plugin: parsed
 				0.572265625,
 				0.056640625,
 				0
+			]
+		},
+		{
+			"id": "UOOQMMAYn8Utz9qRvWyBX",
+			"type": "freedraw",
+			"x": 4220.7881585984005,
+			"y": 720.5602569580078,
+			"width": 235.19989013671875,
+			"height": 391.2001037597656,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 733802041,
+			"version": 14,
+			"versionNonce": 1806327959,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-47.9998779296875,
+					-14.4000244140625
+				],
+				[
+					-71.99996948242188,
+					-2.400054931640625
+				],
+				[
+					-100.80001831054688,
+					21.60003662109375
+				],
+				[
+					-146.39999389648438,
+					67.20001220703125
+				],
+				[
+					-180,
+					112.79998779296875
+				],
+				[
+					-223.2000732421875,
+					194.4000244140625
+				],
+				[
+					-235.19989013671875,
+					268.800048828125
+				],
+				[
+					-225.5999755859375,
+					326.3999938964844
+				],
+				[
+					-196.80007934570312,
+					364.7999572753906
+				],
+				[
+					-163.19992065429688,
+					376.8000793457031
+				],
+				[
+					-131.99996948242188,
+					369.6000671386719
+				],
+				[
+					-131.99996948242188,
+					369.6000671386719
+				]
+			],
+			"pressures": [
+				0.029296875,
+				0.4208984375,
+				0.505859375,
+				0.58203125,
+				0.6591796875,
+				0.697265625,
+				0.7373046875,
+				0.7587890625,
+				0.765625,
+				0.7275390625,
+				0.4326171875,
+				0.021484375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-131.99996948242188,
+				369.6000671386719
+			]
+		},
+		{
+			"id": "UNGYDYYWXBfH9qPaC2Wqk",
+			"type": "freedraw",
+			"x": 4211.188091459729,
+			"y": 727.7602691650391,
+			"width": 271.199951171875,
+			"height": 396.00006103515625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1125832793,
+			"version": 19,
+			"versionNonce": 1165810745,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					7.20001220703125,
+					-7.20001220703125
+				],
+				[
+					12.000274658203125,
+					-2.400054931640625
+				],
+				[
+					19.20013427734375,
+					7.20001220703125
+				],
+				[
+					26.400146484375,
+					26.399993896484375
+				],
+				[
+					28.800048828125,
+					55.200042724609375
+				],
+				[
+					28.800048828125,
+					81.60003662109375
+				],
+				[
+					21.60003662109375,
+					122.40005493164062
+				],
+				[
+					12.000274658203125,
+					156.00006103515625
+				],
+				[
+					-7.20001220703125,
+					206.39999389648438
+				],
+				[
+					-43.199920654296875,
+					263.99993896484375
+				],
+				[
+					-81.5997314453125,
+					302.4000549316406
+				],
+				[
+					-141.59988403320312,
+					343.2000732421875
+				],
+				[
+					-189.59976196289062,
+					369.6000671386719
+				],
+				[
+					-215.99990844726562,
+					381.60003662109375
+				],
+				[
+					-237.59994506835938,
+					388.800048828125
+				],
+				[
+					-242.39990234375,
+					381.60003662109375
+				],
+				[
+					-242.39990234375,
+					381.60003662109375
+				]
+			],
+			"pressures": [
+				0.0126953125,
+				0.294921875,
+				0.3525390625,
+				0.4423828125,
+				0.55078125,
+				0.6748046875,
+				0.75,
+				0.8037109375,
+				0.826171875,
+				0.8486328125,
+				0.8662109375,
+				0.888671875,
+				0.919921875,
+				0.9423828125,
+				0.94140625,
+				0.76171875,
+				0.0546875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-242.39990234375,
+				381.60003662109375
 			]
 		}
 	],

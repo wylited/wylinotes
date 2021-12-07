@@ -6589,7 +6589,7 @@ excalidraw-plugin: parsed
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "00000",
 		"currentItemStrokeColor": "#ffffff",
 		"currentItemBackgroundColor": "transparent",

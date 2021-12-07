@@ -1,5 +1,23 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabeticalReverse"
+  "fileSortOrder": "alphabeticalReverse",
+  "trashOption": "local",
+  "showUnsupportedFiles": false,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckDictionary": [
+    "protoctists",
+    "backend",
+    "tounge"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

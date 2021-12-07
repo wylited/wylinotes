@@ -7,5 +7,14 @@
   "code-block-copy",
   "obsidian-autocomplete-plugin",
   "obsidian-charts",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "calendar",
+  "dataview",
+  "obsidian-hider",
+  "obsidian-image-toolkit",
+  "quickadd",
+  "obsidian-git",
+  "obsidian-outliner",
+  "obsidian-html-tags-autocomplete"
 ]

@@ -2,11 +2,10 @@
   "baseFontSize": 17,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "folder",
     "hover",
-    "bulletpoints",
     "img"
   ]
 }
