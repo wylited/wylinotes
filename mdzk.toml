@@ -1,7 +1,11 @@
 [mdzk]
+backlinks-header = "Backlinks"
 authors = ["wylited"]
-ignore = []
 language = "en"
 multilingual = false
 src = "notes"
 title = "Wylinotes"
+ignore = [
+    "templates/",
+    ".obsidian/",
+]
