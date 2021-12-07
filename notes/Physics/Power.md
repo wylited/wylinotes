@@ -17,7 +17,7 @@ Describe and Explain what is meant by power.
 
 Power (W) = Work Done (J) / Time (S)
 Work Done (J) = Force (N) / Distance (M)
-#Power
+[[Power]]
 
 Power is a measure of the amount of work done used over a given time period.
 Power has a unit of Watt. Energy has a unit of Joule.
@@ -54,4 +54,4 @@ Work Done: 550 * 1.69 = 929.5 joules
 Time Taken: 2.65
 Power: 929.5 / 2.65 = 350.75
 
-#Physics_Formulas
+[[Physics_Formulas]]

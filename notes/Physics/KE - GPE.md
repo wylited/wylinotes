@@ -5872,7 +5872,7 @@ V = sqrt(KE/((1/2)*M) ^BV3BnMF0
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#ffffff",
+		"viewBackgroundColor": "[[ffffff]]",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",

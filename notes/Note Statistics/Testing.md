@@ -1,4 +1,4 @@
 # Test for js queries.
 ```dataview
-list from #Physics_Formulas 
+list from [[Physics_Formulas]] 
 ```

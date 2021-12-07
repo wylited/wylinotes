@@ -1,0 +1,113 @@
+{
+  "workspaces": {
+    "School work": {
+      "main": {
+        "id": "e773fb6ac1698cc8",
+        "type": "split",
+        "children": [
+          {
+            "id": "596a9fc636db3724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Composition/Letter.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a7b571b7cb6e8b28",
+        "type": "split",
+        "children": [
+          {
+            "id": "ab9b5e95b1f5343c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a32c7aaa8968d29",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b9522d4c9a612901",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245.00078010559082
+      },
+      "right": {
+        "id": "dcf65f88d25544cb",
+        "type": "split",
+        "children": [
+          {
+            "id": "204df60749023a95",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5bf19111656de9b5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "English/Composition/Letter.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "0118cec794e60df5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "English/Composition/Letter.md"
+                  }
+                }
+              },
+              {
+                "id": "d2391eca60d7ae44",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "596a9fc636db3724"
+    }
+  },
+  "active": "School work"
+}

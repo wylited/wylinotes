@@ -9,7 +9,7 @@ How to write a letter for the iGCSE composition unit part 1.
 
 ## Audience
 
-The #audience for a letter could be anyone. However, there are some common targets:
+The [[audience]] for a letter could be anyone. However, there are some common targets:
 
 - Local/National newspaper: a letter to the editor to express your **opinion**
 - Head of school or someone with power/is in charge. Raise concerns and suggestions that will affect the school community.
@@ -18,7 +18,7 @@ The #audience for a letter could be anyone. However, there are some common targe
 
 ## Structure
 
-All #structure of letters differ slightly, however they all have the similar structure.
+All [[structure]] of letters differ slightly, however they all have the similar structure.
 
 ### Opening paragraph (1-2 sentences):
 
@@ -44,4 +44,4 @@ All #structure of letters differ slightly, however they all have the similar str
     - 'Yours sincerely', if you have started the letter with their name (Dear Tom)
     - 'Yours faithfully', if you don't know their name.
 
-#English_Letters
+[[English_Letters]]

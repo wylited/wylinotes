@@ -9,3 +9,11 @@ ignore = [
     "templates/",
     ".obsidian/",
 ]
+
+[output.html]
+site-url = "/wylinotes"
+copy-fonts = true
+no-section-label = true
+
+[output.html.fold]
+enable = true

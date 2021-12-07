@@ -6,7 +6,7 @@ date created: 2021-12-07 21:12
 
 ## Kinetic Energy
 
-#Kinetic_Energy #KE #Energy
+[[Kinetic_Energy]] [[KE]] [[Energy]]
 $KE = \frac {mv^2}{2}$
 
 - Where:
@@ -20,7 +20,7 @@ $KE = \frac {mv^2}{2}$
 
 ## GPE (Gravitational Potential energy)
 
-#Gravitational_Potential_Energy #GPE #Energy
+[[Gravitational_Potential_Energy]] [[GPE]] [[Energy]]
 $GPE = mgh$
 
 - Where:
@@ -35,7 +35,7 @@ $GPE = mgh$
 
 ## Work Done
 
-#Work_Done is defined as the multiplication of magnitude of displacement d and the component of the force that is in the direction of displacement.
+[[Work_Done]] is defined as the multiplication of magnitude of displacement d and the component of the force that is in the direction of displacement.
 $Work = FD$
 
 - Where:
@@ -47,7 +47,7 @@ $Work = FD$
 
 ## Density
 
-#Density
+[[Density]]
 $ρ = d = \frac {m}{V}$
 
 - Where:
@@ -60,7 +60,7 @@ $ρ = d = \frac {m}{V}$
 
 ## Pressure
 
-#Pressure
+[[Pressure]]
 $P = \frac {F}{A}$
 
 - Where:
@@ -70,4 +70,4 @@ $P = \frac {F}{A}$
 - Rearrangements
   - Solve for force, $F =$
 
-#Physics_Formulas
+[[Physics_Formulas]]

@@ -37,6 +37,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -216,6 +217,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -290,6 +292,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -354,6 +357,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -503,6 +507,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -657,6 +662,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -786,6 +792,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -835,6 +842,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -939,6 +947,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -1103,6 +1112,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -1247,6 +1257,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013975,
 			"points": [
 				[
 					0,
@@ -1426,6 +1437,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1495,6 +1507,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1559,6 +1572,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1648,6 +1662,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1722,6 +1737,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1796,6 +1812,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1860,6 +1877,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -1934,6 +1952,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -2038,6 +2057,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -2137,6 +2157,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -2251,6 +2272,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -2420,6 +2442,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -2554,6 +2577,7 @@ excalidraw-plugin: parsed
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
+			"updated": 1638885013976,
 			"points": [
 				[
 					0,
@@ -2698,8 +2722,8 @@ excalidraw-plugin: parsed
 		}
 	],
 	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
+		"theme": "dark",
+		"viewBackgroundColor": "[[ffffff]]",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
