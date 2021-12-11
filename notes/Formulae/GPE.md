@@ -21,3 +21,4 @@ $GPE = mgh$
 - Solve for mass $m = \frac {gh}{GPE}$
 - Solve for height $h = \frac {mg}{GPE}$
 - Solve for gravity $g = \frac {mh}{GPE}$
+

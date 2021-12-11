@@ -8,6 +8,15 @@ date created: 2021-12-07 21:12
 
 Physics is made up of several, several formulae. This sub-folder contains all that I have learned, for quick and easy access.
 
+Here is a list of them
+
+- [[Kinetic Energy]]
+- [[GPE]]
+- [[Work Done]]
+- [[Density]]
+- [[Acceleration]]
+- [[Pressure]]
+
 ## Work Done
 
 [[Work Done]] is defined as the multiplication of magnitude of displacement d and the component of the force that is in the direction of displacement.

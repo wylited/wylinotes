@@ -1,19 +1,30 @@
 ---
 title: Work Done
-description: The formula for calculating work done
-date created: 2021-12-11 04:34
+description: Formula for calculating the work done.
+date created: 2021-12-11 21:17
+date updated: 2021-12-11 21:23
 ---
+
+[[Formulae]],
 
 # Work Done
 
-[[Formulae]]
+$w = F ⋅ s ⋅ cos(Θ)$  (Solve for work)
 
-Work Done is defined as the multiplication of magnitude of displacement **d** and the component of the force that is in the direction of displacement.
-$Work = FD$
+## Where:
 
-- Where:
-  - Work is given in Joules, 1 Joule is a newton of force through a displacement of a metre.
-  - Force, given in newtons.
-  - Distance, given in meters.
-- Rearrangements:
-  - This is simple, do I really need to tell you?
+- W is work, given in Joules. (Scalar)
+- F is force, given in newtons. (Vector)
+- s is displacement, given in meters. (Vector)
+- Θ is the angle between the force vector F and the displacement vector s, given in radians or degrees. (Scalar)
+
+## Rearrangements:
+
+- Solve for force, $F = \frac {s ⋅ cos(Θ)}{w}$
+- Solve for displacement, $s = \frac {F ⋅ cos(Θ)}{w}$
+- Solve for angle, $Θ = cos^-1( \frac {F ⋅ s}{w} )$
+
+## Extra information
+
+- Work is a scalar unit, this is because force and displacement are both vector units. 
+- Work done is calculated for when force and displacement are in the same direction, which is why `cos(Θ)` is required.

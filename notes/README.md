@@ -9,6 +9,6 @@ An index of notes can be found to the left in the sidebar if you are viewing the
 
 A search tool (hotkey: s) is also available to quickly search through all of the notes to find which ones you need.
 
-Date created: 2021-11-12 04:53.
+Date created: 2021-11-12 04:53 am.
 
-<sub>The time really shows that I went through something in an all nighter.</sub>
+<sub>The time made really shows that I went through something in an all nighter.</sub>
