@@ -1,0 +1,10 @@
+{
+	"id": "provisionary",
+	"name": "Provisionary",
+	"version": "0.0.1",
+	"minAppVersion": "0.12.5",
+	"description": "Custom plugin for wylited.",
+	"author": "Wylited",
+	"authorUrl": "https://wylited.me",
+	"isDesktopOnly": false
+}

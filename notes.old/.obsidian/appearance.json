@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 11,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "California Coast",
+  "enabledCssSnippets": [
+    "hover",
+    "img"
+  ],
+  "baseFontSizeAction": true
+}

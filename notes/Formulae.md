@@ -2,36 +2,9 @@
 date created: 2021-12-07 21:12
 ---
 
-# Collection of Formulas in Physics.
+# Collection of Formulae in Physics.
 
-## Kinetic Energy
-
-[[Kinetic_Energy]] [[KE]] [[Energy]]
-$KE = \frac {mv^2}{2}$
-
-- Where:
-  - Mass is in KG
-  - Velocity is in meters/second
-  - Kinetic Energy is in Joules
-
-- Rearrangements:
-  - Solve for velocity $m = \frac {2KE}{v^2}$
-  - Solve for mass $v = \sqrt \frac {KE}{\frac {m} {2}}$
-
-## GPE (Gravitational Potential energy)
-
-[[Gravitational_Potential_Energy]] [[GPE]] [[Energy]]
-$GPE = mgh$
-
-- Where:
-  - Mass (m) is in KG
-  - Gravity (g) is in meters / seconds
-  - Height (h) is in meters
-
-- Rearrangements:
-  - Solve for mass $m = \frac {gh}{GPE}$
-  - Solve for height $h = \frac {mg}{GPE}$
-  - Solve for gravity $g = \frac {mh}{GPE}$
+Physics is made up of several, several formulae. This sub-folder contains all that I have seen / learned.
 
 ## Work Done
 
@@ -70,4 +43,11 @@ $P = \frac {F}{A}$
 - Rearrangements
   - Solve for force, $F =$
 
+## Acceleration
+$A = \frac {ΔV}{S}$
+- Where:
+	- A is Acceleration, given in meters per second square (ms<sup>-2</sup>)
+	- ΔV is change in Velocity, given in meters per second.
+	- S is time, given in seconds.
+	- 
 [[Physics_Formulas]]
