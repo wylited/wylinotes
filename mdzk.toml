@@ -1,0 +1,20 @@
+[mdzk]
+authors = ["wylited"]
+ignore = [
+    "templates/",
+    ".obsidian/",
+]
+language = "en"
+multilingual = false
+src = "notes"
+title = "wylinotes"
+description = "A brain of knowledge I made, because I don't have one."
+
+
+[output.html]
+site-url = "/wylinotes"
+copy-fonts = false
+no-section-label = true
+
+[output.html.fold]
+enable = true

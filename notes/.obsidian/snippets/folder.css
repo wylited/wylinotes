@@ -1,0 +1,7 @@
+.nav-folder-children .nav-file-title-content:first-child::before {
+    content: '- ';
+}
+
+.nav-folder-children .nav-folder-title-content::before {
+    content: '📂 ';
+}

@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 11,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "hover",
+    "img"
+  ],
+  "baseFontSizeAction": true
+}
