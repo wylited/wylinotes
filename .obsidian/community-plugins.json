@@ -1,6 +1,5 @@
 [
   "obsidian-mind-map",
-  "obsidian-minimal-settings",
   "markdown-prettifier",
   "hotkeysplus-obsidian",
   "obsidian-excalidraw-plugin",
@@ -16,5 +15,8 @@
   "quickadd",
   "obsidian-git",
   "obsidian-outliner",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "cmenu-plugin",
+  "highlightr-plugin",
+  "obsidian-minimal-settings"
 ]
