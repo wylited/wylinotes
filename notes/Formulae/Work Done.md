@@ -3,13 +3,14 @@ title: Work Done
 description: Formula for calculating the work done.
 date created: 2021-12-11 21:17
 date updated: 2021-12-11 21:23
+state: finished
 ---
 
 [[Formulae]],
 
 # Work Done
 
-$w = F ⋅ s ⋅ cos(Θ)$  (Solve for work)
+## $w = F ⋅ s ⋅ cos(Θ)$  (Solving for work)
 
 ## Where:
 

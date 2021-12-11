@@ -2,23 +2,24 @@
 title: GPE
 description: The formula for calculating Gravitational potential energy.
 date created: 2021-12-11 04:34
+state: finished
 ---
 
 [[Formulae]], [[Energy]]
 
 # GPE (Gravitational Potential Energy)
 
-$GPE = mgh$
+## $GPE = m⋅g⋅h$
 
 ## Where:
 
-- Mass (m) is in KG
-- Gravity (g) is in meters / seconds
-- Height (h) is in meters
+- m is mass, given in kilogram
+- g is the Gravitational acceleration, given in ms<sup>1</sup>
+- h is the height, given in metres
 
 ## Rearrangements:
 
-- Solve for mass $m = \frac {gh}{GPE}$
-- Solve for height $h = \frac {mg}{GPE}$
-- Solve for gravity $g = \frac {mh}{GPE}$
+- Solve for mass $m = \frac {g⋅h}{GPE}$
+- Solve for height $h = \frac {m⋅g}{GPE}$
+- Solve for gravity $g = \frac {m⋅h}{GPE}$
 
