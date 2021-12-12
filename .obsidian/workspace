@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English Lang/Descriptive Planning.md",
-            "mode": "preview"
+            "file": "English Lang/English Lang.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Lang/Descriptive Planning.md",
+                "file": "English Lang/English Lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Lang/Descriptive Planning.md"
+                "file": "English Lang/English Lang.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Lang/Descriptive Planning.md",
+                "file": "English Lang/English Lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,15 @@
   },
   "active": "68f453aaa94ed9ea",
   "lastOpenFiles": [
-    "English Lang/Descriptive Planning.md",
-    "English Lang/Gothic Pieces.md",
-    "English Lang/Feature Article.md",
-    "English Lang/Directed Writing - Article.md",
+    "English Lang/English Lang.md",
     "English Lang/Descriptive Writing.md",
     "English Lang/Directed Writing.md",
-    "English Lang/English Lang.md",
-    "English Lang/Untitled.md",
-    "Biology Syllabus.md",
-    "Untitled.md"
+    "English Lang/Descriptive Planning.md",
+    "English Lang/Feature Article.md",
+    "English Lang/Gothic Pieces.md",
+    "English Lang/Letter.md",
+    "English Lang/Similes and Metaphors.md",
+    "English Lang/Directed Writing - Article.md",
+    "English Lang/Untitled.md"
   ]
 }
