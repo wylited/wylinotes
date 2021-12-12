@@ -17,6 +17,7 @@ jobs:
         with:
           crate: mdzk
           version: latest
+          use-tool-cache: true
 
       - name: Build ZK
         run: mdzk build
