@@ -167,12 +167,12 @@ Disabled features */
 
   --font-title:1.1em;
 
-  --h1:1.125em;
-  --h2:1.05em;
+  --h1:2.525em;
+  --h2:1.85em;
   --h3:1em;
   --h4:0.90em;
   --h5:0.85em;
-  --h6:0.85em;
+  --h6:0.75em;
 
   --h1-weight:600;
   --h2-weight:600;
@@ -181,17 +181,17 @@ Disabled features */
   --h5-weight:500;
   --h6-weight:400;
 
-  --normal-weight:400;   /* Switch to 300 if you want thinner default text */
-  --bold-weight:600;     /* Switch to 700 if you want thicker bold text */
-  --line-width:40rem;    /* Maximum characters per line */
+  --normal-weight:300;   /* Switch to 300 if you want thinner default text */
+  --bold-weight:650;     /* Switch to 700 if you want thicker bold text */
+  --line-width:50rem;    /* Maximum characters per line */
   --line-height:1.5;
-  --max-width:88%;       /* Amount of padding around the text, use 90% for narrower padding */
-  --nested-padding:3.5%; /* Amount of padding for quotes and transclusions */
+  --max-width:90%;       /* Amount of padding around the text, use 90% for narrower padding */
+  --nested-padding:3.0%; /* Amount of padding for quotes and transclusions */
   --icon-muted:0.5;
   --border-width:1px;
   --border-width-alt:1px;
 
-  --folding-offset:16px;
+  --folding-offset:15px;
 
   --radius-s:2px;
   --radius-m:5px;
