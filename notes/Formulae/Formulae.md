@@ -18,10 +18,3 @@ Here is a list of them
 - [[Acceleration]]
 - [[Fluid Pressure]]
 
-## Acceleration
-$A = \frac {ΔV}{S}$
-- Where:
-	- A is Acceleration, given in meters per second square (ms<sup>-2</sup>)
-	- ΔV is change in Velocity, given in meters per second.
-	- S is time, given in seconds.
-
