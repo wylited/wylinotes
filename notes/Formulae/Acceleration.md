@@ -9,7 +9,7 @@ state: empty
 
 # Acceleration
 
-## $$ A = \frac {ΔV}{t} $$ (Solving for A)
+## $$ A = \frac {ΔV}{t} $$ 
 
 ## Where:
 - A is acceleration, given in meters per second squared. (Vector)

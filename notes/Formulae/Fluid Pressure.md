@@ -9,7 +9,7 @@ state: empty
 
 # Fluid Pressure
 
-## $$ P = \frac {F}{A} $$ (Solving for x)
+## $$ P = \frac {F}{A} $$ 
 
 ## Where:
 - P is pressure, given in pascals. (Scalar)

@@ -10,7 +10,7 @@ state: finished
 
 # Work Done
 
-## $$ w = F ⋅ s ⋅ cos(Θ) $$  (Solving for work)
+## $$ w = F ⋅ s ⋅ cos(Θ) $$ 
 
 ## Where:
 

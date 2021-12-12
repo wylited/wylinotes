@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formulae/Fluid Pressure.md",
+            "file": "Formulae/Formulae.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulae/Fluid Pressure.md",
+                "file": "Formulae/Formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulae/Fluid Pressure.md"
+                "file": "Formulae/Formulae.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulae/Fluid Pressure.md",
+                "file": "Formulae/Formulae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,15 @@
   },
   "active": "5f075ebe8daa7565",
   "lastOpenFiles": [
-    "Formulae/Fluid Pressure.md",
-    "Formulae/Work Done.md",
-    "Formulae/Fluid Density.md",
-    "Formulae/Acceleration.md",
-    "Formulae/GPE.md",
+    "Formulae/Formulae.md",
     "Formulae/Kinetic Energy.md",
+    "Formulae/GPE.md",
+    "Formulae/Acceleration.md",
+    "Formulae/Fluid Density.md",
+    "Formulae/Work Done.md",
+    "Formulae/Fluid Pressure.md",
     "Kinematics/KE - GPE.md",
     "Kinematics/Kinematics.md",
-    "Kinematics/GPE and KE.md",
-    "Templates/A Formula.md"
+    "Kinematics/GPE and KE.md"
   ]
 }

@@ -9,7 +9,7 @@ state: finished
 
 # Kinetic Energy
 
-## $$ KE = \frac {m⋅V^2}{2} $$ (Solving for KE)
+## $$ KE = \frac {m⋅V^2}{2} $$
 
 ## Where:
 

@@ -8,7 +8,7 @@ date created: 2021-12-11 21:37
 
 # Fluid Density
 
-## $$ ρ = \frac {m}{V} $$ (Solving for ρ)
+## $$ ρ = \frac {m}{V} $$ 
 
 ## Where:
 - ρ is density, given in grams per cubic centimetre.

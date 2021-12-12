@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "fileSortOrder": "byCreatedTimeReverse",
   "trashOption": "local",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "strictLineBreaks": true,
   "spellcheck": true,
   "showFrontmatter": true,

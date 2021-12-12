@@ -9,7 +9,7 @@ state: finished
 
 # GPE (Gravitational Potential Energy)
 
-## $$ GPE = m⋅g⋅h $$ (Solving for GPE)
+## $$ GPE = m⋅g⋅h $$ 
 
 ## Where:
 
