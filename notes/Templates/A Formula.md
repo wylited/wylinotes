@@ -17,5 +17,5 @@ state: empty
 - z is c, given in foobar. (Scalar or Vector)
 	
 ## Rearrangements:
-- Solve for Y, $$ Y = xz $$
-- Solve for z, $$ z = \frac {Y}{z} $$
+- Solve for Y, $Y = xz$
+- Solve for z, $z = \frac {Y}{z}$

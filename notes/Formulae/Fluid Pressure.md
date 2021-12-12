@@ -1,6 +1,6 @@
 ---
 title: Fluid Pressure
-description: {{description}}
+description: A formula for calculating the pressure in a fluid
 date created: 2021-12-11 21:50
 state: empty
 ---

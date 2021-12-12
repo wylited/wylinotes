@@ -1,5 +1,5 @@
 ---
-title: Welcome to my collection of knowledge.
+title: Collection of knowledge.
 date updated: 2021-12-11 04:53
 ---
 

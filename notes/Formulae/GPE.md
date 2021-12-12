@@ -9,17 +9,17 @@ state: finished
 
 # GPE (Gravitational Potential Energy)
 
-## $GPE = m⋅g⋅h$
+## $$ GPE = m⋅g⋅h $$ (Solving for GPE)
 
 ## Where:
 
 - m is mass, given in kilogram
-- g is the Gravitational acceleration, given in ms<sup>1</sup>
+- g is the Gravitational acceleration, given in ms<sup>-1</sup>
 - h is the height, given in metres
 
 ## Rearrangements:
 
-- Solve for mass $m = \frac {g⋅h}{GPE}$
-- Solve for height $h = \frac {m⋅g}{GPE}$
-- Solve for gravity $g = \frac {m⋅h}{GPE}$
+- Solve for mass, $m = \frac {g⋅h}{GPE}$
+- Solve for height, $h = \frac {m⋅g}{GPE}$
+- Solve for gravity, $g = \frac {m⋅h}{GPE}$
 

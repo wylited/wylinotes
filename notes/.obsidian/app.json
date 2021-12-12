@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byCreatedTimeReverse",
   "trashOption": "local",
   "showUnsupportedFiles": false,
   "strictLineBreaks": true,
@@ -15,7 +15,8 @@
     "tounge",
     "Zettelkatsen",
     "webpage",
-    "nighter"
+    "nighter",
+    "subfield"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",
