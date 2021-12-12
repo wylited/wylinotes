@@ -1,13 +1,13 @@
 ---
 date created: 2021-11-24 17:59
-date updated: 2021-12-07 21:13
+date updated: 2021-12-12 19:30
 ---
 
 # English Notes
 
-## Metaphors and Similies
+## Metaphors and Similes
 
-### **Metaphor** | **Similies**.
+### **Metaphor** | **Similes**.
 
 - (M) Stronger but leaves room for the reader to understand themselves.
 - (S) More direct towards the reader and easier to write.
@@ -16,7 +16,7 @@ date updated: 2021-12-07 21:13
 
 - The moon was a ghostly galleon tossed upon cloudy seas  **✓** _Here you want to use a metaphor to guide the reader rather then tell them_
 
-- The moon was like a ghostly galleon tossed upon clouds that were like seas. **☒** _This similie gives too much information to the reader and overwhelms_
+- The moon was like a ghostly galleon tossed upon clouds that were like seas. **☒** _This simile gives too much information to the reader and overwhelms_
 
 ---
 
@@ -24,7 +24,7 @@ date updated: 2021-12-07 21:13
 
 ### They can become out of date and inappropriate.
 
-- _"I mounted minto the window-seat: gathering up my feet, I sat cross-legged, like a Turk."_ - Nowadays this wouldn't be alright to use.
+- _"I mounted into the window-seat: gathering up my feet, I sat cross-legged, like a Turk."_ - Nowadays this wouldn't be alright to use.
 
 ### They convey meaning beyond just the literal and you need to consider how they make the reader feel.
 
@@ -32,15 +32,15 @@ date updated: 2021-12-07 21:13
 
 ### They can be misinterpreted or pull the reader out of their suspension of disbelief if done poorly.
 
-- If you do a bad comparision it will stump the reader and pull them out of their imagination and confuse them, this makes your work less interesting.
+- If you do a bad comparison it will stump the reader and pull them out of their imagination and confuse them, this makes your work less interesting.
 
 ---
 
-## Writing a similie or metaphor.
+## Writing a simile or metaphor.
 
 - ### A looming gray figure cut through the clouds and with a snow cap holding it
 
-- ### A stamepede of childrens legs flurried like a group of bulls in a race.
+- ### A stampede of children's legs flurried like a group of bulls in a race.
 
 - ### Ash covered the sky like a blanket falling overhead blocking out the light.
 

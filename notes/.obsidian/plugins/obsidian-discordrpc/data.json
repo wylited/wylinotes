@@ -1,5 +1,5 @@
 {
-  "showVaultName": true,
+  "showVaultName": false,
   "showCurrentFileName": true,
   "showPopups": true,
   "customVaultName": "Wylinotes",
