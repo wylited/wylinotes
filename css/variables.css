@@ -11,42 +11,43 @@
 /* Themes */
 
 .light {
-    --bg: #fff;
-    --fg: #000;
-    --links: #008cff;
+    --bg: #2b2b2b;
+    --fg: #e3e3e3;
 
-    --sidebar-bg: #fafafa;
-    --sidebar-fg: #000;
-    --sidebar-non-existant: #aaa;
-    --sidebar-active: var(--links);
-    --sidebar-spacer: #eee;
+    --sidebar-bg: #1b1b1b;
+    --sidebar-fg: #e4e4e4;
+    --sidebar-non-existant: #949494;
+    --sidebar-active: rgb(150, 90, 90);
+    --sidebar-spacer: #222;
 
-    --scrollbar: #eee;
+    --scrollbar: #2b2b2b;
 
-    --icons: #aaa;
-    --icons-hover: var(--links);
+    --icons: #999;
+    --icons-hover: rgb(150, 90, 90);
+
+    --links: rgb(150, 90, 90);
 
     --inline-code-color: #301900;
 
-    --theme-popup-bg: #fff;
-    --theme-popup-border: #eee;
-    --theme-hover: #eee;
+    --theme-popup-bg: #000000;
+    --theme-popup-border: #2b2b2b;
+    --theme-hover: #2b2b2b;
 
-    --quote-bg: #fafafa;
-    --quote-border: #eee;
+    --quote-bg: #2b2b2b;
+    --quote-border: #2b2b2b;
 
     --table-border-color: hsl(0, 0%, 95%);
     --table-header-bg: hsl(0, 0%, 80%);
     --table-alternate-bg: hsl(0, 0%, 97%);
 
-    --searchbar-border-color: blue;
-    --searchbar-bg: #eee;
-    --searchbar-fg: #000;
-    --searchbar-shadow-color: #fff;
-    --searchresults-header-fg: #000;
-    --searchresults-border-color: #eee;
-    --searchresults-li-bg: #eee;
-    --search-mark-bg: #eee;
+    --searchbar-border-color: rgb(150, 90, 90);
+    --searchbar-bg: #2b2b2b;
+    --searchbar-fg: #e4e4e4;
+    --searchbar-shadow-color: #000;
+    --searchresults-header-fg: #e4e4e4;
+    --searchresults-border-color: #2b2b2b;
+    --searchresults-li-bg: #2b2b2b;
+    --search-mark-bg: #2b2b2b;
 }
 
 .dark {
