@@ -2,33 +2,38 @@
 title: Pressure Laws
 description: Relationship laws of pressure.
 date created: 2021-12-13 09:03
-state: empty
+state: finished
+date updated: 2021-12-13 19:21
 ---
 
-[[Formulae]], 
+[[Formulae]],
 
 # Boyle's Law
 
-## $$ x = \frac {Y}{z} $$ (Solving for x)
+## $P_1 V_1 = P_2 V_2$
 
 ## Where:
-- x is a, given in foo. (Scalar or Vector)
-- Y is b, given in bar. (Scalar or Vector)
-- z is c, given in foobar. (Scalar or Vector)
-	
-## Rearrangements:
-- Solve for Y, $Y = xz$
-- Solve for z, $z = \frac {Y}{z}$
+
+- $P_1$ is initial pressure, given in a unit of pressure (Scalar or Vector)
+- $P_2$ is final pressure, given in bar. (Scalar or Vector)
+- $V_1$ is initial volume, given in an unit of volume. (Scalar or Vector)
+- $V_2$ is final volume, given in an unit of volume that is the same as $V_1$'s unit.
+
+## Extra notes:
+
+- This law represents the inverse relationship between pressure and volume, **if** and only **if** temperature remains constant.
 
 # Pressure Law
 
-## $$ x = \frac {Y}{z} $$ (Solving for x)
+## $\frac {P_1}{T_1} = \frac {P_2}{T_2}$
 
 ## Where:
-- x is a, given in foo. (Scalar or Vector)
-- Y is b, given in bar. (Scalar or Vector)
-- z is c, given in foobar. (Scalar or Vector)
-	
-## Rearrangements:
-- Solve for Y, $Y = xz$
-- Solve for z, $z = \frac {Y}{z}$
+
+- $P_1$ is initial pressure, given in an unit of pressure. (Scalar)
+- $P_2$ is final pressure, given in an unit of pressure. (Scalar)
+- $V_1$ is initial temperature,, given in Kelvin. (Scalar)
+- $V_2$ is initial temperature,, given in Kelvin. (Scalar)
+
+## Extra notes:
+
+- This law represents the proportional relationship between pressure and temperature, **if** and only **if** volume remains constant.

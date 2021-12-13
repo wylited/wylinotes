@@ -5,75 +5,18 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Economics",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Comp Sci",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Biology",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:chemistry",
-      "color": {
-        "a": 1,
-        "rgb": 5431485
-      }
-    },
-    {
-      "query": "path:physics",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:DT",
-      "color": {
-        "a": 1,
-        "rgb": 12210912
-      }
-    },
-    {
-      "query": "path:English",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    }
-  ],
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.25016708996124,
-  "lineSizeMultiplier": 2.165,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.05833333333333,
+  "lineSizeMultiplier": 1.05833333333333,
   "collapse-forces": false,
-  "centerStrength": 0.256115492581206,
-  "repelStrength": 7.51771153589092,
-  "linkStrength": 0.777970859510761,
-  "linkDistance": 96,
-  "scale": 0.7779511050716985,
-  "close": true
+  "centerStrength": 0.307823129251701,
+  "repelStrength": 8.33333333333333,
+  "linkStrength": 0.508503401360544,
+  "linkDistance": 287,
+  "scale": 0.4107793175323342,
+  "close": false
 }

@@ -12,9 +12,9 @@ state: empty
 ## $$ x = \frac {Y}{z} $$
 
 ## Where:
-- x is a, given in foo. (Scalar or Vector)
-- Y is b, given in bar. (Scalar or Vector)
-- z is c, given in foobar. (Scalar or Vector)
+- $x$ is a, given in foo. (Scalar or Vector)
+- $Y$ is b, given in bar. (Scalar or Vector)
+- $z$ is c, given in foobar. (Scalar or Vector)
 	
 ## Rearrangements:
 - Solve for Y, $Y = xz$

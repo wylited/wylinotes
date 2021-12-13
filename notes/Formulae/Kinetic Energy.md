@@ -3,19 +3,20 @@ title: Kinetic Energy
 description: The formula for Kinetic Energy.
 date created: 2021-12-11 04:34
 state: finished
+date updated: 2021-12-13 19:21
 ---
 
 [[Formulae]], [[Energy]]
 
 # Kinetic Energy
 
-## $$ KE = \frac {m⋅V^2}{2} $$
+## $KE = \frac {m⋅V^2}{2}$
 
 ## Where:
 
-- KE is Kinetic Energy, given in Joules
-- m is mass, given in kilograms (kg).
-- V is Velocity, given in ms<sup>-1</sup>
+- $KE$ is Kinetic Energy, given in Joules
+- $m$ is mass, given in kilograms (kg).
+- $V$ is Velocity, given in ms<sup>-1</sup>
 
 ## Rearrangements:
 

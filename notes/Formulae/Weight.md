@@ -2,20 +2,23 @@
 title: Weight
 description: Formula to calculate the weight of a mass.
 date created: 2021-12-13 09:00
-state: empty
+state: finished
+date updated: 2021-12-13 19:21
 ---
 
-[[Formulae]], 
+[[Formulae]],
 
 # Weight
 
-## $$ x = \frac {Y}{z} $$ (Solving for x)
+## $W = m ⋅ g$
 
 ## Where:
-- x is a, given in foo. (Scalar or Vector)
-- Y is b, given in bar. (Scalar or Vector)
-- z is c, given in foobar. (Scalar or Vector)
-	
+
+- $W$ is weight, given in newtons. (Scalar)
+- $g$ is gravitational acceleration, given in m/s. (Scalar)
+- $m$ is mass, given in kg. (Scalar)
+
 ## Rearrangements:
-- Solve for Y, $Y = xz$
-- Solve for z, $z = \frac {Y}{z}$
+
+- Solve for gravitational acceleration, $g = \frac {m}{W}$
+- Solve for mass, $m = \frac {Y}{z}$
