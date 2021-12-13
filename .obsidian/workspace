@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Transmission/Data Transmission.md",
-            "mode": "source"
+            "file": "Formulae/Specficic Heat Capacity.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Transmission/Data Transmission.md",
+                "file": "Formulae/Specficic Heat Capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Transmission/Data Transmission.md"
+                "file": "Formulae/Specficic Heat Capacity.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Transmission/Data Transmission.md",
+                "file": "Formulae/Specficic Heat Capacity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,15 @@
   },
   "active": "68f453aaa94ed9ea",
   "lastOpenFiles": [
-    "Data Transmission/Data Transmission.md",
-    "Data Transmission/Parallel Transmission.md",
-    "Data Transmission/Serial Transmission.md",
-    "Data Transmission/Transmissions Errors.md",
-    "Data Transmission/Number System.md",
-    "Parity bits.md",
-    "Data Transmission/Parity Bit.md",
-    "Data Transmission/Checksums.md",
-    "Data Transmission/Binary Operations.md",
-    "Data Storage/Data storage.md"
+    "Formulae/Specficic Heat Capacity.md",
+    "Formulae/Acceleration.md",
+    "Formulae/Liquid Pressure.md",
+    "Formulae/Pressure Laws.md",
+    "Formulae/Formulae.md",
+    "Formulae/Kinetic Energy.md",
+    "Formulae/GPE.md",
+    "Formulae/Fluid Density.md",
+    "Formulae/Fluid Pressure.md",
+    "Formulae/Work Done.md"
   ]
 }
