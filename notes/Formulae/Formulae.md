@@ -11,10 +11,6 @@ Physics is made up of several, several formulae. This sub-folder contains all th
 
 Here is a list of them
 
-- [[Kinetic Energy]]
-- [[GPE]]
-- [[Work Done]]
-- [[Fluid Density]]
-- [[Acceleration]]
-- [[Fluid Pressure]]
-
+```dataview
+list from "Formulae"
+```
