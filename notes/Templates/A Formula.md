@@ -9,7 +9,7 @@ state: empty
 
 # {{title}}
 
-## $$ x = \frac {Y}{z} $$ (Solving for x)
+## $$ x = \frac {Y}{z} $$
 
 ## Where:
 - x is a, given in foo. (Scalar or Vector)

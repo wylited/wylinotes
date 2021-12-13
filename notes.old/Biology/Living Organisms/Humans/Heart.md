@@ -9,7 +9,7 @@ The circulatory system is made up of blood vessels that carry blood away from an
 ## The Heart.
 
 The heart has four chambers — two on top and two on bottom.
-The bottom ones are ventricles, the top ones are atriums.
+The bottom ones are ventricles, the top ones are atrium.
 
 - The **tricuspid valve** separates the right atrium from the right ventricle.
 - The **mitral valve** separates the left atrium from the left ventricle.

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Formulae/GPE.md",
-            "mode": "source"
+            "file": "Biology/Living Organisms/Humans/Heart.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 158.03359603881836
+    "width": 200
   },
   "right": {
     "id": "dcf65f88d25544cb",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Formulae/GPE.md",
+                "file": "Biology/Living Organisms/Humans/Heart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Formulae/GPE.md"
+                "file": "Biology/Living Organisms/Humans/Heart.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Formulae/GPE.md",
+                "file": "Biology/Living Organisms/Humans/Heart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "be7ca776cc39145d",
   "lastOpenFiles": [
+    "Biology/Living Organisms/Humans/Heart.md",
+    "Biology/Living Organisms/Humans/Biological Molecules.md",
+    "Biology/Living Organisms/Humans/Balanced Diet.md",
+    "Biology/Living Organisms/Humans/Nervous system.md",
     "Physics/Formulae/GPE.md",
     "Physics/Formulae.md",
     "Physics/Formulae/Kinetic Energy.md",
     "Kinetic_Energy.md",
     "Physics/Energy.md",
-    "Physics/Kinematics.md",
-    "Physics/Kinematics/Acceleration & Velocity.md",
-    "Physics/Kinematics/Power.md",
-    "Physics/Kinematics/KE - GPE.md",
-    "Physics/Kinematics/GPE and KE.md"
+    "Physics/Kinematics.md"
   ]
 }

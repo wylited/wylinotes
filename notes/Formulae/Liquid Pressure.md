@@ -9,12 +9,13 @@ state: empty
 
 # Liquid Pressure
 
-## $$ x = \frac {Y}{z} $$ (Solving for x)
+## $$ P = h ⋅ ρ ⋅ g$$ 
 
 ## Where:
-- x is a, given in foo. (Scalar or Vector)
-- Y is b, given in bar. (Scalar or Vector)
-- z is c, given in foobar. (Scalar or Vector)
+- P is liquid pressure, given in pascals. (Scalar)
+- h is height (depth), given in metres.
+- ρ is the density of the liquid, given in grams per centimetres cubed
+- g is gravitational force, given in m/s. 
 	
 ## Rearrangements:
 - Solve for Y, $Y = xz$

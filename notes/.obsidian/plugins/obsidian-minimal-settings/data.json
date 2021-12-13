@@ -2,7 +2,7 @@
   "theme": "moonstone",
   "accentHue": 360,
   "accentSat": 29,
-  "lightStyle": "minimal-light-contrast",
+  "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "uiFont": "-apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
   "textFont": "-apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",

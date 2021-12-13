@@ -35,15 +35,176 @@ date created: 2021-11-30 21:00
 - **1.4** understand the term pathogen and know that pathogens may include fungi, bacteria, protoctists or viruses.
 	- **Viruses**: these are not living organisms. They are small particles, smaller than bacteria; they are parasitic and can reproduce only inside living cells; they infect every type of living organism. They have a wide variety of shapes and sizes; they have no cellular structure but have a protein coat and contain one type of nucleic acid, either DNA or RNA. Examples include the *tobacco mosaic virus* that causes discolouring of the leaves of tobacco plants by preventing the formation of chloroplasts, the *influenza virus* that causes ‘flu’ and the *HIV virus* that causes AIDS.
 
+***
+
 ## Topic 2, Structure and functions in living organisms
 
 ### **(a)** Level of organization
+
 - 2.1 describe the levels of organization in organisms: organelles, cells, tissues, organs and systems.
 
 ### **(b)** Cell structure
+
 - 2.2 describe cell structures, including the *nucleus*, *cytoplasm*, *cell membrane*, *cell wall*, *mitochondria*, *chloroplasts*, *ribosomes* and *vacuole*
+
 - 2.3 describe the functions of the nucleus, cytoplasm, cell membrane, cell wall, mitochondria, chloroplasts and vacuole
+
 - 2.4 know the similarities and differences in the structure of plant and animal cells
+
 - **2.5B** explain the importance of cell differentiation in the development of specialised cells. (TRIPLE)
+
 - **2.6B** understand the advantages and disadvantages of using stem cells in medicine. (TRIPLE)
 
+### **(c)** Biological Molecules
+
+- 2.7 identify the chemical elements present in carbohydrates, proteins and lipids (fats and oils).
+
+- 2.8 describe the structure of carbohydrates, proteins and lipids as large molecules made up from smaller basic units: starch and glycogen from simple sugars, protein from amino acids, and lipid from fatty acids and glycerol
+
+- *2.9 practical: investigate food samples for the presence of glucose, starch, protein and fat*
+
+- 2.10 understand the role of enzymes as biological catalysts in metabolic reactions
+
+- 2.11 understand how temperature changes can affect enzyme function, including changes to the shape of active site
+
+- *2.12 practical: investigate how enzyme activity can be affected by changes in temperature*
+
+- 2.13 understand how enzyme function can be affected by changes in pH altering the active site
+
+- **2.14B** practical: investigate how enzyme activity can be affected by changes in pH
+
+### **(d)** Movement of substances into and out of cells
+
+- 2.15 understand the processes of diffusion, osmosis and active transport by which substances move into and out of cells
+
+- 2.16 understand how factors affect the rate of movement of substances into and out of cells, including the effects of surface area to volume ratio, distance, temperature and concentration gradient
+
+- 2.17 practical: investigate diffusion and osmosis using living and non-living systems
+
+### **(e)** Nutrition
+
+- Flowering Plants:
+
+	- 2.18 understand the process of photosynthesis and its importance in the conversion of light energy to chemical energy
+
+	- 2.19 know the word equation and the balanced chemical symbol equation for photosynthesis
+
+	- 2.20 understand how varying carbon dioxide concentration, light intensity and temperature affect the rate of photosynthesis
+
+	- 2.21 describe the structure of the leaf and explain how it is adapted for photosynthesis
+
+	- 2.22 understand that plants require mineral ions for growth, and that magnesium ions are needed for chlorophyll and nitrate ions are needed for amino acids
+
+	- *2.23 practical: investigate photosynthesis, showing the evolution of oxygen from a water plant, the production of starch and the requirements of light, carbon dioxide and chlorophyll*
+
+- Humans:
+
+	- 2.24 understand that a balanced diet should include appropriate proportions of carbohydrate, protein, lipid, vitamins, minerals, water and dietary fibre
+
+	- 2.25 identify the sources and describe the functions of carbohydrate, protein, lipid (fats and oils), vitamins A, C and D, the mineral ions calcium and iron, water and dietary fibre as components of the diet.
+
+	- 2.26 understand how energy requirements vary with activity levels, age and pregnancy
+
+	- 2.27 describe the structure and function of the human alimentary canal, including the mouth, oesophagus, stomach, small intestine (duodenum and ileum), large intestine (colon and rectum) and pancreas
+
+	- 2.28 understand how food is moved through the gut by peristalsis
+
+	- 2.29 understand the role of digestive enzymes, including the digestion of starch to glucose by amylase and maltase, the digestion of proteins to amino acids by proteases and the digestion of lipids to fatty acids and glycerol by lipases
+
+	- 2.30 understand that bile is produced by the liver and stored in the gall bladder
+
+	- 2.31 understand the role of bile in neutralising stomach acid and emulsifying lipids
+
+	- 2.32 understand how the small intestine is adapted for absorption, including the structure of a villus
+
+	- ***2.33B** practical: investigate the energy content in a food sample*
+
+### **(f)** Respiration
+
+- 2.34 understand how the process of respiration produces ATP in living organisms
+
+- 2.35 know that ATP provides energy for cells
+
+- 2.36 describe the differences between aerobic and anaerobic respiration
+
+- 2.37 know the word equation and the balanced chemical symbol equation for aerobic respiration in living organisms
+
+- 2.38 know the word equation for anaerobic respiration in plants and in animals
+
+- *2.39 practical: investigate the evolution of carbon dioxide and heat from respiring seeds or other suitable living organisms*
+
+### **(g)** Gas Exchange
+
+- Flowering Plants:
+
+	- **2.40B** understand the role of diffusion in gas exchange
+
+	- **2.41B** understand gas exchange (of carbon dioxide and oxygen) in relation to respiration and photosynthesis
+
+	- **2.42B** understand how the structure of the leaf is adapted for gas exchange
+
+	- **2.43B** describe the role of stomata in gas exchange
+
+	- **2.44B** understand how respiration continues during the day and night, but that the net exchange of carbon dioxide and oxygen depends on the intensity of light
+
+	- **2.45B** practical: investigate the effect of light on net gas exchange from a leaf, using hydrogen-carbonate indicator
+
+- Humans:
+	- 
+	- 2.46 describe the structure of the thorax, including the ribs, intercostal muscles, diaphragm, trachea, bronchi, bronchioles, alveoli and pleural membranes
+
+	- 2.47 understand the role of the intercostal muscles and the diaphragm in ventilation
+
+	- 2.48 explain how alveoli are adapted for gas exchange by diffusion between air in the lungs and blood in capillaries
+
+	- 2.49 understand the biological consequences of smoking in relation to the lungs and the circulatory system, including coronary heart disease
+
+	- 2.50 practical: investigate breathing in humans, including the release of carbon dioxide and the effect of exercise
+
+### (h) Transport
+- 2.51 understand why simple, unicellular organisms can rely on diffusion for movement of substances in and out of the cell
+
+- 2.52 understand the need for a transport system in multicellular organisms
+
+- Flowering Plants:
+
+	- 2.53 describe the role Tof phloem in transporting sucrose and amino acids between the leaves and other parts of the plant
+
+	- 2.54 describe the role of xylem in transporting water and mineral ions from the roots to other parts of the plant
+
+	- **2.55B** understand how water is absorbed by root hair cells
+
+	- **2.56B** understand that transpiration is the evaporation of water from the surface of a plant
+
+	- **2.57B** understand how the rate of transpiration is affected by changes in humidity, wind speed, temperature and light intensity
+
+	- **2.58B** practical: investigate the role of environmental factors in determining the rate of transpiration from a leafy shoot
+
+- Humans:
+
+	- 2.59 describe the composition of the blood: red blood cells, white blood cells, platelets and plasma
+
+	- 2.60 understand the role of plasma in the transport of carbon dioxide, digested food, urea, hormones and heat energy
+
+	- 2.61 understand how adaptations of red blood cells make them suitable for the transport of oxygen, including shape, the absence of a nucleus and the presence of haemoglobin
+
+	- 2.62 understand how the immune system responds to disease using white blood cells, illustrated by phagocytes ingesting pathogens and lymphocytes releasing antibodies specific to the pathogen
+
+	- **2.63B** understand how vaccination results in the manufacture of memory cells, which enable future antibody production to the pathogen to occur sooner, faster and in greater quantity
+
+	- **2.64B** understand how platelets are involved in blood clotting, which prevents blood loss and the entry of micro-organisms
+
+	- **2.65** describe the structure of the heart and how it functions
+
+	- **2.66** explain how the heart rate changes during exercise and under the influence of adrenaline
+
+	- **2.67** understand how factors may increase the risk of developing coronary heart disease
+
+	- **2.68** understand how the structure of arteries, veins and capillaries relate to their function
+
+	- **2.69** understand the general structure of the circulation system, including the blood vessels to and from the heart and lungs, liver and kidneys
+	
+### (i) Excretion
+
+- Humans:
+- Flowering Plants
