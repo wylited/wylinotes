@@ -1,6 +1,6 @@
 ---
 title: Pressure Laws
-description: {{description}}
+description: Relationship laws of pressure.
 date created: 2021-12-13 09:03
 state: empty
 ---
