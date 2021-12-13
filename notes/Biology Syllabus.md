@@ -83,7 +83,7 @@ date created: 2021-11-30 21:00
 
 ### **(e)** Nutrition
 
-- Flowering Plants:
+- Plants
 
 	- 2.18 understand the process of photosynthesis and its importance in the conversion of light energy to chemical energy
 
@@ -135,7 +135,7 @@ date created: 2021-11-30 21:00
 
 ### **(g)** Gas Exchange
 
-- Flowering Plants:
+- Plants
 
 	- **2.40B** understand the role of diffusion in gas exchange
 
@@ -150,7 +150,6 @@ date created: 2021-11-30 21:00
 	- **2.45B** practical: investigate the effect of light on net gas exchange from a leaf, using hydrogen-carbonate indicator
 
 - Humans:
-	- 
 	- 2.46 describe the structure of the thorax, including the ribs, intercostal muscles, diaphragm, trachea, bronchi, bronchioles, alveoli and pleural membranes
 
 	- 2.47 understand the role of the intercostal muscles and the diaphragm in ventilation
@@ -161,12 +160,12 @@ date created: 2021-11-30 21:00
 
 	- 2.50 practical: investigate breathing in humans, including the release of carbon dioxide and the effect of exercise
 
-### (h) Transport
+### **(h)** Transport
 - 2.51 understand why simple, unicellular organisms can rely on diffusion for movement of substances in and out of the cell
 
 - 2.52 understand the need for a transport system in multicellular organisms
 
-- Flowering Plants:
+- Plants
 
 	- 2.53 describe the role Tof phloem in transporting sucrose and amino acids between the leaves and other parts of the plant
 
@@ -204,7 +203,62 @@ date created: 2021-11-30 21:00
 
 	- **2.69** understand the general structure of the circulation system, including the blood vessels to and from the heart and lungs, liver and kidneys
 	
-### (i) Excretion
+### **(i)** Excretion
+
+- Plants
+	- 2.70 understand the origin of carbon dioxide and oxygen as waste products of metabolism and their loss from the stomata of a leaf
+
+- Humans
+	- 2.71 know the excretory products of the lungs, kidneys and skin (organs of excretion)
+
+	- **2.72B** understand how the kidney carries out its roles of excretion and osmoregulation
+
+	- **2.73B** describe the structure of the urinary system, including the kidneys, ureters, bladder and urethra
+
+	- **2.74B** describe the structure of a nephron, including the Bowman’s capsule and glomerulus, convoluted tubules, loop of Henle and collecting duct
+
+	- **2.75B** describe ultrafiltration in the Bowman’s capsule and the composition of the glomerular filtrate
+
+	- **2.76B** understand how water is reabsorbed into the blood from the collecting duct
+
+	- **2.77B** understand why selective reabsorption of glucose occurs at the proximal convoluted tubule
+
+	- **2.78B** describe the role of ADH in regulating the water content of the blood
+
+	- **2.79B** understand that urine contains water, urea and ions
+
+### **(j)** Co-ordination and response
+
+- 2.80 understand how organisms are able to respond to changes in their environment
+
+- 2.81 understand that homeostasis is the maintenance of a constant internal environment, and that body water content and body temperature are both examples of homeostasis
+
+- 2.82 understand that a co-ordinated response requires a stimulus, a receptor and an effector
+
+- Plants: 
+	- 2.83 understand that plants respond to stimuli
+
+	- 2.84 describe the geotropic and phototropic responses of roots and stems
+
+	- 2.85 understand the role of auxin in the phototropic response of stems
 
 - Humans:
-- Flowering Plants
+	- 2.86 describe how nervous and hormonal communication control responses and understand the differences between the two systems
+
+	- 2.87 understand that the central nervous system consists of the brain and spinal cord and is linked to sense organs by nerves
+
+	- 2.88 understand that stimulation of receptors in the sense organs sends electrical impulses along nerves into and out of the central nervous system, resulting in rapid responses
+
+	- 2.89 understand the role of neurotransmitters at synapses
+
+	- 2.90 describe the structure and functioning of a simple reflex arc illustrated by the withdrawal of a finger from a hot object
+
+	- 2.91 describe the structure and function of the eye as a receptor
+
+	- 2.92 understand the function of the eye in focusing on near and distant objects, and in responding to changes in light intensity
+
+	- 2.93 describe the role of the skin in temperature regulation, with reference to sweating, vasoconstriction and vasodilation
+
+	- 2.94 understand the sources, roles and effects of the following hormones: adrenaline, insulin, testosterone, progesterone and oestrogen
+
+	- **2.95B** understand the sources, roles and effects of the following hormones: ADH, FSH and LH
