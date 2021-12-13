@@ -9,7 +9,17 @@ state: active
 
 Physics is made up of several, several formulae. This sub-folder contains all that I have learned, for quick and easy access.
 
-Here is a list of them
+- Here is a list of them
+	-  [[Work Done]]
+	-   [[Weight]]
+	-   [[Pressure Laws]]
+	-   [[Formulae]]
+	-   [[Liquid Pressure]]
+	-   [[Fluid Pressure]]
+	-   [[Kinetic Energy]]
+	-   [[GPE]]
+	-   [[Fluid Density]]
+	-   [[Acceleration]]
 
 ```dataview
 list from "Formulae"
