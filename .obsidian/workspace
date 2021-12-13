@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formulae/Specficic Heat Capacity.md",
-            "mode": "preview"
+            "file": "English Lang/Directed Writing - Article.md",
+            "mode": "source"
           }
         }
       }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics_Formulas",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -56,11 +56,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 179,
+    "collapsed": true
   },
   "right": {
     "id": "dcf65f88d25544cb",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulae/Specficic Heat Capacity.md",
+                "file": "English Lang/Directed Writing - Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulae/Specficic Heat Capacity.md"
+                "file": "English Lang/Directed Writing - Article.md"
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulae/Specficic Heat Capacity.md",
+                "file": "English Lang/Directed Writing - Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +139,15 @@
   },
   "active": "68f453aaa94ed9ea",
   "lastOpenFiles": [
+    "English Lang/Directed Writing - Article.md",
+    "Formulae/Work Done.md",
+    "Formulae/GPE.md",
+    "Formulae/Kinetic Energy.md",
+    "Data Transmission/Parity Bit.md",
+    "English Lang/Feature Article.md",
+    "Biology Syllabus.md",
     "Formulae/Specficic Heat Capacity.md",
     "Formulae/Acceleration.md",
-    "Formulae/Liquid Pressure.md",
-    "Formulae/Pressure Laws.md",
-    "Formulae/Formulae.md",
-    "Formulae/Kinetic Energy.md",
-    "Formulae/GPE.md",
-    "Formulae/Fluid Density.md",
-    "Formulae/Fluid Pressure.md",
-    "Formulae/Work Done.md"
+    "Formulae/Liquid Pressure.md"
   ]
 }
