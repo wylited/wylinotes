@@ -4,6 +4,7 @@ description: The formula for finding the specific heat capacity of a substance
 date created: 2021-12-13 19:29
 state: finished
 ---
+#physics
 
 [[Formulae]], 
 

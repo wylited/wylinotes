@@ -3,6 +3,7 @@ title: Data Transmission
 date created: 2021-12-13 13:59
 date updated: 2021-12-13 19:21
 ---
+#comp_sci 
 
 Data transmission is the process of sending data from one machine to another digitally.
 
