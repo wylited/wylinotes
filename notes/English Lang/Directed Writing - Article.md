@@ -22,7 +22,7 @@ date updated: 2021-12-12 19:30
 
 ## Article purpose
 
-The purpose of an article will  be to make an argument.
+The purpose of an article will be to make an argument.
 You are to present opinions around a certain topic, you also need to talk about the other arguments and show how they are wrong while comparing them to your own.
 
 Articles will:
