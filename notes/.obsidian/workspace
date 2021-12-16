@@ -15,8 +15,11 @@
         "id": "8edd7afb900297ce",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +145,7 @@
   },
   "active": "8edd7afb900297ce",
   "lastOpenFiles": [
+    "Untitled.md",
     "1 - Biology/1 - Biology.md",
     "Biology Syllabus.md",
     "Data Transmission/Binary Operations.md",
@@ -146,7 +154,6 @@
     "Formulae/Work Done.md",
     "Formulae/GPE.md",
     "Formulae/Kinetic Energy.md",
-    "Data Transmission/Parity Bit.md",
-    "English Lang/Feature Article.md"
+    "Data Transmission/Parity Bit.md"
   ]
 }

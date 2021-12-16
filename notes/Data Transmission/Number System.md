@@ -3,6 +3,7 @@ title: Number System
 date created: 2021-12-13 13:57
 date updated: 2021-12-13 19:21
 ---
+#comp_sci 
 
 Computer sciences uses 3 major number systems: base 10 or denary, base 2 or binary, base 16 or hexadecimal.
 It is necessary to know how to convert from one number system to another.
