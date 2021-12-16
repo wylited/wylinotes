@@ -7,11 +7,16 @@
         "id": "68f453aaa94ed9ea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "English Lang/Directed Writing - Article.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "8edd7afb900297ce",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -56,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 179,
-    "collapsed": true
+    "width": 149.0015983581543
   },
   "right": {
     "id": "dcf65f88d25544cb",
@@ -78,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Lang/Directed Writing - Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English Lang/Directed Writing - Article.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,14 +116,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Lang/Directed Writing - Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "09c90f26c914031f",
+            "id": "b1d110fb659e2ee6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -135,19 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.47474670410156
+    "width": 136.7145538330078
   },
-  "active": "68f453aaa94ed9ea",
+  "active": "8edd7afb900297ce",
   "lastOpenFiles": [
+    "1 - Biology/1 - Biology.md",
+    "Biology Syllabus.md",
+    "Data Transmission/Binary Operations.md",
+    "Tasks/ZettleKatsen todo!.md",
     "English Lang/Directed Writing - Article.md",
     "Formulae/Work Done.md",
     "Formulae/GPE.md",
     "Formulae/Kinetic Energy.md",
     "Data Transmission/Parity Bit.md",
-    "English Lang/Feature Article.md",
-    "Biology Syllabus.md",
-    "Formulae/Specficic Heat Capacity.md",
-    "Formulae/Acceleration.md",
-    "Formulae/Liquid Pressure.md"
+    "English Lang/Feature Article.md"
   ]
 }
