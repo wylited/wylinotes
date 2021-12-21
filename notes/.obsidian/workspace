@@ -1,56 +1,29 @@
 {
   "main": {
-    "id": "7c526702e56bd03b",
+    "id": "6ed7a65923428140",
     "type": "split",
     "children": [
       {
-        "id": "68f453aaa94ed9ea",
+        "id": "8e9183d5b6071193",
         "type": "leaf",
         "state": {
-<<<<<<< Updated upstream
-          "type": "empty",
+          "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "8edd7afb900297ce",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-=======
-          "type": "markdown",
-          "state": {
-            "file": "1 - Biology/1 - Biology.md",
-            "mode": "source"
-          }
->>>>>>> Stashed changes
-        }
-      },
-      {
-        "id": "8edd7afb900297ce",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1 - Biology/1 - Biology.md",
-            "mode": "preview"
-          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a7b571b7cb6e8b28",
+    "id": "c30f81096ac21b08",
     "type": "split",
     "children": [
       {
-        "id": "ab9b5e95b1f5343c",
+        "id": "fd6686348af6d501",
         "type": "tabs",
         "children": [
           {
-            "id": "0a32c7aaa8968d29",
+            "id": "08c7598ac9b8ceb6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,13 +31,13 @@
             }
           },
           {
-            "id": "b9522d4c9a612901",
+            "id": "be31cb45fbdb623a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,7 +46,7 @@
             }
           },
           {
-            "id": "8575d0b8b745a893",
+            "id": "f5d11ed1f6fd04bb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -84,52 +57,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 149.0015983581543
+    "width": 194.00793838500977
   },
   "right": {
-    "id": "dcf65f88d25544cb",
+    "id": "08fed49c644635e8",
     "type": "split",
     "children": [
       {
-        "id": "204df60749023a95",
+        "id": "61b35217134ab862",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf19111656de9b5",
+            "id": "85aeb3ffa482e305",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ed7ffceff4c2044",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "1 - Biology/1 - Biology.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0118cec794e60df5",
+            "id": "924636e6631847f8",
             "type": "leaf",
             "state": {
-              "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
+              "type": "outgoing-link",
               "state": {
-                "file": "1 - Biology/1 - Biology.md"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
->>>>>>> Stashed changes
             }
           },
           {
-            "id": "f7814937e1025402",
+            "id": "672a7ca74283c29e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,54 +114,31 @@
             }
           },
           {
-            "id": "19a1af6611845692",
+            "id": "5a4976ead7b197e7",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "1 - Biology/1 - Biology.md",
->>>>>>> Stashed changes
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b1d110fb659e2ee6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 136.7145538330078
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8edd7afb900297ce",
+  "active": "8e9183d5b6071193",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Untitled.md",
-=======
->>>>>>> Stashed changes
-    "1 - Biology/1 - Biology.md",
-    "Biology Syllabus.md",
+    "English Lang/Similes and Metaphors.md",
+    "Recording 20211130195946.webm.md",
+    "Numeral Systems/Binary.md",
+    "Numeral Systems/Numeral Systems.md",
+    "Data Transmission/Checksums.md",
     "Data Transmission/Binary Operations.md",
-    "Tasks/ZettleKatsen todo!.md",
-    "English Lang/Directed Writing - Article.md",
-    "Formulae/Work Done.md",
-    "Formulae/GPE.md",
-    "Formulae/Kinetic Energy.md",
-<<<<<<< Updated upstream
-    "Data Transmission/Parity Bit.md"
-=======
-    "Data Transmission/Parity Bit.md",
-    "English Lang/Feature Article.md"
->>>>>>> Stashed changes
+    "Data Transmission/Number System.md",
+    "Data Storage/Data storage.md",
+    "1 - Biology/1 - Biology.md",
+    "Biology Syllabus.md"
   ]
 }

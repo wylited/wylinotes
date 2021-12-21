@@ -48,5 +48,3 @@ date updated: 2021-12-12 19:30
 - ### I smashed the breaks on the car, A small group of fuzzy yellow circles walking across the street had caught my attention.
 
 - ### Shimmering light struck my eye as the sun refracted off of the shiny translucent surface of the costly jewellery.
-
-![[Recording 20211130195946.webm]]
