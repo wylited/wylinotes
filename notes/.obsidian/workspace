@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9183d5b6071193",
+        "id": "d265ba0923f4abbd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Numeral Systems/Binary.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Numeral Systems/Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Numeral Systems/Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,27 +123,37 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Numeral Systems/Binary.md"
+              }
+            }
+          },
+          {
+            "id": "f1a5fe47188dd55a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 199.97471618652344
   },
-  "active": "8e9183d5b6071193",
+  "active": "d265ba0923f4abbd",
   "lastOpenFiles": [
+    "Numeral Systems/Binary.md",
+    "Numeral Systems/Decimal.md",
+    "Numeral Systems/Hexadecimal.md",
+    "Numeral Systems/Octal.md",
+    "Numeral Systems/Numeral Systems.md",
     "English Lang/Similes and Metaphors.md",
     "Recording 20211130195946.webm.md",
-    "Numeral Systems/Binary.md",
-    "Numeral Systems/Numeral Systems.md",
     "Data Transmission/Checksums.md",
     "Data Transmission/Binary Operations.md",
-    "Data Transmission/Number System.md",
-    "Data Storage/Data storage.md",
-    "1 - Biology/1 - Biology.md",
-    "Biology Syllabus.md"
+    "Data Transmission/Number System.md"
   ]
 }
