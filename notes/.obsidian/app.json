@@ -43,5 +43,7 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "legacyEditor": false,
+  "livePreview": true
 }

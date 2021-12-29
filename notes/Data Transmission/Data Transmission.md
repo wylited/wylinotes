@@ -5,12 +5,9 @@ date updated: 2021-12-13 19:21
 ---
 #comp_sci 
 
-Data transmission is the process of sending data from one machine to another digitally.
+Unit 2 - Data Transmission and encryption.
 
-There are 2 methods of transmission:
 
-### [[Serial Transmission]]
+# Types and methods of data transmission
 
-### [[Parallel Transmission]]
-
-We have to evaluate the pro's and con's of serial and the pro's and con's of parallel to understand which one should be used when.
+When we need to transmit data. Data is broken down into packets to be transmitted.
