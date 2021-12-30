@@ -1,23 +1,54 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "6ed7a65923428140",
     "type": "split",
     "children": [
       {
         "id": "d265ba0923f4abbd",
+=======
+    "id": "c98c22e421edee70",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb3717715065441",
+>>>>>>> Stashed changes
         "type": "leaf",
+        "dimension": 75.31504818383988,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Numeral Systems/Binary.md",
             "mode": "source"
           }
         }
+=======
+            "file": "Data Transmission/Data Transmission.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "43d8179b11135720"
+      },
+      {
+        "id": "ca67530f2040e4c5",
+        "type": "leaf",
+        "dimension": 24.68495181616012,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Data Transmission/Data Transmission.md"
+          }
+        },
+        "group": "43d8179b11135720"
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "c30f81096ac21b08",
     "type": "split",
     "children": [
@@ -27,6 +58,17 @@
         "children": [
           {
             "id": "08c7598ac9b8ceb6",
+=======
+    "id": "0c6c230e587aea5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5437876aebe2911f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee62fba11a61c6e",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +76,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "be31cb45fbdb623a",
+=======
+            "id": "20f84a4dc7c7c08c",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,7 +95,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "f5d11ed1f6fd04bb",
+=======
+            "id": "74adde6f7cfb722f",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,6 +110,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 194.00793838500977
   },
   "right": {
@@ -72,6 +123,20 @@
         "children": [
           {
             "id": "85aeb3ffa482e305",
+=======
+    "width": 192.00793838500977
+  },
+  "right": {
+    "id": "e252193f017cf4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "152e7e2c09380504",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58196b5117b445f7",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -79,12 +144,20 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "6ed7ffceff4c2044",
+=======
+            "id": "27c90211ba205963",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Numeral Systems/Binary.md",
+=======
+                "file": "Data Transmission/Data Transmission.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +169,31 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "924636e6631847f8",
+=======
+            "id": "b6d125c10902bdd2",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Numeral Systems/Binary.md",
+=======
+                "file": "Data Transmission/Data Transmission.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "672a7ca74283c29e",
+=======
+            "id": "1ac55ab5aae6a4a0",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,11 +204,16 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "5a4976ead7b197e7",
+=======
+            "id": "6753cb92cd37ce47",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Numeral Systems/Binary.md"
               }
             }
@@ -155,5 +245,24 @@
     "Data Transmission/Checksums.md",
     "Data Transmission/Binary Operations.md",
     "Data Transmission/Number System.md"
+=======
+                "file": "Data Transmission/Data Transmission.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6bb3717715065441",
+  "lastOpenFiles": [
+    "Data Transmission/Data Transmission.md",
+    "Data Transmission/Binary Operations.md",
+    "1 - Biology/1 - Biology.md",
+    "Untitled.md"
+>>>>>>> Stashed changes
   ]
 }
