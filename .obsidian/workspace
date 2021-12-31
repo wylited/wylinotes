@@ -19,7 +19,11 @@
           "type": "markdown",
           "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "file": "Numeral Systems/Binary.md",
+=======
+            "file": "Biology Syllabus.md",
+>>>>>>> Stashed changes
             "mode": "source"
           }
         }
@@ -154,9 +158,13 @@
               "type": "backlink",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Numeral Systems/Binary.md",
 =======
                 "file": "Data Transmission/Data Transmission.md",
+>>>>>>> Stashed changes
+=======
+                "file": "Biology Syllabus.md",
 >>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
@@ -179,9 +187,13 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Numeral Systems/Binary.md",
 =======
                 "file": "Data Transmission/Data Transmission.md",
+>>>>>>> Stashed changes
+=======
+                "file": "Biology Syllabus.md",
 >>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -214,7 +226,11 @@
               "type": "outline",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Numeral Systems/Binary.md"
+=======
+                "file": "Biology Syllabus.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -235,11 +251,13 @@
   },
   "active": "d265ba0923f4abbd",
   "lastOpenFiles": [
-    "Numeral Systems/Binary.md",
-    "Numeral Systems/Decimal.md",
+    "Biology Syllabus.md",
+    "1 - Biology/1 - Biology.md",
     "Numeral Systems/Hexadecimal.md",
-    "Numeral Systems/Octal.md",
+    "Numeral Systems/Decimal.md",
+    "Numeral Systems/Binary.md",
     "Numeral Systems/Numeral Systems.md",
+<<<<<<< Updated upstream
     "English Lang/Similes and Metaphors.md",
     "Recording 20211130195946.webm.md",
     "Data Transmission/Checksums.md",
@@ -263,6 +281,12 @@
     "Data Transmission/Binary Operations.md",
     "1 - Biology/1 - Biology.md",
     "Untitled.md"
+>>>>>>> Stashed changes
+=======
+    "Numeral Systems/Octal.md",
+    "Tasks/ZettleKatsen todo!.md",
+    "Quantitative Chemistry/Quantitative Chemistry.md",
+    "Quantitative Chemistry/Titration.md"
 >>>>>>> Stashed changes
   ]
 }
