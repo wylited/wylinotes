@@ -1,8 +1,8 @@
 ---
 title: {{title}}
-description: {{description}}
+description: An overview of {{title}}
 date created: {{date:YYYY-MM-DD}} {{time:HH:mm}}
 state: empty
 ---
 
-# {{title}}
+## {{title}}

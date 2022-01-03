@@ -1,0 +1,1 @@
+The money a business receives over a certain period of time. 

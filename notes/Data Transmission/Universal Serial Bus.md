@@ -41,7 +41,7 @@ This release had the same speeds as 1.0, however it contained more USB types.
 ## USB 2.0 
 (Including USB 2.0 Revised)
 
-Released in 2001, this was the first major change that the USB had recieved.
+Released in 2001, this was the first major change that the USB had received.
 
 This version contained significant increase in transfer speeds. 1.5 Mbit/s (Low), 12 Mbit/s (Full), 480 Mbit/s (High). 
 

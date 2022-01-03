@@ -6,28 +6,14 @@
       {
         "id": "240effeccb2f2f5a",
         "type": "leaf",
-        "dimension": 83.63338788870703,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Transmission/Universal Serial Bus.md",
-            "mode": "preview",
+            "file": "Data Transmission/Parity Block.md",
+            "mode": "source",
             "source": false
           }
-        },
-        "group": "1210642743155484"
-      },
-      {
-        "id": "2a40fc5cebeaac49",
-        "type": "leaf",
-        "dimension": 16.366612111292962,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Data Transmission/Universal Serial Bus.md"
-          }
-        },
-        "group": "1210642743155484"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Transmission/Universal Serial Bus.md",
+                "file": "Data Transmission/Parity Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Transmission/Universal Serial Bus.md",
+                "file": "Data Transmission/Parity Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Transmission/Universal Serial Bus.md"
+                "file": "Data Transmission/Parity Block.md"
               }
             }
           }
@@ -152,15 +138,15 @@
   },
   "active": "240effeccb2f2f5a",
   "lastOpenFiles": [
-    "Data Transmission/Universal Serial Bus.md",
-    "Data Transmission/Duplex.md",
-    "Data Transmission/Data Transmission.md",
-    "Data Transmission/Transmissions Errors.md",
-    "Data Transmission/Checksums.md",
-    "Data Transmission/Simplex.md",
-    "Data Transmission/Serial Transmission.md",
-    "Data Transmission/Parallel Transmission.md",
-    "Data Storage/Data storage.md",
-    "Data Transmission/Binary Operations.md"
+    "Data Transmission/Parity Block.md",
+    "Microeconomics/Graphs.md",
+    "Microeconomics/Economic Assumptions.md",
+    "Economic Defintions/Revenue.md",
+    "Economic Defintions/Maximise.md",
+    "Economic Defintions/Economic Defintions.md",
+    "Microeconomics/Factors of Production.md",
+    "Microeconomics/Opportunity Cost.md",
+    "Microeconomics/Needs and Wants.md",
+    "Templates/A Overview.md"
   ]
 }
