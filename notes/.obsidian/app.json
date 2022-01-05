@@ -45,5 +45,14 @@
   },
   "attachmentFolderPath": "Diagrams",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "vimMode": false,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-CA"
+  ],
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "tabSize": 4
 }

@@ -4,3 +4,5 @@ img {
     background-color: var(--background-secondary);
     /* Background color so PNGs with transparent backgrounds don't look weird */
 }
+
+img { width: 200px; }

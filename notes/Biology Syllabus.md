@@ -41,9 +41,9 @@ date created: 2021-11-30 21:00
 
 ## Topic 2, Structure and functions in living organisms
 
-### **(a)** Level of organization
+### **(a)** Level of organisation
 
-- 2.1 describe the levels of organization in organisms: organelles, cells, tissues, organs and systems.
+- 2.1 describe the levels of organisation in organisms: organelles, cells, tissues, organs and systems.
 
 ### **(b)** Cell structure
 
