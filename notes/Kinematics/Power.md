@@ -2,7 +2,9 @@
 title: Power
 date created: 2021-12-07 21:12
 state: active
+date updated: 2022-01-05 17:37
 ---
+
 [[physics]]
 
 # Power

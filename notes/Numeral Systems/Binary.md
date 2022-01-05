@@ -3,15 +3,16 @@ title: Binary
 description: A explanation of binary
 date created: 2021-12-21 22:07
 state: finished
+date updated: 2022-01-05 17:38
 ---
 
 Binary is a numeral system. It only has 2 different values, 1 and 0. It uses base 2.
 
 Each place value in a binary number is 2<sup>n</sup> where n is the place (decimal).
 
-| 32  | 16  | 8   | 4   | 2   | 1   |
-| --- | --- | --- | --- | --- | --- |
-| 1   | 0   | 0   | 1   | 0   | 1   |
+| 32 | 16 | 8 | 4 | 2 | 1 |
+| -- | -- | - | - | - | - |
+| 1  | 0  | 0 | 1 | 0 | 1 |
 
 Would be 32 + 4 + 1 which is 37 in decimal.
 

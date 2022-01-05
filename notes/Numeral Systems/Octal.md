@@ -3,15 +3,16 @@ title: Octal
 description: An overview of the Octal number system.
 date created: 2021-12-21 22:19
 state: finished
+date updated: 2022-01-05 17:38
 ---
 
 Octal is the least used out of the 4 major [[Numeral Systems]]. Octal uses base 8, from 0 - 7.
 
 Each place value in a binary number is 8<sup>n</sup> where n is the place (decimal).
 
-| 32768 | 4096 | 512 | 64  | 8 (8^1) | 1 (8^0) |
-| ----- | ---- | --- | --- | ------- | ------- |
-| 0     | 2    | 0   | 1   | 5       | 7       |
+| 32768 | 4096 | 512 | 64 | 8 (8^1) | 1 (8^0) |
+| ----- | ---- | --- | -- | ------- | ------- |
+| 0     | 2    | 0   | 1  | 5       | 7       |
 
 The value 020157 is (2 * 4096) + (1 * 64) + (5 * 8) + (7 * 1) = 8303 in decimal
 

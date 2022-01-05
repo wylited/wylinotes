@@ -1,6 +1,8 @@
 ---
 date created: 2021-12-07 21:12
+date updated: 2022-01-05 17:37
 ---
+
 [[physics]]
 
 # GPE and KE

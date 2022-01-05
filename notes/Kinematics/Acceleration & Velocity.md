@@ -1,8 +1,9 @@
 ---
 date created: 2021-12-09 14:25
-date updated: 2021-12-10 19:25
+date updated: 2022-01-05 17:37
 state: active
 ---
+
 [[physics]]
 
 # Acceleration & Velocity
@@ -62,4 +63,3 @@ $A = \frac {ΔV}{t}$
 - Rearrangements:
   - Solve for change in velocity, $ΔV = \frac At$
   - Solve for time taken, $t = \frac {A}{ΔV}$
-

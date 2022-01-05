@@ -1,7 +1,9 @@
 ---
 date created: 2021-12-10 19:41
 state: active
+date updated: 2022-01-05 17:37
 ---
+
 [[physics]]
 
 # Kinematics

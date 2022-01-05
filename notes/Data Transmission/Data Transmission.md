@@ -1,21 +1,22 @@
 ---
 title: Data Transmission
 date created: 2021-12-13 13:59
-date updated: 2021-12-13 19:21
+date updated: 2022-01-05 17:38
 ---
-[[comp_sci]] 
+
+[[comp_sci]]
 
 ## Data Transmission
 
 When we need to transmit data. Data is broken down into packets to be transmitted.
 
-## Packet Structure 
+## Packet Structure
 
-| Section | Description | 
-| ------- | ----------- |
+| Section       | Description                                                                                                                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Packet Header | The header contains the origin address, destination address and packet number. <br> It usually weights 20 bytes and can have additional information if necessary |
-| Payload | The main information of the packet |
-| Trailer | To signify that this is the end of the packet |
+| Payload       | The main information of the packet                                                                                                                               |
+| Trailer       | To signify that this is the end of the packet                                                                                                                    |
 
 ## Packet Switching
 
@@ -26,4 +27,3 @@ The packets can take several different routes and arrive out of order. When all 
 A **router** decides how the packet will reach its destination
 
 ## Transmission Methods
-

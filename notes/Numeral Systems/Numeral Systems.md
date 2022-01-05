@@ -3,6 +3,7 @@ title: Numeral Systems
 description: Explanation of the 4 different types of numeral systems
 date created: 2021-12-21 22:07
 state: finished
+date updated: 2022-01-05 17:38
 ---
 
 There are **4** major types of numeral systems. (major as in they are actually used)

@@ -3,8 +3,9 @@ title: Acceleration
 description: The formula for calculating how fast an objects speed is increasing.
 date created: 2021-12-11 22:11
 state: finished
-date updated: 2021-12-13 19:21
+date updated: 2022-01-05 17:37
 ---
+
 [[physics]]
 
 [[Formulae]], [[Kinematics]]

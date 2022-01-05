@@ -3,6 +3,7 @@ title: Opportunity Cost
 description: Overview of Opportunity Cost
 date created: 2022-01-01 11:58
 state: empty
+date updated: 2022-01-05 17:37
 ---
 
 ## Opportunity Cost
@@ -24,6 +25,7 @@ For Production Possibility, moving from one point to another is the opportunity 
 The Production Possibility Frontier (PPF) is the curve of the PPC. This represents the maximum an economy can produce.
 
 A shift in a PPF is a **economic growth**.
+
 - Inwards shift is a negative economic growth.
 - Outwards shift is a positive economic growth.
 

@@ -3,15 +3,16 @@ title: Decimal
 description: An overview of the denary number system.
 date created: 2021-12-21 22:32
 state: finished
+date updated: 2022-01-05 17:38
 ---
 
 Decimal is the most commonly used numeral system. It uses the values from 0 - 9.
 
 Each place value in a binary number is 10<sup>n</sup> where n is the place (decimal).
 
-| 100000 | 10000 | 1000 | 100 | 10  | 1   |
-| ------ | ----- | ---- | --- | --- | --- |
-| 9      | 0     | 2    | 1   | 3   | 1   |
+| 100000 | 10000 | 1000 | 100 | 10 | 1 |
+| ------ | ----- | ---- | --- | -- | - |
+| 9      | 0     | 2    | 1   | 3  | 1 |
 
 902131 in decimal would be DC3F3 in hexadecimal or 11011100001111110011 in binary.
 

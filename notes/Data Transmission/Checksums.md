@@ -2,8 +2,9 @@
 title: Checksum
 description: A brief explanation of checksum's
 date created: 2021-12-13 13:58
-date updated: 2021-12-13 19:21
+date updated: 2022-01-05 17:38
 ---
+
 [[comp_sci]]
 
 Checksum are used greatly in computer science to validate transmissions and make us less prone to errors.
