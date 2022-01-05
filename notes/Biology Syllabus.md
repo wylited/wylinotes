@@ -8,9 +8,9 @@ date created: 2021-11-30 21:00
 
 [IGCSE Edexcel Biology (9-1) Specification](https://drive.google.com/file/d/1Q_9cIvfuWM5FQ3Y7YQlx5tsOUftinNtC/view "Pearson Edexcel International GCSE in Biology (4BI1)")
 
-## [[1 - Biology#The nature and variety of living organisms]]
+## [[Living Organisms]]
 
-### **(a)** [[1 - Biology#Characteristics]] of living organisms
+### **(a)** [[Living Organisms#Characteristics]] of living organisms
 - 1.1 understand how living organisms share the following characteristics:
 	- They require nutrition
 	- They respire
@@ -21,7 +21,7 @@ date created: 2021-11-30 21:00
 	- They reproduce
 	- They grow and develop
 
-### **(b)** [[1 - Biology#Variety]] of living organisms
+### **(b)** [[Living Organisms#Variety]] of living organisms
 
 - **1.2** describe the common features shown by eukaryotic organisms: plants, animals, fungi and protoctists
 

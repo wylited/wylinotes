@@ -9,10 +9,10 @@ state: active
 
 Since 1996, the release of the USB, there have been 4 generations of USB's up-till now:
 
-- USB 1.x
-- USB 2.0
-- USB 3.x
-- USB 4
+- [[Universal Serial Bus#USB 1 x]]
+- [[Universal Serial Bus#USB 2 0]]
+- [[Universal Serial Bus#USB 3 0]]
+- [[Universal Serial Bus#USB 4 0]]
 
 Aside from these generations, there are 3 different types of USB's that are available each of which have 3 sub types.
 
