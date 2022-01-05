@@ -175,3 +175,5 @@ blockquote {
     margin: 5px 0px;
     font-weight: bold;
 }
+
+img[alt=drawing] { width: 200px; }
