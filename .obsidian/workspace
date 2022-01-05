@@ -7,11 +7,9 @@
         "id": "c9c581af1a908497",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Living Organisms/Plant Cells.md",
-            "mode": "source",
-            "source": false
+            "file": "Tasks/Life tracking Kanban.md"
           }
         }
       }
@@ -61,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.00556182861328
+    "width": 175.00556182861328
   },
   "right": {
     "id": "e252193f017cf4d8",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Organisms/Plant Cells.md",
+                "file": "Tasks/Life tracking Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Organisms/Plant Cells.md",
+                "file": "Tasks/Life tracking Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Organisms/Plant Cells.md"
+                "file": "Tasks/Life tracking Kanban.md"
               }
             }
           },
@@ -146,6 +144,8 @@
   },
   "active": "c9c581af1a908497",
   "lastOpenFiles": [
+    "Tasks/Life tracking Kanban.md",
+    "Tasks/ZettleKatsen todo!.md",
     "Living Organisms/Plant Cells.md",
     "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.svg",
     "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.md",
@@ -153,8 +153,6 @@
     "Diagrams/Diagram 2022-01-05.excalidraw.md",
     "Diagrams/Diagram Plant Cell 2022-01-05svg.md",
     "Diagrams/Diagram Plant Cell 2022-01-05.svg",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw 1.svg",
-    "Living Organisms/Level of organisation.md",
-    "Biology Syllabus.md"
+    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw 1.svg"
   ]
 }
