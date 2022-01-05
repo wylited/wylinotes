@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Transmission/Parity Block.md",
+            "file": "Formulae/Formulae.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.0078125
+    "width": 194.00556182861328
   },
   "right": {
     "id": "e252193f017cf4d8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Transmission/Parity Block.md",
+                "file": "Formulae/Formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Transmission/Parity Block.md",
+                "file": "Formulae/Formulae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Transmission/Parity Block.md"
+                "file": "Formulae/Formulae.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "240effeccb2f2f5a",
   "lastOpenFiles": [
+    "Formulae/Formulae.md",
+    "Energy/Energy.md",
+    "Data Transmission/Serial Transmission.md",
+    "Data Transmission/Transmissions Errors.md",
+    "Data Transmission/Checksums.md",
+    "Data Transmission/Universal Serial Bus.md",
     "Data Transmission/Parity Block.md",
-    "Microeconomics/Graphs.md",
-    "Microeconomics/Economic Assumptions.md",
-    "Economic Defintions/Revenue.md",
-    "Economic Defintions/Maximise.md",
-    "Economic Defintions/Economic Defintions.md",
-    "Microeconomics/Factors of Production.md",
-    "Microeconomics/Opportunity Cost.md",
-    "Microeconomics/Needs and Wants.md",
-    "Templates/A Overview.md"
+    "Data Transmission/Parallel Transmission.md",
+    "Data Transmission/Parity Bit.md",
+    "Data Transmission/Data Transmission.md"
   ]
 }
