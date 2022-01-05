@@ -13,7 +13,7 @@ Written paper, 2 hours, 80 marks. Made up of 3 questions on 3 texts.
 Text A and B is about 700-750 words in length.
 Text C is about 500-650 words in length.
 
-#english
+[[english]]
 
 ### Question 1 Comprehension and summary task (30 marks)
 

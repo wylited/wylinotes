@@ -5,7 +5,7 @@ date created: 2021-12-13 09:00
 state: finished
 date updated: 2021-12-13 19:21
 ---
-#physics
+[[physics]]
 
 [[Formulae]],
 

@@ -3,7 +3,7 @@ title: Transmission Errors
 date created: 2021-12-13 13:58
 date updated: 2021-12-13 19:21
 ---
-#comp_sci 
+[[comp_sci]] 
 
 ## Errors
 

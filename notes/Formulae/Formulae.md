@@ -5,7 +5,7 @@ date created: 2021-12-07 21:12
 state: active
 date updated: 2021-12-13 19:21
 ---
-#physics
+[[physics]]
 
 
 # Collection of Formulae in Physics.

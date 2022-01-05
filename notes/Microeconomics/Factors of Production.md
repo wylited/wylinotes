@@ -8,10 +8,10 @@ state: empty
 ## Factors of Production
 
 There are 4 factors that can effect production:
-- [[#Capital]]
-- [[#Enterprise]]
-- [[#Land]]
-- [[#Labour]]
+- [[[[Capital]]]]
+- [[[[Enterprise]]]]
+- [[[[Land]]]]
+- [[[[Labour]]]]
 ____ 
 
 ### Capital

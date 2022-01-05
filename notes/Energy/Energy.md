@@ -1,2 +1,2 @@
 # Energy
-#physics
+[[physics]]

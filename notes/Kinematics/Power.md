@@ -3,7 +3,7 @@ title: Power
 date created: 2021-12-07 21:12
 state: active
 ---
-#physics
+[[physics]]
 
 # Power
 
