@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "18e2d40e43b6c13d",
+        "id": "8d2788250f956cbb",
         "type": "leaf",
+        "dimension": 56.05536332179931,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Living Organisms/Cells.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3217d14e6961a499",
+        "type": "leaf",
+        "dimension": 43.944636678200695,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biology Syllabus.md",
             "mode": "source",
             "source": false
           }
@@ -137,23 +151,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 240.87890625
+    "width": 174.83328247070312
   },
-  "active": "18e2d40e43b6c13d",
+  "active": "8d2788250f956cbb",
   "lastOpenFiles": [
     "Living Organisms/Cells.md",
-    "Images/Animal-Cell_2022-01-09.excalidraw.md",
-    "Images/Animal-Cell_2022-01-09.excalidraw.svg",
+    "Biology Syllabus.md",
+    "Living Organisms/Variety/Eukaryotic.md",
+    "Living Organisms/Variety/Pathogens.md",
+    "Living Organisms/Variety/Prokaryotic.md",
+    "Living Organisms/Living Organisms.md",
+    "Living Organisms/Level of organisation.md",
     "Living Organisms/Stem Cells.md",
     "Images/Plant-Cell_2022-01-09.excalidraw.svg",
-    "Biology Syllabus.md",
-    "Images/Plant-Cell_2022-01-09.excalidraw.md",
-    "Living Organisms/Animals cell.md",
-    "Living Organisms/Plant Cells.md",
-    "Images/D -  Plant Cells | 2022-01-09.png"
+    "Images/Animal-Cell_2022-01-09.excalidraw.md"
   ]
 }

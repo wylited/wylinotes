@@ -48,7 +48,7 @@ date updated: 2022-01-09 17:55
 
 - 2.1 describe the levels of organisation in organisms: organelles, cells, tissues, organs and systems.
 
-### **(b)** [[Cells]] structure
+### **(b)** [[Cells|Cell]] structure
 
 - 2.2 describe cell structures, including the _nucleus_, _cytoplasm_, _cell membrane_, _cell wall_, _mitochondria_, _chloroplasts_, _ribosomes_ and _vacuole_
 
@@ -58,7 +58,7 @@ date updated: 2022-01-09 17:55
 
 - **2.5B** explain the importance of cell differentiation in the development of specialised cells. (TRIPLE)
 
-- **2.6B** understand the advantages and disadvantages of using stem cells in medicine. (TRIPLE)
+- **2.6B** understand the advantages and disadvantages of using [[Stem Cells|stem cells]] in medicine. (TRIPLE)
 
 ### **(c)** Biological Molecules
 
