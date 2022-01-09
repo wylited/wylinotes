@@ -1,7 +1,6 @@
 ---
 description: Weekly Note | 2
-week:
-  '[object Object]': null
+week: {{title}}
 date updated: 2022-01-07 20:38
 ---
 

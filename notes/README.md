@@ -1,11 +1,11 @@
 ---
 title: Collection of knowledge.
-date updated: 2021-12-11 04:53
+date updated: 2022-01-09 17:55
 ---
 
 This is my personal collection of notes. It uses Zettelkatsen as the note taking system and qualifies as a smarter brain than the one in my head. I tend to keep this system of notes as dynamic as possible to make it more useful for a wider audience, however these notes are for personal use so they probably are pretty useless to you.
 
-An index of notes can be found to the left in the sidebar if you are viewing the static webpage. Go ahead and click on any link to read that note. 
+An index of notes can be found to the left in the sidebar if you are viewing the static webpage. Go ahead and click on any link to read that note.
 
 A search tool (hotkey: s) is also available to quickly search through all of the notes to find which ones you need.
 

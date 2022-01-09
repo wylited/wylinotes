@@ -1,6 +1,6 @@
 ---
 description: Weekly Note | 1
-week: {{date:YYYY-MM-W}}
+week: {{title}}
 date updated: 2022-01-07 17:14
 ---
 
