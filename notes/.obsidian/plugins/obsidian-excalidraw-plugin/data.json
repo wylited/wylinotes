@@ -1,7 +1,7 @@
 {
-  "folder": "Diagrams",
-  "templateFilePath": "Diagrams/Template.excalidraw",
-  "drawingFilenamePrefix": "D - ",
+  "folder": "Images",
+  "templateFilePath": "Images/Template.excalidraw",
+  "drawingFilenamePrefix": "D- ",
   "drawingFilenameDateTime": " YYYY-MM-DD",
   "displaySVGInPreview": true,
   "previewMatchObsidianTheme": true,

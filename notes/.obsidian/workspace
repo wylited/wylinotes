@@ -7,9 +7,11 @@
         "id": "18e2d40e43b6c13d",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Images/D -  Plant Cells | 2022-01-09.excalidraw.md"
+            "file": "Living Organisms/Animals cell.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/D -  Plant Cells | 2022-01-09.excalidraw.md",
+                "file": "Living Organisms/Animals cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/D -  Plant Cells | 2022-01-09.excalidraw.md",
+                "file": "Living Organisms/Animals cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/D -  Plant Cells | 2022-01-09.excalidraw.md"
+                "file": "Living Organisms/Animals cell.md"
               }
             }
           },
@@ -143,15 +145,15 @@
   },
   "active": "18e2d40e43b6c13d",
   "lastOpenFiles": [
-    "Images/D -  Plant Cells | 2022-01-09.excalidraw.md",
-    "Untitled.md",
-    "README.md",
-    "Biology Syllabus.md",
-    "Templates/Weekly Example -w1.md",
-    "Templates/A Overview.md",
-    "Templates/A Formula.md",
-    "Quantitative Chemistry/Quantitative Chemistry.md",
-    "Quantitative Chemistry/Titration.md",
-    "Quantitative Chemistry/Concentration.md"
+    "Living Organisms/Animals cell.md",
+    "Living Organisms/Plant Cells.md",
+    "Images/Animal-Cell_2022-01-09.excalidraw.svg",
+    "Images/Plant-Cells_2022-01-09.excalidraw.svg",
+    "Images/Plant-Cells_2022-01-09.excalidraw.md",
+    "Images/Animal-Cell_2022-01-09.excalidraw.md",
+    "Images/D -  Plant Cells | 2022-01-09.png",
+    "Images/D -  Plant Cells | 2022-01-09.svg",
+    "Images/Animal Cells.md",
+    "Images/D -  Plant Cells | 2022-01-09.excalidraw.svg"
   ]
 }
