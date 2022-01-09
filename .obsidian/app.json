@@ -45,7 +45,7 @@
   },
   "attachmentFolderPath": "Images",
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "vimMode": false,
   "spellcheckLanguages": [
     "en-GB",
