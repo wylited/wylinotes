@@ -45,7 +45,7 @@
   },
   "attachmentFolderPath": "Diagrams",
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "vimMode": false,
   "spellcheckLanguages": [
     "en-GB",
@@ -54,5 +54,6 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "defaultViewMode": "source",
-  "tabSize": 4
+  "tabSize": 4,
+  "communityPluginSortOrder": "downloadReverse"
 }

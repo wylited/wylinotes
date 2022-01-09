@@ -14,7 +14,7 @@ kanban-plugin: basic
 
 ## Medium Priority
 
-- [ ] LinkedIn Account<br><br>Create a LinkedIn account and upload all the things I've done tehre
+- [ ] LinkedIn Account<br><br>Create a LinkedIn account and upload all the things I've done there
 
 
 ## High Priority

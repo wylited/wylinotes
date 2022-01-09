@@ -10,7 +10,7 @@
   "monoFont": "JetBrainsMono Nerd Font",
   "lineWidth": 80,
   "maxWidth": 98,
-  "textNormal": 14,
+  "textNormal": 13,
   "textSmall": 12,
   "minimalIcons": true,
   "fancyCursor": true,
