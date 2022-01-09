@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Living Organisms/Animals cell.md",
+            "file": "Living Organisms/Cells.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Organisms/Animals cell.md",
+                "file": "Living Organisms/Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Organisms/Animals cell.md",
+                "file": "Living Organisms/Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Organisms/Animals cell.md"
+                "file": "Living Organisms/Cells.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "18e2d40e43b6c13d",
   "lastOpenFiles": [
+    "Living Organisms/Cells.md",
+    "Living Organisms/Stem Cells.md",
+    "Images/Animal-Cell_2022-01-09.excalidraw.svg",
+    "Images/Plant-Cell_2022-01-09.excalidraw.svg",
+    "Biology Syllabus.md",
+    "Images/Animal-Cell_2022-01-09.excalidraw.md",
+    "Images/Plant-Cell_2022-01-09.excalidraw.md",
     "Living Organisms/Animals cell.md",
     "Living Organisms/Plant Cells.md",
-    "Images/Animal-Cell_2022-01-09.excalidraw.svg",
-    "Images/Plant-Cells_2022-01-09.excalidraw.svg",
-    "Images/Plant-Cells_2022-01-09.excalidraw.md",
-    "Images/Animal-Cell_2022-01-09.excalidraw.md",
-    "Images/D -  Plant Cells | 2022-01-09.png",
-    "Images/D -  Plant Cells | 2022-01-09.svg",
-    "Images/Animal Cells.md",
-    "Images/D -  Plant Cells | 2022-01-09.excalidraw.svg"
+    "Images/D -  Plant Cells | 2022-01-09.png"
   ]
 }

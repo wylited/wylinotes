@@ -48,7 +48,7 @@ date updated: 2022-01-09 17:55
 
 - 2.1 describe the levels of organisation in organisms: organelles, cells, tissues, organs and systems.
 
-### **(b)** Cell structure
+### **(b)** [[Cells]] structure
 
 - 2.2 describe cell structures, including the _nucleus_, _cytoplasm_, _cell membrane_, _cell wall_, _mitochondria_, _chloroplasts_, _ribosomes_ and _vacuole_
 
