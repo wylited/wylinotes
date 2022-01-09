@@ -1,6 +1,4 @@
 [
-  "obsidian-mind-map",
-  "markdown-prettifier",
   "hotkeysplus-obsidian",
   "obsidian-excalidraw-plugin",
   "code-block-copy",
@@ -20,5 +18,9 @@
   "obsidian-minimal-settings",
   "obsidian-discordrpc",
   "obsidian-dictionary-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "better-word-count",
+  "periodic-notes",
+  "templater-obsidian",
+  "markdown-prettifier"
 ]

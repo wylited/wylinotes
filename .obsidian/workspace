@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c581af1a908497",
+        "id": "18e2d40e43b6c13d",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Tasks/Life tracking Kanban.md"
+            "file": "README.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -59,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175.00556182861328
+    "width": 209.00556182861328
   },
   "right": {
     "id": "e252193f017cf4d8",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Life tracking Kanban.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Life tracking Kanban.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Life tracking Kanban.md"
+                "file": "README.md"
               }
             }
           },
@@ -135,24 +137,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 150.87892150878906
+    "width": 240.87890625
   },
-  "active": "c9c581af1a908497",
+  "active": "18e2d40e43b6c13d",
   "lastOpenFiles": [
-    "Tasks/Life tracking Kanban.md",
-    "Tasks/ZettleKatsen todo!.md",
-    "Living Organisms/Plant Cells.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.svg",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.excalidraw",
-    "Diagrams/Diagram 2022-01-05.excalidraw.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05svg.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05.svg",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw 1.svg"
+    "README.md",
+    "Biology Syllabus.md",
+    "Templates/Weekly Example -w1.md",
+    "Templates/A Overview.md",
+    "Templates/A Formula.md",
+    "Quantitative Chemistry/Quantitative Chemistry.md",
+    "Quantitative Chemistry/Titration.md",
+    "Quantitative Chemistry/Concentration.md",
+    "Microeconomics/Economic Assumptions.md",
+    "Microeconomics/Factors of Production.md"
   ]
 }
