@@ -7,10 +7,8 @@
         "id": "c9c581af1a908497",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Tasks/Life tracking Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Life tracking Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Life tracking Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tasks/Life tracking Kanban.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,15 +138,15 @@
   },
   "active": "c9c581af1a908497",
   "lastOpenFiles": [
+    "SLG and Energy/Velocity Time Graphs.md",
+    "SLG and Energy/Distance Time Graphs.md",
+    "SLG and Energy/Gradient.md",
+    "Untitled.md",
     "Tasks/Life tracking Kanban.md",
     "Tasks/ZettleKatsen todo!.md",
     "Living Organisms/Plant Cells.md",
     "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.svg",
     "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.excalidraw",
-    "Diagrams/Diagram 2022-01-05.excalidraw.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05svg.md",
-    "Diagrams/Diagram Plant Cell 2022-01-05.svg",
-    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw 1.svg"
+    "Diagrams/Diagram Plant Cell 2022-01-05.excalidraw.excalidraw"
   ]
 }
