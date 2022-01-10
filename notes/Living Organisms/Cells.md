@@ -7,7 +7,8 @@ Cells are divided into 2 sub-categories, Animal and Plant.
 ## Parts of a Cell (Organelles)
 
 - Cell Wall
-	- 
+	- A protective layer that surrounds a cell
+	- Not permeable 
 
 - Cell Membrane
 	- A soft wall that wraps around and protects the cell

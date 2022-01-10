@@ -6,24 +6,10 @@
       {
         "id": "8d2788250f956cbb",
         "type": "leaf",
-        "dimension": 56.05536332179931,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Living Organisms/Cells.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3217d14e6961a499",
-        "type": "leaf",
-        "dimension": 43.944636678200695,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biology Syllabus.md",
+            "file": "Organisation/2022-01-02.md",
             "mode": "source",
             "source": false
           }
@@ -75,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.00556182861328
+    "width": 181.00556182861328
   },
   "right": {
     "id": "e252193f017cf4d8",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Living Organisms/Cells.md",
+                "file": "Organisation/2022-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Living Organisms/Cells.md",
+                "file": "Organisation/2022-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Living Organisms/Cells.md"
+                "file": "Organisation/2022-01-02.md"
               }
             }
           },
@@ -151,24 +137,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 174.83328247070312
+    "width": 201.87893676757812
   },
   "active": "8d2788250f956cbb",
   "lastOpenFiles": [
+    "Organisation/2022-01-02.md",
+    "Organisation/2022-01-03.md",
     "Living Organisms/Cells.md",
+    "Living Organisms/Stem Cells.md",
+    "Living Organisms/Level of organisation.md",
+    "Images/D-  2022-01-09.excalidraw.md",
     "Biology Syllabus.md",
     "Living Organisms/Variety/Eukaryotic.md",
     "Living Organisms/Variety/Pathogens.md",
-    "Living Organisms/Variety/Prokaryotic.md",
-    "Living Organisms/Living Organisms.md",
-    "Living Organisms/Level of organisation.md",
-    "Living Organisms/Stem Cells.md",
-    "Images/Plant-Cell_2022-01-09.excalidraw.svg",
-    "Images/Animal-Cell_2022-01-09.excalidraw.md"
+    "Living Organisms/Variety/Prokaryotic.md"
   ]
 }
