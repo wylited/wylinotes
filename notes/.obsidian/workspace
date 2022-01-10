@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "c98c22e421edee70",
+    "id": "18f0bd0d8aca3533",
     "type": "split",
     "children": [
       {
-        "id": "8d2788250f956cbb",
+        "id": "7a82beb4f2a60b7e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Organisation/2022-01-02.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c6c230e587aea5e",
+    "id": "6c74190f61c17595",
     "type": "split",
     "children": [
       {
-        "id": "5437876aebe2911f",
+        "id": "7e1fcade65e6684c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee62fba11a61c6e",
+            "id": "5c2284fc2b19a5ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "20f84a4dc7c7c08c",
+            "id": "1fac0a450f4d566b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "74adde6f7cfb722f",
+            "id": "54a7dae194ad0db6",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,18 +57,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.00556182861328
+    "width": 300
   },
   "right": {
-    "id": "e252193f017cf4d8",
+    "id": "a2862727dde1807b",
     "type": "split",
     "children": [
       {
-        "id": "152e7e2c09380504",
+        "id": "e89a29cea96c9f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "58196b5117b445f7",
+            "id": "65f8992a9f846471",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +76,11 @@
             }
           },
           {
-            "id": "27c90211ba205963",
+            "id": "35a77f4be9648907",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisation/2022-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "b6d125c10902bdd2",
+            "id": "53a042ff5e8a5f50",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisation/2022-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1ac55ab5aae6a4a0",
+            "id": "9cde5c02bbb6f734",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,10 @@
             }
           },
           {
-            "id": "6753cb92cd37ce47",
+            "id": "0469dbf3ad51f1f0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Organisation/2022-01-02.md"
-              }
-            }
-          },
-          {
-            "id": "928e8cdb6e6ce796",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -141,19 +125,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.87893676757812
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8d2788250f956cbb",
-  "lastOpenFiles": [
-    "Organisation/2022-01-02.md",
-    "Organisation/2022-01-03.md",
-    "Living Organisms/Cells.md",
-    "Living Organisms/Stem Cells.md",
-    "Living Organisms/Level of organisation.md",
-    "Images/D-  2022-01-09.excalidraw.md",
-    "Biology Syllabus.md",
-    "Living Organisms/Variety/Eukaryotic.md",
-    "Living Organisms/Variety/Pathogens.md",
-    "Living Organisms/Variety/Prokaryotic.md"
-  ]
+  "active": "7a82beb4f2a60b7e",
+  "lastOpenFiles": []
 }
