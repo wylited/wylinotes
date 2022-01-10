@@ -13,7 +13,7 @@ Prokaryotic organisms have a distinct nucleus and can further be separated into 
 ### Animals:
 
 - Organisms that cannot make their own food by photosynthesis.
-- Their cells have no walls
+- Their [[Cells|cells]] have no walls
 - They have nervous co-ordination
 - They are able to move
 - They store energy/carbohydrate stored as glycogen

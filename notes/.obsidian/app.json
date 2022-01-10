@@ -43,7 +43,7 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "Diagrams",
+  "attachmentFolderPath": "Images",
   "legacyEditor": false,
   "livePreview": true,
   "vimMode": false,
@@ -54,5 +54,6 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "defaultViewMode": "source",
-  "tabSize": 4
+  "tabSize": 4,
+  "communityPluginSortOrder": "downloadReverse"
 }

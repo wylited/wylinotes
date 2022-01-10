@@ -7,17 +7,12 @@
         "id": "c9c581af1a908497",
         "type": "leaf",
         "state": {
-<<<<<<< Updated upstream
-          "type": "empty",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "SLG and Energy/Velocity Time Graphs.md",
+            "file": "Electricity/Electric Current.md",
             "mode": "source",
             "source": false
           }
->>>>>>> Stashed changes
         }
       }
     ],
@@ -90,10 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "SLG and Energy/Velocity Time Graphs.md",
->>>>>>> Stashed changes
+                "file": "Electricity/Electric Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "SLG and Energy/Velocity Time Graphs.md",
->>>>>>> Stashed changes
+                "file": "Electricity/Electric Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
               "state": {
-                "file": "SLG and Energy/Velocity Time Graphs.md"
+                "file": "Electricity/Electric Current.md"
               }
->>>>>>> Stashed changes
             }
           },
           {
@@ -161,10 +146,10 @@
   },
   "active": "c9c581af1a908497",
   "lastOpenFiles": [
+    "Electricity/Electric Current.md",
     "SLG and Energy/Velocity Time Graphs.md",
     "SLG and Energy/Distance Time Graphs.md",
     "SLG and Energy/Gradient.md",
-    "Untitled.md",
     "Tasks/Life tracking Kanban.md",
     "Tasks/ZettleKatsen todo!.md",
     "Living Organisms/Plant Cells.md",

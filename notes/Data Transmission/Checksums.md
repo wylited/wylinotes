@@ -1,6 +1,6 @@
 ---
 title: Checksum
-description: A brief explanation of checksum's
+description: A brief explanation of checksum
 date created: 2021-12-13 13:58
 date updated: 2022-01-05 17:38
 ---

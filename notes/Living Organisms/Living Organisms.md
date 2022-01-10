@@ -8,4 +8,4 @@ date updated: 2022-01-05 17:37
 
 Living Organisms covers almost everything in biology, from small bacteria to plants to complex humans and other animals.
 
-All of the [[Variety]] of Living Organisms share the same 7 [[Characteristics]].
+All of the [[Variety]] of Living Organisms share the same 7 [[Characteristics]] and are made up of [[Cells]].
