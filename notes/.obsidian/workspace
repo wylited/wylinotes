@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "7a82beb4f2a60b7e",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
+=======
+        "id": "0ae8ed4d69a55b7d",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Images/D-  2022-01-13.excalidraw.md"
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -81,6 +91,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Images/D-  2022-01-13.excalidraw.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Images/D-  2022-01-13.excalidraw.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +136,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
+=======
+              "state": {
+                "file": "Images/D-  2022-01-13.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "928e8cdb6e6ce796",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+>>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -128,6 +159,22 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "7a82beb4f2a60b7e",
   "lastOpenFiles": []
+=======
+  "active": "0ae8ed4d69a55b7d",
+  "lastOpenFiles": [
+    "Images/D-  2022-01-13.excalidraw.md",
+    "Electricity/Series and Parallel circuits.md",
+    "Images/D-  Series Circuit 2022-01-13.excalidraw.md",
+    "Images/D-  Series Circuit 2022-01-13.excalidraw.svg",
+    "Electricity/Electric Current.md",
+    "SLG and Energy/Velocity Time Graphs.md",
+    "SLG and Energy/Distance Time Graphs.md",
+    "SLG and Energy/Gradient.md",
+    "Tasks/Life tracking Kanban.md",
+    "Tasks/ZettleKatsen todo!.md"
+  ]
+>>>>>>> Stashed changes
 }
