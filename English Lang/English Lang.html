@@ -1,141 +1,122 @@
 <!DOCTYPE HTML>
-<html lang="en" class="sidebar-visible no-js light">
-    <head>
-        <!-- Book generated using mdBook and mdzk -->
-        <meta charset="UTF-8">
-        <title>English Language - wylinotes</title>
+<html lang="en" class="sidebar-visible js">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="description" content="A brain of knowledge I made, because I don't have one.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff" />
 
+    <!-- Favicon -->
+    <link rel="icon" href="../favicon.svg">
+    <link rel="shortcut icon" href="../favicon.png">
 
-        <!-- Custom HTML head -->
-        
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <meta name="description" content="A brain of knowledge I made, because I don&#x27;t have one.">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="theme-color" content="#ffffff" />
+    <title>wylinotes</title>
 
-        <link rel="icon" href="../favicon.svg">
-        <link rel="shortcut icon" href="../favicon.png">
-        <link rel="stylesheet" href="../css/variables.css">
-        <link rel="stylesheet" href="../css/general.css">
-        <link rel="stylesheet" href="../css/chrome.css">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="../css/variables.css">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <link rel="stylesheet" type="text/css" href="../css/chrome.css">
+    <link rel="stylesheet" type="text/css" href="../css/fonts.css">
 
-        <!-- Fonts -->
-        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com"> 
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- KaTeX -->
+    <link rel="stylesheet" href="../css/katex.min.css">
+    <script defer src="../js/katex.min.js"></script>
 
-        <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" href="../highlight.css">
-        <link rel="stylesheet" href="../tomorrow-night.css">
-        <link rel="stylesheet" href="../ayu-highlight.css">
+    <!-- Highlight.js -->
+    <link rel="stylesheet" type="text/css" href="../css/atom-one-light.css">
+    <script src="../js/highlight.min.js" type="text/javascript" charset="utf-8"></script>
+  </head>
+  <body>
+    <!-- Provide site root to javascript -->
+    <script type="text/javascript">
+        var path_to_root = "../";
+        var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "" : "";
+    </script>
 
-        <!-- Custom theme stylesheets -->
-    </head>
-    <body>
-        <!-- Provide site root to javascript -->
-        <script type="text/javascript">
-            var path_to_root = "../";
-            var default_theme = "light";
-        </script>
-
-        <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
-            try {
-                var theme = localStorage.getItem('mdbook-theme');
-                var sidebar = localStorage.getItem('mdbook-sidebar');
-
-                if (theme.startsWith('"') && theme.endsWith('"')) {
-                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
-                }
-
-                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
-                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
-                }
-            } catch (e) { }
-        </script>
-
-        <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
-            var theme;
-            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
-            if (theme === null || theme === undefined) { theme = default_theme; }
-            var html = document.querySelector('html');
-            html.classList.remove('no-js')
-            html.classList.remove('light')
-            html.classList.add(theme);
-            html.classList.add('js');
-        </script>
-
-        <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
-            var html = document.querySelector('html');
-            var sidebar = 'hidden';
-            if (document.body.clientWidth >= 1080) {
-                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
-                sidebar = sidebar || 'visible';
+    <!-- Work around some values being stored in localStorage wrapped in quotes -->
+    <script type="text/javascript">
+        try {
+            var sidebar = localStorage.getItem('mdbook-sidebar');
+            if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
             }
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+        } catch (e) { }
+    </script>
+
+    <!-- Hide / unhide sidebar before it is displayed -->
+    <script type="text/javascript">
+        var html = document.querySelector('html');
+        var sidebar = 'hidden';
+        if (document.body.clientWidth >= 1080) {
+            try { sidebar = localStorage.getItem('mdzk-sidebar'); } catch(e) { }
+            sidebar = sidebar || 'visible';
+        }
+        html.classList.remove('sidebar-visible');
+        html.classList.add("sidebar-" + sidebar);
+    </script>
+
+    <!-- Sidebar -->
+    <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+      <div class="sidebar-scrollbox">
+        <ol class="chapter"><li class="chapter-item "><div>Data Storage</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Data%20Storage/Data%20storage.html">Data Storage</a></li></ol></li><li class="chapter-item "><a href="../Data%20Transmission/Data%20Transmission.html">Data Transmission</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Data%20Transmission/Binary%20Operations.html">Binary Operations</a></li><li class="chapter-item "><a href="../Data%20Transmission/Checksums.html">Checksum</a></li><li class="chapter-item "><a href="../Data%20Transmission/Duplex.html">Duplex</a></li><li class="chapter-item "><a href="../Data%20Transmission/Parallel%20Transmission.html">Parallel Transmission</a></li><li class="chapter-item "><a href="../Data%20Transmission/Parity%20Bit.html">Parity Bit</a></li><li class="chapter-item "><a href="../Data%20Transmission/Parity%20Block.html">Parity Block</a></li><li class="chapter-item "><a href="../Data%20Transmission/Serial%20Transmission.html">Serial Transmission</a></li><li class="chapter-item "><a href="../Data%20Transmission/Transmissions%20Errors.html">Transmission Errors</a></li><li class="chapter-item "><a href="../Data%20Transmission/Universal%20Serial%20Bus.html">Universal Serial Bus</a></li></ol></li><li class="chapter-item "><div>Design Theory</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Design%20Theory/1/1.html">1</a></li><li class="chapter-item "><a href="../Design%20Theory/2/2.html">2</a></li><li class="chapter-item "><div>3 Designing &amp; Making</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Design%20Theory/3%20Designing%20&amp;%20Making/3.html">3</a></li></ol></li></ol></li><li class="chapter-item "><a href="../Economic%20Defintions/Economic%20Defintions.html">Economic Defintions</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Economic%20Defintions/Maximise.html">Maximise</a></li><li class="chapter-item "><a href="../Economic%20Defintions/Revenue.html">Revenue</a></li></ol></li><li class="chapter-item "><div>Electricity</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Electricity/Electric%20Current.html">Electric Current</a></li><li class="chapter-item "><a href="../Electricity/Series%20and%20Parallel%20circuits.html">Series and Parallel circuits</a></li></ol></li><li class="chapter-item "><a href="../English%20Lang/English%20Lang.html" class="active">English Language</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../English%20Lang/Descriptive%20Planning.html">Descriptive Planning</a></li><li class="chapter-item "><a href="../English%20Lang/Descriptive%20Writing.html">Descriptive Writing</a></li><li class="chapter-item "><a href="../English%20Lang/Directed%20Writing%20-%20Article.html">Directed Writing - Article</a></li><li class="chapter-item "><a href="../English%20Lang/Directed%20Writing.html">Directed Writing</a></li><li class="chapter-item "><a href="../English%20Lang/Feature%20Article.html">Feature Article</a></li><li class="chapter-item "><a href="../English%20Lang/Gothic%20Pieces.html">Gothic Pieces</a></li><li class="chapter-item "><a href="../English%20Lang/Letter.html">Letter</a></li><li class="chapter-item "><a href="../English%20Lang/Similes%20and%20Metaphors.html">Similes and Metaphors</a></li></ol></li><li class="chapter-item "><a href="../Formulae/Formulae.html">Formulae</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Formulae/Acceleration.html">Acceleration</a></li><li class="chapter-item "><a href="../Formulae/Fluid%20Density.html">Fluid Density</a></li><li class="chapter-item "><a href="../Formulae/Fluid%20Pressure.html">Fluid Pressure</a></li><li class="chapter-item "><a href="../Formulae/GPE.html">GPE</a></li><li class="chapter-item "><a href="../Formulae/Kinetic%20Energy.html">Kinetic Energy</a></li><li class="chapter-item "><a href="../Formulae/Liquid%20Pressure.html">Liquid Pressure</a></li><li class="chapter-item "><a href="../Formulae/Pressure%20Laws.html">Pressure Laws</a></li><li class="chapter-item "><a href="../Formulae/Specficic%20Heat%20Capacity.html">Specific Heat Capacity</a></li><li class="chapter-item "><a href="../Formulae/Weight.html">Weight</a></li><li class="chapter-item "><a href="../Formulae/Work%20Done.html">Work Done</a></li></ol></li><li class="chapter-item "><div>Images</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Images/Animal-Cell_2022-01-09.excalidraw.html">Animal-Cell_2022-01-09.excalidraw</a></li><li class="chapter-item "><a href="../Images/D-%20%202022-01-13.excalidraw.html">D-  2022-01-13.excalidraw</a></li><li class="chapter-item "><a href="../Images/D-%20%202022-02-04.excalidraw.html">D-  2022-02-04.excalidraw</a></li><li class="chapter-item "><a href="../Images/D-%20%20Ptable%202022-02-08.excalidraw.html">D-  Ptable 2022-02-08.excalidraw</a></li><li class="chapter-item "><a href="../Images/D-%20%20Series%20Circuit%202022-01-13.excalidraw.html">D-  Series Circuit 2022-01-13.excalidraw</a></li><li class="chapter-item "><a href="../Images/Plant-Cell_2022-01-09.excalidraw.html">Plant-Cell_2022-01-09.excalidraw</a></li></ol></li><li class="chapter-item "><a href="../Kinematics/Kinematics.html">Kinematics</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Kinematics/Energy/Energy.html">Energy</a></li><li class="chapter-item "><a href="../Kinematics/Acceleration%20&amp;%20Velocity.html">Acceleration &amp; Velocity</a></li><li class="chapter-item "><a href="../Kinematics/GPE%20and%20KE.html">GPE and KE</a></li><li class="chapter-item "><a href="../Kinematics/Power.html">Power</a></li></ol></li><li class="chapter-item "><a href="../Laws/Laws.html">Laws</a></li><li class="chapter-item "><a href="../Living%20Organisms/Living%20Organisms.html">1 - Biology</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Living%20Organisms/Variety/Variety.html">Variety</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Living%20Organisms/Variety/Eukaryotic.html">Prokaryotic</a></li><li class="chapter-item "><a href="../Living%20Organisms/Variety/Pathogens.html">Pathogens</a></li><li class="chapter-item "><a href="../Living%20Organisms/Variety/Prokaryotic.html">Eukaryotic</a></li></ol></li><li class="chapter-item "><a href="../Living%20Organisms/Cells.html">Cells</a></li><li class="chapter-item "><a href="../Living%20Organisms/Characteristics.html">Characteristics</a></li><li class="chapter-item "><a href="../Living%20Organisms/Level%20of%20organisation.html">Level of organisation</a></li><li class="chapter-item "><a href="../Living%20Organisms/Stem%20Cells.html">Stem Cells</a></li></ol></li><li class="chapter-item "><div>Microeconomics</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Microeconomics/1.1.1.html">The Economic Problem</a></li><li class="chapter-item "><a href="../Microeconomics/1.1.html">1.1</a></li><li class="chapter-item "><a href="../Microeconomics/Economic%20Assumptions.html">Economic Assumptions</a></li><li class="chapter-item "><a href="../Microeconomics/Factors%20of%20Production.html">Factors of Production</a></li><li class="chapter-item "><a href="../Microeconomics/Goods.html">Goods</a></li><li class="chapter-item "><a href="../Microeconomics/Needs%20and%20Wants.html">Needs and Wants</a></li><li class="chapter-item "><a href="../Microeconomics/Opportunity%20Cost.html">Opportunity Cost</a></li></ol></li><li class="chapter-item "><a href="../Numeral%20Systems/Numeral%20Systems.html">Numeral Systems</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Numeral%20Systems/Binary.html">Binary</a></li><li class="chapter-item "><a href="../Numeral%20Systems/Decimal.html">Decimal</a></li><li class="chapter-item "><a href="../Numeral%20Systems/Hexadecimal.html">Hexadecimal</a></li><li class="chapter-item "><a href="../Numeral%20Systems/Octal.html">Octal</a></li></ol></li><li class="chapter-item "><div>Organisation</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Organisation/2022-01-02.html">2022-01-02</a></li><li class="chapter-item "><a href="../Organisation/2022-01-03.html">2022-01-03</a></li><li class="chapter-item "><a href="../Organisation/2022-01-04.html">2022-01-04</a></li><li class="chapter-item "><a href="../Organisation/2022-01-05.html">2022-01-05</a></li><li class="chapter-item "><a href="../Organisation/Life%20tracking%20Kanban.html">Life tracking Kanban</a></li><li class="chapter-item "><a href="../Organisation/tasks.html">tasks</a></li></ol></li><li class="chapter-item "><a href="../Quantitative%20Chemistry/Quantitative%20Chemistry.html">Quantitative Chemistry</a><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Quantitative%20Chemistry/Concentration.html">Concentration</a></li><li class="chapter-item "><a href="../Quantitative%20Chemistry/Titration.html">Titration</a></li></ol></li><li class="chapter-item "><div>SLG and Energy</div><a class="toggle"><div>→</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../SLG%20and%20Energy/Distance%20Time%20Graphs.html">Distance Time Graphs</a></li><li class="chapter-item "><a href="../SLG%20and%20Energy/Gradient.html">Gradient</a></li><li class="chapter-item "><a href="../SLG%20and%20Energy/Velocity%20Time%20Graphs.html">Velocity Time Graphs</a></li></ol></li><li class="chapter-item "><a href="../Biology%20Syllabus.html">Biology Syllabus</a></li><li class="chapter-item "><a href="../index.html">Collection of knowledge.</a></li></ol>
+        <p id="watermark"><a href="https://mdzk.app">Made with mdzk</a></p>
+      </div>
+      <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+    </nav>
+
+    <div id="page-wrapper" class="page-wrapper">
+      <div class="page">
+        <div id="menu-bar-hover-placeholder"></div>
+        <div id="menu-bar" class="menu-bar sticky bordered">
+          <div class="left-buttons">
+            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+              ☰
+            </button>
+          </div>
+
+          <h1 class="menu-title">English Language</h1>
+
+          <div class="right-buttons">
+            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+              ⌕
+            </button>
+          </div>
+        </div>
+
+        <div id="search-wrapper" class="hidden">
+          <form id="searchbar-outer" class="searchbar-outer">
+            <input type="search" id="searchbar" name="searchbar" placeholder="Search inside mdzk..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+          </form>
+          <div id="searchresults-outer" class="searchresults-outer hidden">
+            <div id="searchresults-header" class="searchresults-header"></div>
+            <ul id="searchresults">
+            </ul>
+          </div>
+        </div>
+
+        <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+        <script type="text/javascript">
+          document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+          document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+          Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+              link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+          });
         </script>
 
-        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
-            <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item "><div>Data Storage</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Data Storage/Data storage.html">Data Storage</a></li></ol></li><li class="chapter-item "><a href="../Data Transmission/Data Transmission.html">Data Transmission</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Data Transmission/Binary Operations.html">Binary Operations</a></li><li class="chapter-item "><a href="../Data Transmission/Checksums.html">Checksum</a></li><li class="chapter-item "><a href="../Data Transmission/Duplex.html">Duplex</a></li><li class="chapter-item "><a href="../Data Transmission/Parallel Transmission.html">Parallel Transmission</a></li><li class="chapter-item "><a href="../Data Transmission/Parity Bit.html">Parity Bit</a></li><li class="chapter-item "><a href="../Data Transmission/Parity Block.html">Parity Block</a></li><li class="chapter-item "><a href="../Data Transmission/Serial Transmission.html">Serial Transmission</a></li><li class="chapter-item "><a href="../Data Transmission/Transmissions Errors.html">Transmission Errors</a></li><li class="chapter-item "><a href="../Data Transmission/Universal Serial Bus.html">Universal Serial Bus</a></li></ol></li><li class="chapter-item "><a href="../Economic Defintions/Economic Defintions.html">Economic Defintions</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Economic Defintions/Maximise.html">Maximise</a></li><li class="chapter-item "><a href="../Economic Defintions/Revenue.html">Revenue</a></li></ol></li><li class="chapter-item "><div>Electricity</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Electricity/Electric Current.html">Electric Current</a></li><li class="chapter-item "><a href="../Electricity/Series and Parallel circuits.html">Series and Parallel circuits</a></li></ol></li><li class="chapter-item expanded "><a href="../English Lang/English Lang.html" class="active">English Language</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../English Lang/Descriptive Planning.html">Descriptive Planning</a></li><li class="chapter-item "><a href="../English Lang/Descriptive Writing.html">Descriptive Writing</a></li><li class="chapter-item "><a href="../English Lang/Directed Writing - Article.html">Directed Writing - Article</a></li><li class="chapter-item "><a href="../English Lang/Directed Writing.html">Directed Writing</a></li><li class="chapter-item "><a href="../English Lang/Feature Article.html">Feature Article</a></li><li class="chapter-item "><a href="../English Lang/Gothic Pieces.html">Gothic Pieces</a></li><li class="chapter-item "><a href="../English Lang/Letter.html">Letter</a></li><li class="chapter-item "><a href="../English Lang/Similes and Metaphors.html">Similes and Metaphors</a></li></ol></li><li class="chapter-item "><a href="../Formulae/Formulae.html">Formulae</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Formulae/Acceleration.html">Acceleration</a></li><li class="chapter-item "><a href="../Formulae/Fluid Density.html">Fluid Density</a></li><li class="chapter-item "><a href="../Formulae/Fluid Pressure.html">Fluid Pressure</a></li><li class="chapter-item "><a href="../Formulae/GPE.html">GPE</a></li><li class="chapter-item "><a href="../Formulae/Kinetic Energy.html">Kinetic Energy</a></li><li class="chapter-item "><a href="../Formulae/Liquid Pressure.html">Liquid Pressure</a></li><li class="chapter-item "><a href="../Formulae/Pressure Laws.html">Pressure Laws</a></li><li class="chapter-item "><a href="../Formulae/Specficic Heat Capacity.html">Specific Heat Capacity</a></li><li class="chapter-item "><a href="../Formulae/Weight.html">Weight</a></li><li class="chapter-item "><a href="../Formulae/Work Done.html">Work Done</a></li></ol></li><li class="chapter-item "><div>Images</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Images/Animal-Cell_2022-01-09.excalidraw.html">Animal-Cell_2022-01-09.excalidraw</a></li><li class="chapter-item "><a href="../Images/D-  2022-01-13.excalidraw.html">D-  2022-01-13.excalidraw</a></li><li class="chapter-item "><a href="../Images/D-  Series Circuit 2022-01-13.excalidraw.html">D-  Series Circuit 2022-01-13.excalidraw</a></li><li class="chapter-item "><a href="../Images/Plant-Cell_2022-01-09.excalidraw.html">Plant-Cell_2022-01-09.excalidraw</a></li></ol></li><li class="chapter-item "><a href="../Kinematics/Kinematics.html">Kinematics</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Kinematics/Energy/Energy.html">Energy</a></li><li class="chapter-item "><a href="../Kinematics/Acceleration & Velocity.html">Acceleration &amp; Velocity</a></li><li class="chapter-item "><a href="../Kinematics/GPE and KE.html">GPE and KE</a></li><li class="chapter-item "><a href="../Kinematics/Power.html">Power</a></li></ol></li><li class="chapter-item "><a href="../Laws/Laws.html">Laws</a></li><li class="chapter-item "><a href="../Living Organisms/Living Organisms.html">1 - Biology</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Living Organisms/Variety/Variety.html">Variety</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Living Organisms/Variety/Eukaryotic.html">Prokaryotic</a></li><li class="chapter-item "><a href="../Living Organisms/Variety/Pathogens.html">Pathogens</a></li><li class="chapter-item "><a href="../Living Organisms/Variety/Prokaryotic.html">Eukaryotic</a></li></ol></li><li class="chapter-item "><a href="../Living Organisms/Cells.html">Cells</a></li><li class="chapter-item "><a href="../Living Organisms/Characteristics.html">Characteristics</a></li><li class="chapter-item "><a href="../Living Organisms/Level of organisation.html">Level of organisation</a></li><li class="chapter-item "><a href="../Living Organisms/Stem Cells.html">Stem Cells</a></li></ol></li><li class="chapter-item "><div>Microeconomics</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Microeconomics/1.1.1.html">The Economic Problem</a></li><li class="chapter-item "><a href="../Microeconomics/1.1.html">1.1</a></li><li class="chapter-item "><a href="../Microeconomics/Economic Assumptions.html">Economic Assumptions</a></li><li class="chapter-item "><a href="../Microeconomics/Factors of Production.html">Factors of Production</a></li><li class="chapter-item "><a href="../Microeconomics/Goods.html">Goods</a></li><li class="chapter-item "><a href="../Microeconomics/Needs and Wants.html">Needs and Wants</a></li><li class="chapter-item "><a href="../Microeconomics/Opportunity Cost.html">Opportunity Cost</a></li></ol></li><li class="chapter-item "><a href="../Numeral Systems/Numeral Systems.html">Numeral Systems</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Numeral Systems/Binary.html">Binary</a></li><li class="chapter-item "><a href="../Numeral Systems/Decimal.html">Decimal</a></li><li class="chapter-item "><a href="../Numeral Systems/Hexadecimal.html">Hexadecimal</a></li><li class="chapter-item "><a href="../Numeral Systems/Octal.html">Octal</a></li></ol></li><li class="chapter-item "><div>Organisation</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Organisation/2022-01-02.html">2022-01-02</a></li><li class="chapter-item "><a href="../Organisation/2022-01-03.html">2022-01-03</a></li><li class="chapter-item "><a href="../Organisation/2022-01-04.html">2022-01-04</a></li><li class="chapter-item "><a href="../Organisation/2022-01-05.html">2022-01-05</a></li><li class="chapter-item "><a href="../Organisation/Life tracking Kanban.html">Life tracking Kanban</a></li></ol></li><li class="chapter-item "><a href="../Quantitative Chemistry/Quantitative Chemistry.html">Quantitative Chemistry</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../Quantitative Chemistry/Concentration.html">Concentration</a></li><li class="chapter-item "><a href="../Quantitative Chemistry/Titration.html">Titration</a></li></ol></li><li class="chapter-item "><div>SLG and Energy</div><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../SLG and Energy/Distance Time Graphs.html">Distance Time Graphs</a></li><li class="chapter-item "><a href="../SLG and Energy/Gradient.html">Gradient</a></li><li class="chapter-item "><a href="../SLG and Energy/Velocity Time Graphs.html">Velocity Time Graphs</a></li></ol></li><li class="chapter-item "><a href="../Biology Syllabus.html">Biology Syllabus</a></li><li class="chapter-item "><a href="../index.html">Collection of knowledge.</a></li></ol>
-            </div>
-            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
-        </nav>
-
-        <div id="page-wrapper" class="page-wrapper">
-
-            <div class="page">
-                                <div id="menu-bar-hover-placeholder"></div>
-                <div id="menu-bar" class="menu-bar sticky bordered">
-                    <div class="left-buttons">
-                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
-                            <i class="fa fa-bars"></i>
-                        </button>
-                        <button style="display: none;" id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
-                            <i class="fa fa-paint-brush"></i>
-                        </button>
-                    </div>
-
-                    <h1 class="menu-title">English Language</h1>
-
-                    <div class="right-buttons">
-                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="dark">Dark</button></li>
-                        </ul>
-
-                    </div>
-                </div>
-
-
-                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
-                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
-                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
-                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
-                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
-                    });
-                </script>
-
-                <div id="content" class="content">
-                    <main>
-                        <p>This sub-section is designed to prepare you for the international GCSE (General Certificate of Secondary Education) First Language English.</p>
+        <div id="content" class="content">
+          <main>
+              <p>This sub-section is designed to prepare you for the international GCSE (General Certificate of Secondary Education) First Language English.</p>
 <p>The English iGCSE is made up of 2 papers and 2 other components.</p>
-<h2 id="paper-1---reading"><a class="header" href="#paper-1---reading">Paper 1 - Reading.</a></h2>
+<h2>Paper 1 - Reading.</h2>
 <p>Written paper, 2 hours, 80 marks. Made up of 3 questions on 3 texts.
 Text A and B is about 700-750 words in length.
 Text C is about 500-650 words in length.</p>
-<p><span class="missing-link" style="color:darkred;">english</span></p>
-<h3 id="question-1-comprehension-and-summary-task-30-marks"><a class="header" href="#question-1-comprehension-and-summary-task-30-marks">Question 1 Comprehension and summary task (30 marks)</a></h3>
-<h2 id="paper-2---composition"><a class="header" href="#paper-2---composition">Paper 2 - Composition.</a></h2>
+<p><span class="missing-link" title="This note does not exist.">english</span></p>
+<h3>Question 1 Comprehension and summary task (30 marks)</h3>
+<h2>Paper 2 - Composition.</h2>
 <p>The Composition Paper is split into 2 major parts, <a href="Directed%20Writing.html">Directed Writing</a> and <a href="Descriptive%20Writing.html">Descriptive Writing</a>.</p>
 <p>Refer to the <a href="https://www.cambridgeinternational.org/Images/635230-2024-2026-syllabus.pdf">syllabus</a> for more information</p>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css" integrity="sha384-zTROYFVGOfTw7JV7KUu8udsvW2fx4lWOsCEDqhBreBwlHI4ioVRtmIvEThzJHGET" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.20/dist/katex.min.js" integrity="sha384-ov99pRO2tAc0JuxTVzf63RHHeQTJ0CIawbDZFiFTzB07aqFZwEu2pz4uzqL+5OPG" crossorigin="anonymous"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var math = document.querySelectorAll("[class^=katex]");
@@ -146,24 +127,28 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 }, false)
 </script>
-                    </main>
-                </div>
-            </div>
+          </main>
         </div>
+      </div>
+    </div>
 
+    <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+    <script type="text/javascript">
+        document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+        document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+        Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+            link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+        });
+    </script>
 
+    <!-- JS for page functionality -->
+    <script src="../js/page.js" type="text/javascript" charset="utf-8"></script>
 
+    <!-- Search JS -->
+    <script src="../js/elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/mark.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/searcher.js" type="text/javascript" charset="utf-8"></script>
 
-        <script type="text/javascript">
-            window.playground_copyable = true;
-        </script>
-
-
-
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
-
-        <!-- Custom JS scripts -->
-    </body>
+    <!-- Livereload script (if served using the cli tool) -->
+  </body>
 </html>
