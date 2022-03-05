@@ -34,7 +34,7 @@ date updated: 2022-01-09 17:55
   - **Protoctists**: these are microscopic single-celled organisms. Some, like _Amoeba_, that live in pond water, have features like an animal cell, while others, like _Chlorella_, have chloroplasts and are more like plants. A pathogenic example is _Plasmodium_, responsible for causing malaria.
 
 - **1.3** describe the common features shown by [[Prokaryotic]] organisms such as bacteria
-  - **Bacteria**: these are microscopic single-celled organisms; they have a cell wall, cell membrane, cytoplasm and plasmids; they lack a nucleus but contain a circular chromosome of DNA; some bacteria can carry out photosynthesis but most feed off other living or dead organisms. Examples include _Lactobacillus bulgaricus_, a rod-shaped bacterium used in the production of yoghurt from milk, and _Pneumococcus_, a spherical bacterium that acts as the pathogen causing pneumonia.
+  - **Bacteria**: these are microscopic single-celled organisms; they have a cell wall, cell membrane, cytoplasm and plasmids; they lack a nucleus but contain a circular chromosome of DNA; some bacteria can carry out photosynthesis but most feed off other living or dead organisms. Examples include _Lactobacillus bulgaricus_, a rod-shaped bacterium used in the production of yogurt from milk, and _Pneumococcus_, a spherical bacterium that acts as the pathogen causing pneumonia.
   -
 
 - **1.4** understand the term [[Pathogens]] and know that pathogens may include fungi, bacteria, protoctists or viruses.

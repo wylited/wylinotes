@@ -22,5 +22,9 @@
   "better-word-count",
   "periodic-notes",
   "templater-obsidian",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-style-settings",
+  "quick-latex",
+  "obsidian-latex",
+  "obsidian-latex-environments"
 ]

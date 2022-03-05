@@ -46,7 +46,7 @@
   "attachmentFolderPath": "Images",
   "legacyEditor": false,
   "livePreview": true,
-  "vimMode": false,
+  "vimMode": true,
   "spellcheckLanguages": [
     "en-GB",
     "en-CA"
@@ -55,5 +55,5 @@
   "readableLineLength": true,
   "defaultViewMode": "source",
   "tabSize": 4,
-  "communityPluginSortOrder": "downloadReverse"
+  "communityPluginSortOrder": "download"
 }
