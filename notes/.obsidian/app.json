@@ -6,7 +6,7 @@
   "showUnsupportedFiles": true,
   "strictLineBreaks": true,
   "spellcheck": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
   "spellcheckDictionary": [
@@ -44,16 +44,16 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "Images",
-  "legacyEditor": false,
-  "livePreview": true,
-  "vimMode": true,
+  "legacyEditor": true,
+  "livePreview": false,
+  "vimMode": false,
   "spellcheckLanguages": [
     "en-GB",
     "en-CA"
   ],
   "showLineNumber": false,
   "readableLineLength": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "tabSize": 4,
   "communityPluginSortOrder": "download"
 }
