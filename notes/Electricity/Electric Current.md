@@ -4,3 +4,12 @@ Electric current is the rate of flow of electric charge.
 
 An electric current flows when electrons move through a conductor, such as a metal wire.
 Electricity passes through metallic conductors as a flow of negatively charged electrons.
+
+## Electric charge
+$$
+q = \int_{t_{i}}^{t_{f}} I \cdot {d}t
+$$
+or 
+$$
+q = I \cdot {d}t
+$$

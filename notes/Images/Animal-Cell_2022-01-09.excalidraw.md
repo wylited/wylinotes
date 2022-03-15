@@ -29,7 +29,7 @@ excalidraw-plugin: raw
 			"angle": 0,
 			"x": -480.8333435058593,
 			"y": -187.5,
-			"strokeColor": "#ffffff",
+			"strokeColor": "[[ffffff]]",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -10000,7 +10000,7 @@ excalidraw-plugin: raw
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#ffffff",
+		"viewBackgroundColor": "[[ffffff]]",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",

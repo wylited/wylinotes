@@ -3,11 +3,19 @@
   "accentHue": 0,
   "accentSat": 0,
   "lightStyle": "minimal-light",
+<<<<<<< Updated upstream
   "darkStyle": "minimal-dark-tonal",
   "uiFont": "Roboto Condensed",
   "textFont": "Lexend",
   "editorFont": "Lexend",
   "monoFont": "JetBrains Mono",
+=======
+  "darkStyle": "minimal-dark",
+  "uiFont": "Lexend",
+  "textFont": "Lexend",
+  "editorFont": "Lexend",
+  "monoFont": "Lexend",
+>>>>>>> Stashed changes
   "lineWidth": 80,
   "maxWidth": 98,
   "textNormal": 14,

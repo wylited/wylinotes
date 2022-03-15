@@ -44,7 +44,11 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "Images",
+<<<<<<< Updated upstream
   "legacyEditor": true,
+=======
+  "legacyEditor": false,
+>>>>>>> Stashed changes
   "livePreview": false,
   "vimMode": false,
   "spellcheckLanguages": [
