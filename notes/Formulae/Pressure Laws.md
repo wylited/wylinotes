@@ -6,23 +6,21 @@ state: finished
 date updated: 2021-12-13 19:21
 ---
 [[physics]]
-
-[[Formulae]],
+[[Formulae]]
 
 # Boyle's Law
 
 ## $P_1 V_1 = P_2 V_2$
 
-## Where:
+| Variable | Description      | Unit     | Type   |
+| -------- | ---------------- | -------- | ------ |
+| $$P_1$$  | initial pressure | pressure | scalar |
+| $$P_2$$  | final pressure   | pressure | scalar |
+| $$V_2$$  | initial volume   | volume   | scalar |
+| $$V_2$$  | final volume     | volume   | scalar | 
 
-- $P_1$ is initial pressure, given in a unit of pressure (Scalar or Vector)
-- $P_2$ is final pressure, given in bar. (Scalar or Vector)
-- $V_1$ is initial volume, given in an unit of volume. (Scalar or Vector)
-- $V_2$ is final volume, given in an unit of volume that is the same as $V_1$'s unit.
-
-## Extra notes:
-
-- This law represents the inverse relationship between pressure and volume, **if** and only **if** temperature remains constant.
+### Extra notes:
+This law represents the inverse relationship between pressure and volume, **if** and only **if** temperature remains constant.
 
 # Pressure Law
 
@@ -30,11 +28,12 @@ date updated: 2021-12-13 19:21
 
 ## Where:
 
-- $P_1$ is initial pressure, given in an unit of pressure. (Scalar)
-- $P_2$ is final pressure, given in an unit of pressure. (Scalar)
-- $V_1$ is initial temperature,, given in Kelvin. (Scalar)
-- $V_2$ is initial temperature,, given in Kelvin. (Scalar)
+| Variable | Description         | Unit     | Type   |
+| -------- | ------------------- | -------- | ------ |
+| $$P_1$$  | initial pressure    | pressure | scalar |
+| $$P_2$$  | final pressure      | pressure | scalar |
+| $$V_2$$  | initial temperature | kelvin   | scalar |
+| $$V_2$$  | final temperature   | kelvin   | scalar |
 
-## Extra notes:
-
-- This law represents the proportional relationship between pressure and temperature, **if** and only **if** volume remains constant.
+### Extra notes:
+This law represents the proportional relationship between pressure and temperature, **if** and only **if** volume remains constant.

@@ -1,5 +1,5 @@
 {
-  "highlighterStyle": "floating",
+  "highlighterStyle": "lowlight",
   "highlighterMethods": "inline-styles",
   "highlighters": {
     "Pink": "#FFB8EBA6",
@@ -16,13 +16,13 @@
     "Light-Red": "#FF558255"
   },
   "highlighterOrder": [
-    "Pink",
     "Light-Red",
+    "Light-Green",
+    "Light-Yellow",
+    "Pink",
     "Red",
     "Orange",
-    "Light-Yellow",
     "Yellow",
-    "Light-Green",
     "Green",
     "Cyan",
     "Blue",

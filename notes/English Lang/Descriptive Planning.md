@@ -16,7 +16,7 @@ date updated: 2021-12-12 19:30
 
 ### Setting
 
-- Canteen.
+- Canteen
 - Cafe or fine dining.
 - Picnic.
 - Street food.
