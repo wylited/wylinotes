@@ -1,6 +1,47 @@
 /* CSS for UI elements (a.k.a. chrome) */
 
-@import 'variables.css';
+/* Globals */
+
+:root {
+    --sidebar-width: 200px;
+    --page-padding: 10px;
+    --content-max-width: 800px;
+    --menu-bar-height: 70px;
+    --bg: #0D1017;
+    --fg: #BFBDB6;
+
+    --sidebar-bg: #1c1e22;
+    --sidebar-fg: #CCCAC2;
+    --sidebar-non-existant: #999893;
+    --sidebar-active: #D95757;
+    --sidebar-spacer: #222;
+
+    --scrollbar: #2b2b2b;
+
+    --icons: #999;
+    --icons-hover: #D95757;
+    
+    --links: #D95757;
+
+    --inline-code-color: #0D1017;
+
+    --theme-popup-bg: #000000;
+    --theme-popup-border: #1c1e22;
+    --theme-hover: #1c1e22;
+
+    --quote-bg: #0D1017;
+    --quote-border: #D95757;
+
+    --searchbar-border-color: #D95757;
+    --searchbar-bg: #1c1e22;
+    --searchbar-fg: #BFBDB6;
+    --searchbar-shadow-color: #000;
+    --searchresults-header-fg: #CCCAC2;
+    --searchresults-border-color: #D95757;
+    --searchresults-li-bg: #111316;
+    --search-mark-bg: #111316;
+}
+
 
 ::-webkit-scrollbar {
     background: #f6f6f6;
