@@ -1,26 +1,16 @@
 {
   "main": {
-    "id": "c98c22e421edee70",
+    "id": "c5c3c98e006cf088",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "cc618f2a216410f3",
-=======
-        "id": "982423123050bc70",
->>>>>>> Stashed changes
+        "id": "49fda9725617a836",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Formulae/Fluid Pressure.md",
+            "file": "Design Theory/1/1/1.md",
             "mode": "source"
-=======
-            "file": "Electricity/Voltage.md",
-            "mode": "source",
-            "source": true
->>>>>>> Stashed changes
           }
         }
       }
@@ -28,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0c6c230e587aea5e",
+    "id": "07d7f7bcb8e8fd9e",
     "type": "split",
     "children": [
       {
-        "id": "5437876aebe2911f",
+        "id": "b289a3f655145905",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee62fba11a61c6e",
+            "id": "eb1d489c83b57943",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +34,7 @@
             }
           },
           {
-            "id": "20f84a4dc7c7c08c",
+            "id": "2b0bf8cc91136994",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +49,7 @@
             }
           },
           {
-            "id": "74adde6f7cfb722f",
+            "id": "f6bae311c04cd20c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,22 +60,18 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 164.00556182861328
-=======
-    "width": 155
->>>>>>> Stashed changes
+    "width": 242.00556182861328
   },
   "right": {
-    "id": "e252193f017cf4d8",
+    "id": "f1b665e538e9da56",
     "type": "split",
     "children": [
       {
-        "id": "152e7e2c09380504",
+        "id": "75154026dd418dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "58196b5117b445f7",
+            "id": "08e910fa0a26537e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,16 +79,12 @@
             }
           },
           {
-            "id": "27c90211ba205963",
+            "id": "1ed8bdbb6350e9ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Formulae/Fluid Pressure.md",
-=======
-                "file": "Electricity/Voltage.md",
->>>>>>> Stashed changes
+                "file": "Design Theory/1/1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,23 +96,19 @@
             }
           },
           {
-            "id": "b6d125c10902bdd2",
+            "id": "906665825306bd0d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Formulae/Fluid Pressure.md",
-=======
-                "file": "Electricity/Voltage.md",
->>>>>>> Stashed changes
+                "file": "Design Theory/1/1/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1ac55ab5aae6a4a0",
+            "id": "213f8db26ffc988c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,61 +119,33 @@
             }
           },
           {
-            "id": "6753cb92cd37ce47",
+            "id": "9e6c6f5d6afbd19b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Formulae/Fluid Pressure.md"
-=======
-                "file": "Electricity/Voltage.md"
->>>>>>> Stashed changes
+                "file": "Design Theory/1/1/1.md"
               }
-            }
-          },
-          {
-            "id": "928e8cdb6e6ce796",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 187.99998474121094
+    "width": 300,
+    "collapsed": true
   },
-  "active": "cc618f2a216410f3",
+  "active": "49fda9725617a836",
   "lastOpenFiles": [
-    "Formulae/Fluid Pressure.md",
-    "Formulae/Fluid Density.md",
-    "Formulae/Acceleration.md",
+    "Design Theory/1/1/1.md",
+    "Design Theory/1/1.md",
+    "Untitled.md",
+    "Organisation/Life tracking Kanban.md",
+    "README.md",
     "physics.md",
-    "Formulae/Pressure Laws.md",
-    "Formulae/Formulae.md",
+    "Biology Syllabus.md",
+    "Whale Rider/Characters.md",
     "Templates/Formula.md",
-    "Formulae/GPE.md",
-    "Formulae/Kinetic Energy.md",
-    "Formulae/Liquid Pressure.md"
-=======
-    "width": 187.5
-  },
-  "active": "982423123050bc70",
-  "lastOpenFiles": [
-    "Electricity/Voltage.md",
-    "Electricity/Ampere.md",
-    "Electricity/Electric Current.md",
-    "Electricity/Series and Parallel circuits.md",
-    "Algorithm design and problem-solving/Analysis.md",
-    "Algorithm design and problem-solving/Flowcharts.md",
-    "Algorithm design and problem-solving/Algorithms.md",
-    "Algorithm design and problem-solving/Testing.md",
-    "Algorithm design and problem-solving/Coding.md",
-    "Algorithm design and problem-solving/Design.md"
->>>>>>> Stashed changes
+    "Formulae/Acceleration.md"
   ]
 }

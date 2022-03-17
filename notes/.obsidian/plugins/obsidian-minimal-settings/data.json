@@ -1,25 +1,17 @@
 {
   "theme": "moonstone",
-  "accentHue": 0,
-  "accentSat": 0,
+  "accentHue": 201,
+  "accentSat": 17,
   "lightStyle": "minimal-light",
-<<<<<<< Updated upstream
-  "darkStyle": "minimal-dark-tonal",
+  "darkStyle": "minimal-dark",
   "uiFont": "Roboto Condensed",
   "textFont": "Lexend",
   "editorFont": "Lexend",
-  "monoFont": "JetBrains Mono",
-=======
-  "darkStyle": "minimal-dark",
-  "uiFont": "Lexend",
-  "textFont": "Lexend",
-  "editorFont": "Lexend",
-  "monoFont": "Lexend",
->>>>>>> Stashed changes
+  "monoFont": "JetBrainsMono Nerd Font",
   "lineWidth": 80,
-  "maxWidth": 98,
-  "textNormal": 14,
-  "textSmall": 13,
+  "maxWidth": 88,
+  "textNormal": 16,
+  "textSmall": 14,
   "minimalIcons": true,
   "fancyCursor": true,
   "trimNames": true,
@@ -30,7 +22,7 @@
   "underlineInternal": true,
   "underlineExternal": true,
   "useSystemTheme": false,
-  "folding": true,
-  "relationLinesPreview": true,
-  "relationLinesEdit": true
+  "folding": false,
+  "relationLinesPreview": false,
+  "relationLinesEdit": false
 }

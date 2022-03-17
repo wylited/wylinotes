@@ -3,7 +3,7 @@ title: Collection of knowledge.
 date updated: 2022-01-09 17:55
 ---
 
-This is my personal collection of notes. It uses Zettelkatsen as the note taking system and qualifies as a smarter brain than the one in my head. I tend to keep this system of notes as dynamic as possible to make it more useful for a wider audience, however these notes are for personal use so they probably are pretty useless to you.
+This is my personal collection of notes. It uses Zettelkatsen as the note taking system and qualifies as a smarter brain than the one in my head. I tend to keep this system of notes as dynamic as possible to make it more useful for a wider audience, however these notes are for personal use so they probably are pretty useless to you. (unless you take simmilar classes to me, like the dt notes might be useful)
 
 An index of notes can be found to the left in the sidebar if you are viewing the static webpage. Go ahead and click on any link to read that note.
 
