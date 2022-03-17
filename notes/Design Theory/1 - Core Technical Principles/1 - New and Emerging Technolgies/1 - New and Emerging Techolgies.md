@@ -1,3 +1,4 @@
+#Design_Theory
 # New and Emerging Technologies
 New and emerging technologies have a heavy impact various areas like:
 
@@ -38,7 +39,7 @@ New and emerging technologies have a heavy impact various areas like:
 - Pollution
 - Global Warming
 
-## [[Production Techniques and Systems]]
+## [[Production]]
 - Automation
 - Computer aided design (CAD)
 - Computer aided manufacture (CAM)

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "49fda9725617a836",
+        "id": "5a29fa457c48f697",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Theory/1/1/1.md",
+            "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.00556182861328
+    "width": 290.00793838500977
   },
   "right": {
     "id": "f1b665e538e9da56",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Theory/1/1/1.md",
+                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Theory/1/1/1.md",
+                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Theory/1/1/1.md"
+                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md"
               }
             }
           }
@@ -135,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49fda9725617a836",
+  "active": "5a29fa457c48f697",
   "lastOpenFiles": [
-    "Design Theory/1/1/1.md",
-    "Design Theory/1/1/Industry.md",
-    "Design Theory/1/1.md",
-    "Design Theory/Design Theory.md",
-    "Design Theory/3/3.md",
-    "Design Theory/2/2.md",
-    "Design Theory/3/Untitled.md",
-    "Design Theory/2/Untitled.md",
-    "Untitled.md",
-    "Organisation/Life tracking Kanban.md"
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Design Decisions.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Enterprise.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Environment.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Industry.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/People.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Production.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Sustainbility.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Society.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/1 - New and Emerging Techolgies.md"
   ]
 }
