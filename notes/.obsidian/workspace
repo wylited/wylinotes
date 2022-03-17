@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
+            "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Design_Theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.00793838500977
+    "width": 284.0055618286133
   },
   "right": {
     "id": "f1b665e538e9da56",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
+                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
+                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md"
+                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "5a29fa457c48f697",
   "lastOpenFiles": [
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Culture.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Design Decisions.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Enterprise.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Environment.md",
+    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
     "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Industry.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/People.md",
     "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Production.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Sustainbility.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Society.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/1 - New and Emerging Techolgies.md"
+    "Design Theory/Design Theory.md",
+    "Design Theory/3 - Designing Making Principles/3 - Designing Making Principles.md",
+    "Design Theory/2 - Specialist Technical Principles/2 - Specialist Technical Principles.md",
+    "Design Theory/1 - Core Technical Principles/6 - Materials and their properties/6 - Materials and their properties.md",
+    "Design Theory/1 - Core Technical Principles/1 - Core Technical Principles.md",
+    "Design Theory/1 - Core Technical Principles/5 - Mechanical Devices/5 - Mechanical Devices.md",
+    "Design Theory/1 - Core Technical Principles/4 - Systems approaches to designing/4 - Systems approaches to designing.md"
   ]
 }

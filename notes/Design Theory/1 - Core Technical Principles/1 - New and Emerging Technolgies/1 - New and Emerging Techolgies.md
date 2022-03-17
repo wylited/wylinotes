@@ -1,5 +1,11 @@
+---
+date created: 2022-03-18 04:42
+---
+
 #Design_Theory
+
 # New and Emerging Technologies
+
 New and emerging technologies have a heavy impact various areas like:
 
 ## [[Industry]]
@@ -9,37 +15,44 @@ New and emerging technologies have a heavy impact various areas like:
 - Tools and equipment
 
 ## [[Enterprise]]
+
 - Crowd funding
 - Virtual marketing and retail
 - Co-operatives
 - Fair trade
 
 ## [[Sustainbility]]
+
 - Finite
 - Non-finite
 - Disposal of waste
 - Taking consideration of the ecological and social footprint of materials.
 
 ## [[People]]
+
 - How technology push/market pull affects choice.
 - Job mobility affected by new technology
 
 ## [[Culture]]
+
 - Changes in fashion and trends based on new technologies
 - Different faiths and beliefs
 
 ## [[Society]]
+
 - Design for disabled
 - Design for elderly
 - Design for different religous groups
 
 ## [[Environment]]
+
 - Continous improvement
 - Efficient working
 - Pollution
 - Global Warming
 
 ## [[Production]]
+
 - Automation
 - Computer aided design (CAD)
 - Computer aided manufacture (CAM)
@@ -48,6 +61,7 @@ New and emerging technologies have a heavy impact various areas like:
 - Lean manufacturing
 
 ## [[Design Decisions]]
+
 - Planned obsolescence
 - Design for maintenance
 - Ethics

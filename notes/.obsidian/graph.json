@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Design_Theory",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.48552095459837,
-  "repelStrength": 11.2005238649593,
-  "linkStrength": 0.727735739231665,
-  "linkDistance": 302,
-  "scale": 0.7610062250181123,
-  "close": true
+  "centerStrength": 0.635217074945428,
+  "repelStrength": 12.4727140431724,
+  "linkStrength": 0.786563182148921,
+  "linkDistance": 177,
+  "scale": 0.626456028788249,
+  "close": false
 }
