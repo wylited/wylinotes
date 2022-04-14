@@ -10,7 +10,7 @@ New and emerging technologies have a heavy impact various areas like:
 
 ## [[Industry]]
 
-- The design and organisation of the workplace (including automation and the use of robotics)
+- The design and organization of the workplace (including automation and the use of robotics)
 - Buildings and the place of work
 - Tools and equipment
 
@@ -21,7 +21,7 @@ New and emerging technologies have a heavy impact various areas like:
 - Co-operatives
 - Fair trade
 
-## [[Sustainbility]]
+## [[Sustainability]]
 
 - Finite
 - Non-finite

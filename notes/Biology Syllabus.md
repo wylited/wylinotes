@@ -2,8 +2,7 @@
 date created: 2021-11-30 21:00
 date updated: 2022-01-09 17:55
 ---
-
-[[biology]]
+#biology #syllabi
 
 [Biology 2017 Syllabus](https://docs.google.com/spreadsheets/d/1yolzB63PNd4m1BAIpaiVcaGupEc8lLaF_Tu107wy594/edit#gid=0 "Topics 1-5")
 

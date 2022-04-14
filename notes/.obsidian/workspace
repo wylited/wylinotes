@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5a29fa457c48f697",
+        "id": "940d72d25575aac5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
-            "mode": "source"
+            "file": "Economics/Syllabus.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -60,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.0055618286133
+    "width": 193.00556182861328
   },
   "right": {
     "id": "f1b665e538e9da56",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
+                "file": "Economics/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
+                "file": "Economics/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md"
+                "file": "Economics/Syllabus.md"
               }
             }
           }
@@ -135,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a29fa457c48f697",
+  "active": "940d72d25575aac5",
   "lastOpenFiles": [
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Ethics.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Industry.md",
-    "Design Theory/1 - Core Technical Principles/1 - New and Emerging Technolgies/Production.md",
-    "Design Theory/Design Theory.md",
-    "Design Theory/3 - Designing Making Principles/3 - Designing Making Principles.md",
-    "Design Theory/2 - Specialist Technical Principles/2 - Specialist Technical Principles.md",
-    "Design Theory/1 - Core Technical Principles/6 - Materials and their properties/6 - Materials and their properties.md",
-    "Design Theory/1 - Core Technical Principles/1 - Core Technical Principles.md",
-    "Design Theory/1 - Core Technical Principles/5 - Mechanical Devices/5 - Mechanical Devices.md",
-    "Design Theory/1 - Core Technical Principles/4 - Systems approaches to designing/4 - Systems approaches to designing.md"
+    "Economics/Syllabus.md",
+    "Economics/Microeconomics/The Economic Problem.md",
+    "Economics/Microeconomics/Market Equilibrium.md",
+    "Economics/Microeconomics/Supply.md",
+    "Economics/Microeconomics/Factors of Supply.md",
+    "Economics/Microeconomics/Demand.md",
+    "Economics/Microeconomics/Factors of Demand.md",
+    "Economics/Microeconomics/Consumer Assumptions.md",
+    "to be cleaned/Microeconomics/1.1.md",
+    "Economics/Microeconomics/Economic Growth.md"
   ]
 }

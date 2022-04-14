@@ -4,5 +4,11 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "iGCSE"
-  ]
+  ],
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "legacyEditor": false,
+  "showFrontmatter": false
 }

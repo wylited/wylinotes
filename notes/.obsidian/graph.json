@@ -2,9 +2,9 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -13,18 +13,39 @@
         "a": 1,
         "rgb": 5422560
       }
+    },
+    {
+      "query": "path:\"to be cleaned\"",
+      "color": {
+        "a": 1,
+        "rgb": 16736609
+      }
+    },
+    {
+      "query": "tag:#microeconomics",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#macroeconomics",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 1.4,
+  "nodeSizeMultiplier": 0.714431239388795,
+  "lineSizeMultiplier": 1.49405772495756,
   "collapse-forces": false,
-  "centerStrength": 0.635217074945428,
-  "repelStrength": 12.4727140431724,
-  "linkStrength": 0.786563182148921,
-  "linkDistance": 177,
-  "scale": 0.626456028788249,
-  "close": false
+  "centerStrength": 0.618299781712345,
+  "repelStrength": 16.0126121756003,
+  "linkStrength": 0.598835799175358,
+  "linkDistance": 500,
+  "scale": 0.15146553264169077,
+  "close": true
 }

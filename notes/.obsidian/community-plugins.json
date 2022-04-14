@@ -26,5 +26,8 @@
   "obsidian-style-settings",
   "quick-latex",
   "obsidian-latex",
-  "obsidian-latex-environments"
+  "obsidian-latex-environments",
+  "obsidian-contextual-typography",
+  "oz-image-plugin",
+  "obsidian-vault-statistics-plugin"
 ]

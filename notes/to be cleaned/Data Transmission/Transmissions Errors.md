@@ -25,7 +25,7 @@ A longer piece of data can cause a higher chance of data error.
 Computers need methods to validate data transferred and make sure that there is no errors in the transmitted data.
 Those methods are:
 
-- [[Parity bit]]
+- [[Parity Bit]]
 - Check digits.
 - Check sums.
 - Echo Checks

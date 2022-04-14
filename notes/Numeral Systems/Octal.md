@@ -5,6 +5,7 @@ date created: 2021-12-21 22:19
 state: finished
 date updated: 2022-01-05 17:38
 ---
+#numbers 
 
 Octal is the least used out of the 4 major [[Numeral Systems]]. Octal uses base 8, from 0 - 7.
 

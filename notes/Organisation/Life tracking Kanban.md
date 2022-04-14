@@ -16,7 +16,6 @@ kanban-plugin: basic
 ## Medium Priority
 
 - [ ] Procastinate
-- [ ] Notes on mixed economies and such for economics, maybe also get a new notebook
 - [ ] preparation of English Summative, make notes in the book
 - [ ] Learn flutter and perhaps ruby on rails
 
@@ -45,6 +44,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] Read and annotate something in Whale Rider<br><br>Read by - @{2022-01-06}.<br><br>Annotate by - @{2022-01-16}.
+- [x] Notes on mixed economies and such for economics, maybe also get a new notebook
 - [x] HKYWA<br><br>Finish the story by the @{2022-01-10} aim for 2k words.
 - [x] Mini enterprise <br><br>Finish off most of the items that I need to do by the weekend @{2022-01-07} - @{2022-01-08}
 - [x] Prepare for science exams

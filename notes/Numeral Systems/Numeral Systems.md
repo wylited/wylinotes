@@ -5,6 +5,7 @@ date created: 2021-12-21 22:07
 state: finished
 date updated: 2022-01-05 17:38
 ---
+#numbers 
 
 There are **4** major types of numeral systems. (major as in they are actually used)
 
