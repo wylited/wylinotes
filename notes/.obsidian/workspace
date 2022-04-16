@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "f0b91f7645d91b0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Economic Desmos Graph.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "940d72d25575aac5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Economics/Syllabus.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Syllabus.md",
+                "file": "Templates/Economic Desmos Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Syllabus.md",
+                "file": "Templates/Economic Desmos Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Syllabus.md"
+                "file": "Templates/Economic Desmos Graph.md"
               }
             }
           }
@@ -136,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "940d72d25575aac5",
+  "active": "f0b91f7645d91b0c",
   "lastOpenFiles": [
-    "Economics/Syllabus.md",
+    "Templates/Economic Desmos Graph.md",
     "Economics/Microeconomics/The Economic Problem.md",
-    "Economics/Microeconomics/Market Equilibrium.md",
     "Economics/Microeconomics/Supply.md",
-    "Economics/Microeconomics/Factors of Supply.md",
-    "Economics/Microeconomics/Demand.md",
+    "Economics/Syllabus.md",
+    "Economics/Microeconomics/Excess Demand.md",
+    "Economics/Microeconomics/Excess Supply.md",
+    "graphs/desmos-graph-66aa40187006af9dd5ca1df03de0c42b87dac37c0ff1e4c2407de7df5fcd99d1.svg",
+    "Economics/Microeconomics/Market Forces.md",
     "Economics/Microeconomics/Factors of Demand.md",
-    "Economics/Microeconomics/Consumer Assumptions.md",
-    "to be cleaned/Microeconomics/1.1.md",
-    "Economics/Microeconomics/Economic Growth.md"
+    "Economics/Microeconomics/Factors of Production.md"
   ]
 }
