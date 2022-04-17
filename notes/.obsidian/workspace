@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b91f7645d91b0c",
+        "id": "621ed8a97a46f9f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Economic Desmos Graph.md",
+            "file": "Economics/Syllabus.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "940d72d25575aac5",
+        "id": "48d83222a1f17adb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics/Syllabus.md",
+            "file": "Economics/Microeconomics/Income Elasticity of Demand..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c09f25eb5933f360",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Economics/Microeconomics/Determinants of YED.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Economic Desmos Graph.md",
+                "file": "Economics/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Economic Desmos Graph.md",
+                "file": "Economics/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,28 +149,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Economic Desmos Graph.md"
+                "file": "Economics/Syllabus.md"
               }
             }
+          },
+          {
+            "id": "8570e28cf4df96ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 100
   },
-  "active": "f0b91f7645d91b0c",
+  "active": "621ed8a97a46f9f3",
   "lastOpenFiles": [
-    "Templates/Economic Desmos Graph.md",
-    "Economics/Microeconomics/The Economic Problem.md",
-    "Economics/Microeconomics/Supply.md",
     "Economics/Syllabus.md",
-    "Economics/Microeconomics/Excess Demand.md",
-    "Economics/Microeconomics/Excess Supply.md",
-    "graphs/desmos-graph-66aa40187006af9dd5ca1df03de0c42b87dac37c0ff1e4c2407de7df5fcd99d1.svg",
-    "Economics/Microeconomics/Market Forces.md",
-    "Economics/Microeconomics/Factors of Demand.md",
-    "Economics/Microeconomics/Factors of Production.md"
+    "Economics/Microeconomics/Determinants of YED.md",
+    "Economics/Microeconomics/Income Elasticity of Demand..md",
+    "Economics/Microeconomics/Price Elasticity of Demand.md",
+    "Economics/Microeconomics/Determinants of PES.md",
+    "Economics/Microeconomics/Price Elasticity of Supply.md",
+    "Economics/Microeconomics/Determinants of PED.md",
+    "Economics/Microeconomics/Factors of Production.md",
+    "Economics/Microeconomics/The Economic Problem.md",
+    "Economics/Microeconomics/Assumptions.md"
   ]
 }

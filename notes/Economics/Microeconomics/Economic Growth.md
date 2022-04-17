@@ -1,6 +1,6 @@
 ---
 date created: 2022-04-03 16:14
-date updated: 2022-04-03 16:14
+date updated: 2022-04-17 16:53
 ---
 
 #microeconomics #economics
@@ -8,6 +8,7 @@ date updated: 2022-04-03 16:14
 Economic growth is a change in the production of economic goods and services, compared from one period of time to another. It can be both positive and negative.
 
 The 4 things that affect economic growth are:
+
 - Capital
 - Enterprise
 - Land

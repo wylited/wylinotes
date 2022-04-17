@@ -1,6 +1,6 @@
 ---
 date created: 2022-04-03 16:14
-date updated: 2022-04-03 16:14
+date updated: 2022-04-17 16:53
 ---
 
 #microeconomics #economics
@@ -15,5 +15,6 @@ However it should be noted that a profit motive is required for a company to sup
 there are [[Factors of Supply |5 factors that affect supply]].
 
 ---
+
 (TODO!): Draw graphs for the supply curve to illustrate what it should look like.
 (TODO!): A note on what profit motive is.

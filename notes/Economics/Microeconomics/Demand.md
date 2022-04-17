@@ -1,6 +1,6 @@
 ---
 date created: 2022-04-03 16:14
-date updated: 2022-04-03 16:14
+date updated: 2022-04-17 16:53
 ---
 
 #microeconomics #economics
@@ -14,4 +14,5 @@ Demand has a inverse relationship with price. So when price shifts there is a mo
 there are [[Factors of Demand |6 factors that affect demand]].
 
 ---
+
 (TODO!): Draw graphs for the demand curve to illustrate what it should look like.

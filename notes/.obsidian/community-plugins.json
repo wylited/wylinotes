@@ -22,7 +22,6 @@
   "better-word-count",
   "periodic-notes",
   "templater-obsidian",
-  "markdown-prettifier",
   "obsidian-style-settings",
   "quick-latex",
   "obsidian-latex",
@@ -31,5 +30,6 @@
   "oz-image-plugin",
   "obsidian-vault-statistics-plugin",
   "sliding-panes-obsidian",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-linter"
 ]

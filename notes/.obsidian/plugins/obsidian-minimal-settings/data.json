@@ -14,7 +14,7 @@
   "lineWidth": 80,
   "lineWidthWide": 50,
   "maxWidth": 88,
-  "trimCols": true,
+  "trimCols": false,
   "maxColWidth": "18em",
   "textNormal": 14,
   "textSmall": 12,
