@@ -1,17 +1,19 @@
 ---
+aliases: 
+tags: 
 
 kanban-plugin: basic
 
+date created: Wednesday, March 16th 2022, 11:10:21 pm
+date modified: Sunday, April 17th 2022, 6:43:47 pm
+title: Life tracking Kanban
 ---
 
 ## Incomplete
 
-
-
-## Low priority
+## Low Priority
 
 - [ ] DT Theory
-
 
 ## Medium Priority
 
@@ -19,10 +21,7 @@ kanban-plugin: basic
 - [ ] preparation of English Summative, make notes in the book
 - [ ] Learn flutter and perhaps ruby on rails
 
-
 ## High Priority
-
-
 
 ## Goals
 
@@ -34,13 +33,11 @@ kanban-plugin: basic
 - [ ] Learn web development, <br><br>create my own web page for showing in interviews and for when I decide to freelance web dev.
 - [ ] Create a physical Zettelkatsen and improve my notes on obsidian.
 
-
-## Complete Big tasks
+## Complete Big Tasks
 
 **Complete**
 
-
-## Completed Small tasks
+## Completed Small Tasks
 
 **Complete**
 - [x] Read and annotate something in Whale Rider<br><br>Read by - @{2022-01-06}.<br><br>Annotate by - @{2022-01-16}.
@@ -50,15 +47,12 @@ kanban-plugin: basic
 - [x] Prepare for science exams
 - [x] LinkedIn Account<br><br>Create a LinkedIn account and upload all the things I've done there
 
-
-## Long Term tasks
-
-
-
-
+## Long Term Tasks
 
 %% kanban:settings
+
 ```
 {"kanban-plugin":"basic"}
 ```
+
 %%

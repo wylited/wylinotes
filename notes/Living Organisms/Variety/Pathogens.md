@@ -1,15 +1,18 @@
 ---
+aliases: 
+tags: 
 title: Pathogens
 description: An overview of Pathogens
 date created: 2022-01-05 17:09
 state: empty
-date updated: 2022-01-05 17:37
+date modified: Sunday, April 17th 2022, 6:41:22 pm
 ---
 
 Pathogens can include:
+
 - fungi
-- [[Eukaryotic#Bacteria]] 
-- [[Prokaryotic#Protocists]] 
+- [[Eukaryotic#Bacteria]]
+- [[Prokaryotic#Protocists]]
 - [[Pathogens#Viruses]].
 
 These can be either Protocists, like _Plasmodium_, and Eukaryotic such as _Pneumococcus_

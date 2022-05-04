@@ -1,6 +1,10 @@
 ---
+aliases: 
+tags: 
 date created: 2021-11-30 21:00
-date updated: 2022-01-09 17:55
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Biology Syllabus
 ---
 #biology #syllabi
 
@@ -10,7 +14,7 @@ date updated: 2022-01-09 17:55
 
 ## [[Living Organisms]]
 
-###  (a)  [[Characteristics]] of living organisms
+### (a) [[Characteristics]] of Living Organisms
 
 - 1.1 understand how living organisms share the following characteristics:
   - They require nutrition
@@ -22,37 +26,37 @@ date updated: 2022-01-09 17:55
   - They reproduce
   - They grow and develop
 
-###  (b)  [[Variety]] of living organisms
+### (b) [[Variety]] of Living Organisms
 
--  1.2  describe the common features shown by [[Eukaryotic]] organisms: plants, animals, fungi and protoctists
+- 1.2 describe the common features shown by [[Eukaryotic]] organisms: plants, animals, fungi and protoctists
 
-  -  Plants:  these are multicellular organisms; their cells contain chloroplasts and are able to carry out photosynthesis; their cells have cellulose cell walls; they store carbohydrates as starch or sucrose. Examples include flowering plants, such as a cereal _(for example, maize)_, and a herbaceous legume _(for example, peas or beans)_.
+  - Plants:  these are multicellular organisms; their cells contain chloroplasts and are able to carry out photosynthesis; their cells have cellulose cell walls; they store carbohydrates as starch or sucrose. Examples include flowering plants, such as a cereal _(for example, maize)_, and a herbaceous legume _(for example, peas or beans)_.
 
-  -  Animals : these are multicellular organisms; their cells do not contain chloroplasts and are not able to carry out photosynthesis; they have no cell walls; they usually have nervous co-ordination and are able to move from one place to another; they often store carbohydrate as glycogen. Examples include mammals _(for example, humans)_ and insects _(for example, housefly and mosquito)_.
+  - Animals : these are multicellular organisms; their cells do not contain chloroplasts and are not able to carry out photosynthesis; they have no cell walls; they usually have nervous co-ordination and are able to move from one place to another; they often store carbohydrate as glycogen. Examples include mammals _(for example, humans)_ and insects _(for example, housefly and mosquito)_.
 
-  -  Protoctists : these are microscopic single-celled organisms. Some, like _Amoeba_, that live in pond water, have features like an animal cell, while others, like _Chlorella_, have chloroplasts and are more like plants. A pathogenic example is _Plasmodium_, responsible for causing malaria.
+  - Protoctists : these are microscopic single-celled organisms. Some, like _Amoeba_, that live in pond water, have features like an animal cell, while others, like _Chlorella_, have chloroplasts and are more like plants. A pathogenic example is _Plasmodium_, responsible for causing malaria.
 
 <<<<<<< Updated upstream
 - **1.3** describe the common features shown by [[Prokaryotic]] organisms such as bacteria
   - **Bacteria**: these are microscopic single-celled organisms; they have a cell wall, cell membrane, cytoplasm and plasmids; they lack a nucleus but contain a circular chromosome of DNA; some bacteria can carry out photosynthesis but most feed off other living or dead organisms. Examples include _Lactobacillus bulgaricus_, a rod-shaped bacterium used in the production of yogurt from milk, and _Pneumococcus_, a spherical bacterium that acts as the pathogen causing pneumonia.
 =======
--  1.3  describe the common features shown by [[Prokaryotic]] organisms such as bacteria
-  -  Bacteria : these are microscopic single-celled organisms; they have a cell wall, cell membrane, cytoplasm and plasmids; they lack a nucleus but contain a circular chromosome of DNA; some bacteria can carry out photosynthesis but most feed off other living or dead organisms. Examples include _Lactobacillus bulgaricus_, a rod-shaped bacterium used in the production of yoghurt from milk, and _Pneumococcus_, a spherical bacterium that acts as the pathogen causing pneumonia.
+- 1.3 describe the common features shown by [[Prokaryotic]] organisms such as bacteria
+  - Bacteria : these are microscopic single-celled organisms; they have a cell wall, cell membrane, cytoplasm and plasmids; they lack a nucleus but contain a circular chromosome of DNA; some bacteria can carry out photosynthesis but most feed off other living or dead organisms. Examples include _Lactobacillus bulgaricus_, a rod-shaped bacterium used in the production of yoghurt from milk, and _Pneumococcus_, a spherical bacterium that acts as the pathogen causing pneumonia.
 >>>>>>> Stashed changes
   -
 
--  1.4  understand the term [[Pathogens]] and know that pathogens may include fungi, bacteria, protoctists or viruses.
-  -  Viruses : these are not living organisms. They are small particles, smaller than bacteria; they are parasitic and can reproduce only inside living cells; they infect every type of living organism. They have a wide variety of shapes and sizes; they have no cellular structure but have a protein coat and contain one type of nucleic acid, either DNA or RNA. Examples include the _tobacco mosaic virus_ that causes discolouring of the leaves of tobacco plants by preventing the formation of chloroplasts, the _influenza virus_ that causes ‘flu’ and the _HIV virus_ that causes AIDS.
+- 1.4 understand the term [[Pathogens]] and know that pathogens may include fungi, bacteria, protoctists or viruses.
+  - Viruses : these are not living organisms. They are small particles, smaller than bacteria; they are parasitic and can reproduce only inside living cells; they infect every type of living organism. They have a wide variety of shapes and sizes; they have no cellular structure but have a protein coat and contain one type of nucleic acid, either DNA or RNA. Examples include the _tobacco mosaic virus_ that causes discolouring of the leaves of tobacco plants by preventing the formation of chloroplasts, the _influenza virus_ that causes ‘flu’ and the _HIV virus_ that causes AIDS.
 
 ---
 
-## Topic 2, Structure and functions in living organisms
+## Topic 2, Structure and Functions in Living Organisms
 
-###  (a)  Level of organisation
+### (a) Level of Organisation
 
 - 2.1 describe the levels of organisation in organisms: organelles, cells, tissues, organs and systems.
 
-###  (b)  [[Cells|Cell]] structure
+### (b) [[Cells|Cell]] Structure
 
 - 2.2 describe cell structures, including the _nucleus_, _cytoplasm_, _cell membrane_, _cell wall_, _mitochondria_, _chloroplasts_, _ribosomes_ and _vacuole_
 
@@ -60,11 +64,11 @@ date updated: 2022-01-09 17:55
 
 - 2.4 know the similarities and differences in the structure of plant and animal cells
 
--  2.5B  explain the importance of cell differentiation in the development of specialised cells. (TRIPLE)
+- 2.5B explain the importance of cell differentiation in the development of specialised cells. (TRIPLE)
 
--  2.6B  understand the advantages and disadvantages of using [[Stem Cells|stem cells]] in medicine. (TRIPLE)
+- 2.6B understand the advantages and disadvantages of using [[Stem Cells|stem cells]] in medicine. (TRIPLE)
 
-###  (c)  Biological Molecules
+### (c) Biological Molecules
 
 - 2.7 identify the chemical elements present in carbohydrates, proteins and lipids (fats and oils).
 
@@ -80,9 +84,9 @@ date updated: 2022-01-09 17:55
 
 - 2.13 understand how enzyme function can be affected by changes in pH altering the active site
 
--  2.14B  practical: investigate how enzyme activity can be affected by changes in pH
+- 2.14B practical: investigate how enzyme activity can be affected by changes in pH
 
-###  (d)  Movement of substances into and out of cells
+### (d) Movement of Substances into and Out of Cells
 
 - 2.15 understand the processes of diffusion, osmosis and active transport by which substances move into and out of cells
 
@@ -90,7 +94,7 @@ date updated: 2022-01-09 17:55
 
 - 2.17 practical: investigate diffusion and osmosis using living and non-living systems
 
-###  (e)  Nutrition
+### (e) Nutrition
 
 #### Plants
 
@@ -126,9 +130,9 @@ date updated: 2022-01-09 17:55
 
   - 2.32 understand how the small intestine is adapted for absorption, including the structure of a villus
 
-  - _ 2.33B  practical: investigate the energy content in a food sample_
+  - _ 2.33B practical: investigate the energy content in a food sample_
 
-###  (f)  Respiration
+### (f) Respiration
 
 - 2.34 understand how the process of respiration produces ATP in living organisms
 
@@ -142,21 +146,21 @@ date updated: 2022-01-09 17:55
 
 - _2.39 practical: investigate the evolution of carbon dioxide and heat from respiring seeds or other suitable living organisms_
 
-###  (g)  Gas Exchange
+### (g) Gas Exchange
 
 #### Plants
 
-  -  2.40B  understand the role of diffusion in gas exchange
+  - 2.40B understand the role of diffusion in gas exchange
 
-  -  2.41B  understand gas exchange (of carbon dioxide and oxygen) in relation to respiration and photosynthesis
+  - 2.41B understand gas exchange (of carbon dioxide and oxygen) in relation to respiration and photosynthesis
 
-  -  2.42B  understand how the structure of the leaf is adapted for gas exchange
+  - 2.42B understand how the structure of the leaf is adapted for gas exchange
 
-  -  2.43B  describe the role of stomata in gas exchange
+  - 2.43B describe the role of stomata in gas exchange
 
-  -  2.44B  understand how respiration continues during the day and night, but that the net exchange of carbon dioxide and oxygen depends on the intensity of light
+  - 2.44B understand how respiration continues during the day and night, but that the net exchange of carbon dioxide and oxygen depends on the intensity of light
 
-  -  2.45B  practical: investigate the effect of light on net gas exchange from a leaf, using hydrogen-carbonate indicator
+  - 2.45B practical: investigate the effect of light on net gas exchange from a leaf, using hydrogen-carbonate indicator
 
 #### Humans
   - 2.46 describe the structure of the thorax, including the ribs, intercostal muscles, diaphragm, trachea, bronchi, bronchioles, alveoli and pleural membranes
@@ -169,7 +173,7 @@ date updated: 2022-01-09 17:55
 
   - 2.50 practical: investigate breathing in humans, including the release of carbon dioxide and the effect of exercise
 
-###  (h)  Transport
+### (h) Transport
 
 - 2.51 understand why simple, unicellular organisms can rely on diffusion for movement of substances in and out of the cell
 
@@ -181,13 +185,13 @@ date updated: 2022-01-09 17:55
 
   - 2.54 describe the role of xylem in transporting water and mineral ions from the roots to other parts of the plant
 
-  -  2.55B  understand how water is absorbed by root hair cells
+  - 2.55B understand how water is absorbed by root hair cells
 
-  -  2.56B  understand that transpiration is the evaporation of water from the surface of a plant
+  - 2.56B understand that transpiration is the evaporation of water from the surface of a plant
 
-  -  2.57B  understand how the rate of transpiration is affected by changes in humidity, wind speed, temperature and light intensity
+  - 2.57B understand how the rate of transpiration is affected by changes in humidity, wind speed, temperature and light intensity
 
-  -  2.58B  practical: investigate the role of environmental factors in determining the rate of transpiration from a leafy shoot
+  - 2.58B practical: investigate the role of environmental factors in determining the rate of transpiration from a leafy shoot
 
 #### Humans
 
@@ -199,44 +203,44 @@ date updated: 2022-01-09 17:55
 
   - 2.62 understand how the immune system responds to disease using white blood cells, illustrated by phagocytes ingesting pathogens and lymphocytes releasing antibodies specific to the pathogen
 
-  -  2.63B  understand how vaccination results in the manufacture of memory cells, which enable future antibody production to the pathogen to occur sooner, faster and in greater quantity
+  - 2.63B understand how vaccination results in the manufacture of memory cells, which enable future antibody production to the pathogen to occur sooner, faster and in greater quantity
 
-  -  2.64B  understand how platelets are involved in blood clotting, which prevents blood loss and the entry of micro-organisms
+  - 2.64B understand how platelets are involved in blood clotting, which prevents blood loss and the entry of micro-organisms
 
-  -  2.65  describe the structure of the heart and how it functions
+  - 2.65 describe the structure of the heart and how it functions
 
-  -  2.66  explain how the heart rate changes during exercise and under the influence of adrenaline
+  - 2.66 explain how the heart rate changes during exercise and under the influence of adrenaline
 
-  -  2.67  understand how factors may increase the risk of developing coronary heart disease
+  - 2.67 understand how factors may increase the risk of developing coronary heart disease
 
-  -  2.68  understand how the structure of arteries, veins and capillaries relate to their function
+  - 2.68 understand how the structure of arteries, veins and capillaries relate to their function
 
-  -  2.69  understand the general structure of the circulation system, including the blood vessels to and from the heart and lungs, liver and kidneys
+  - 2.69 understand the general structure of the circulation system, including the blood vessels to and from the heart and lungs, liver and kidneys
 
-###  (i)  Excretion
+### (i) Excretion
 
 #### Plants
 - 2.70 understand the origin of carbon dioxide and oxygen as waste products of metabolism and their loss from the stomata of a leaf
 #### Humans
 - 2.71 know the excretory products of the lungs, kidneys and skin (organs of excretion)
 
--  2.72B  understand how the kidney carries out its roles of excretion and osmoregulation
+- 2.72B understand how the kidney carries out its roles of excretion and osmoregulation
 
--  2.73B  describe the structure of the urinary system, including the kidneys, ureters, bladder and urethra
+- 2.73B describe the structure of the urinary system, including the kidneys, ureters, bladder and urethra
 
--  2.74B  describe the structure of a nephron, including the Bowman’s capsule and glomerulus, convoluted tubules, loop of Henle and collecting duct
+- 2.74B describe the structure of a nephron, including the Bowman’s capsule and glomerulus, convoluted tubules, loop of Henle and collecting duct
 
--  2.75B  describe ultrafiltration in the Bowman’s capsule and the composition of the glomerular filtrate 
-  
- -  2.76B  understand how water is reabsorbed into the blood from the collecting duct
+- 2.75B describe ultrafiltration in the Bowman’s capsule and the composition of the glomerular filtrate
 
- -   2.77B  understand why selective reabsorption of glucose occurs at the proximal convoluted tubule
+ - 2.76B understand how water is reabsorbed into the blood from the collecting duct
 
- -   2.78B  describe the role of ADH in regulating the water content of the blood
+ - 2.77B understand why selective reabsorption of glucose occurs at the proximal convoluted tubule
 
- -  2.79B  understand that urine contains water, urea and ions
+ - 2.78B describe the role of ADH in regulating the water content of the blood
 
-###  (j)  Co-ordination and response
+ - 2.79B understand that urine contains water, urea and ions
+
+### (j) Co-ordination and Response
 
 - 2.80 understand how organisms are able to respond to changes in their environment
 
@@ -270,4 +274,4 @@ date updated: 2022-01-09 17:55
 
   - 2.94 understand the sources, roles and effects of the following hormones: adrenaline, insulin, testosterone, progesterone and oestrogen
 
-  -  2.95B  understand the sources, roles and effects of the following hormones: ADH, FSH and LH
+  - 2.95B understand the sources, roles and effects of the following hormones: ADH, FSH and LH

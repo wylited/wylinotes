@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:14
-date updated: 2022-04-17 16:53
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Determinants of PED
 ---
 
 #microeconomics #economics
@@ -17,13 +20,14 @@ The higher the necessity of a good the more inelastic it is.
 
 ---
 
-## Time elapsed since a change in price
+## Time Elapsed Since a Change in Price
 
 In the long term, consumers are more elastic over longer periods, as over the long term after a price increase of a good, they will find acceptable and less costly substitutes.
 
 ---
 
-## Proportion of income
+## Proportion of Income
 
 A high price to income ratio would cause a product to have an elastic PED.
+
 A low price to income ratio would make a product considered as inelastic.

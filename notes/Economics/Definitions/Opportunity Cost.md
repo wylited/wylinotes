@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:12
-date updated: 2022-04-03 16:13
+date modified: Sunday, April 17th 2022, 7:21:09 pm
+title: Opportunity Cost
 ---
 
 #economics #microeconomics

@@ -1,11 +1,13 @@
 ---
+aliases: 
+tags: 
 title: Binary
 description: A explanation of binary
 date created: 2021-12-21 22:07
 state: finished
-date updated: 2022-01-05 17:38
+date modified: Sunday, April 17th 2022, 6:41:22 pm
 ---
-#numbers 
+#numbers
 
 Binary is a numeral system. It only has 2 different values, 1 and 0. It uses base 2.
 

@@ -1,31 +1,34 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:14
-date updated: 2022-04-17 16:53
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Factors of Supply
 ---
 
 #microeconomics #economics
 
-## Production cost
+## Production Cost
 
 - A lower production cost would lead to a shift outwards in the supply curve. Vice versa for a higher production cost.
 
 ---
 
-## Indirect taxation
+## Indirect Taxation
 
 - Indirect taxation is applied by the government, being the direct opposite of subsidies. For example, GST and VAT.
 - An increase in taxation would result in a shift inwards in supply. Vice versa for a decrease.
 
 ---
 
-## New technology
+## New Technology
 
 - New technology affects the production of a product.
 - An increase in effective new technology would shift the supply curve outwards. Vice versa for a decrease.
 
 ---
 
-## Natural factors
+## Natural Factors
 
 - Natural factors like earthquakes and tornadoes can slow down the production.
 - An increase in natural factors would shift the supply curve inwards. Vice versa for a decrease.

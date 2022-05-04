@@ -1,5 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-03-18 04:42
+date modified: Sunday, April 17th 2022, 6:43:47 pm
+title: Industry
 ---
 
 #Design_Theory
@@ -18,6 +22,7 @@ Automation in manufacturing has been greatly increased by [[1 - New and Emerging
 ## CNC's
 
 A CNC Router is an example of a new and emerging technology.
+
 Computer numerically controlled machines can perform highly precise operations in manufacture
 
 | Advantages                                           | Disadvantages           |

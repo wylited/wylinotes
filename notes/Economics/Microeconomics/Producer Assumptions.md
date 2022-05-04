@@ -1,11 +1,15 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:14
-date updated: 2022-04-17 16:53
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Producer Assumptions
 ---
 
 #microeconomics #economics
 
 Producers aim to maximize the revenue they produce.
+
 However they may not achieve this for _four_ reasons:
 
 - Performance may be influenced by other people in the company. (Managers that maximize sales instead of revenue.)

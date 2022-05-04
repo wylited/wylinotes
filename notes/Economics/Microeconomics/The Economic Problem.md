@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:04
-date updated: 2022-04-17 16:53
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: The Economic Problem
 ---
 
 #economics #microeconomics

@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-15 18:53
-date updated: 2022-04-17 16:53
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Market Forces
 ---
 
 #microeconomics #economics

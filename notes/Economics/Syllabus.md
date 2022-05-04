@@ -2,8 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-04-03 15:27
-date updated: 2022-04-17 18:24
-date modified: Sunday, April 17th 2022, 6:24:16 pm
+date modified: Sunday, April 17th 2022, 6:43:47 pm
 title: Syllabus
 ---
 
@@ -19,44 +18,44 @@ For an accurate one look at this link
 
 ### 1.1 - The Market System
 
-#### 1.1.1 The Economic Problem
+#### 1.1.1 [[The Economic Problem]]
 
-1. The problem of scarcity
-2. Opportunity cost and its effect
-3. Production possibility curve diagrams
-4. Economic growth
+1. The [[Economic Problem of Scarcity|Problem of Scarcity]]
+2. [[Opportunity cost]] and its effect
+3. [[Production possibility curves]] diagrams 
+4. [[Economic growth]]
 
-#### 1.1.2 Economic Assumptions
+#### 1.1.2 Economic [[Assumptions]]
 
-1. The assumptions of consumers and producers aims
+1. The assumptions of [[consumer assumptions|consumer]] and [[Producer Assumptions|producer]] aims
 2. Why consumers may not reach their aims
 3. Why producers may not reach their aims
 
-#### 1.1.3 Demand, Supply and Market Equilibrium
+#### 1.1.3 [[Demand]], [[Supply]] and [[Market Equilibrium]]
 
-1. Demand
+1. [[Demand]]
    1. Demand curves
-   2. Factors that might affect the demand
-2. Supply
+   2. [[Factors of Demand|Factors]] that might affect the demand
+2. [[Supply]]
    1. Supply curves
-   2. Factors that might affect the supply
-3. Market equilibrium
+   2. [[Factors of Supply|Factors]] that might affect the supply
+3. [[Market equilibrium]]
    1. Equilibrium price and quantity
    2. Usage of diagrams for
 	  1. How shifts in supply and demand affect equilibrium price
-	  2. Excess demand and supply
-   3. Market Forces
+	  2. Excess [[demand]] and [[Economics/Microeconomics/Excess Supply|supply]]
+   3. [[Market Forces]]
 
 #### 1.1.4 Elasticity
 
-1. Price elasticity of demand (PED)
+1. [[Price elasticity of demand ]](PED)
    1. Factors that affect PED
    2. Interpret numerical values of PED
-2. Price elasticity of supply (PES)
+2. [[Price elasticity of supply]] (PES)
    1. Factors that affect PES
    2. Interpret numerical values of PES
-3. Income elasticity of demand (YED)
-   1. Indirect taxes and subsidies
+3. [[Income elasticity of demand]] (YED)
+   1. [[Indirect taxes]] and [[subsidies]]
    2. Changes in income
    3. Interpret numerical values of YED
 

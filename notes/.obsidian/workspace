@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "621ed8a97a46f9f3",
+        "id": "b286ad1108ae7570",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics/Syllabus.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "48d83222a1f17adb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics/Microeconomics/Income Elasticity of Demand..md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c09f25eb5933f360",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics/Microeconomics/Determinants of YED.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Syllabus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 100,
+    "collapsed": true
   },
-  "active": "621ed8a97a46f9f3",
+  "active": "b286ad1108ae7570",
   "lastOpenFiles": [
     "Economics/Syllabus.md",
-    "Economics/Microeconomics/Determinants of YED.md",
-    "Economics/Microeconomics/Income Elasticity of Demand..md",
-    "Economics/Microeconomics/Price Elasticity of Demand.md",
-    "Economics/Microeconomics/Determinants of PES.md",
-    "Economics/Microeconomics/Price Elasticity of Supply.md",
-    "Economics/Microeconomics/Determinants of PED.md",
-    "Economics/Microeconomics/Factors of Production.md",
+    "Economics/Microeconomics/Consumer Assumptions.md",
+    "Economics/Definitions/Economic Problem of Scarcity.md",
     "Economics/Microeconomics/The Economic Problem.md",
-    "Economics/Microeconomics/Assumptions.md"
+    "Economics/Definitions/Economic Agents.md",
+    "Economics/Microeconomics/Economic Growth.md",
+    "Economics/Definitions/Opportunity Cost.md",
+    "Economics/Microeconomics/Supply.md",
+    "Economics/Definitions/Inferior Goods.md",
+    "Economics/Microeconomics/Factors of Demand.md"
   ]
 }

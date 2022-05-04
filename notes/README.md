@@ -1,6 +1,10 @@
 ---
-title: Collection of knowledge.
-date updated: 2022-01-09 17:55
+aliases: 
+tags: 
+title: README
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+date created: Wednesday, March 16th 2022, 11:10:21 pm
+date modified: Sunday, April 17th 2022, 6:41:22 pm
 ---
 
 This is my personal collection of notes. It uses Zettelkatsen as the note taking system and qualifies as a smarter brain than the one in my head. I tend to keep this system of notes as dynamic as possible to make it more useful for a wider audience, however these notes are for personal use so they probably are pretty useless to you. (unless you take simmilar classes to me, like the dt notes might be useful)

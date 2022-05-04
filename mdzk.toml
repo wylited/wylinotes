@@ -1,8 +1,10 @@
 [mdzk]
 authors = ["wylited"]
 ignore = [
-    "templates/",
+    "Templates/",
     ".obsidian/",
+    "to be cleaned/",
+    "Organisation/",
 ]
 language = "en"
 multilingual = false

@@ -1,17 +1,21 @@
 ---
+aliases: 
+tags: 
 date created: 2022-01-09 17:51
-date updated: 2022-01-17 12:17
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Level of organisation
 ---
 
 There are 5 levels of organisation in a organism
 
-| _ Level of Organisation _ |
-| :-----------------------: |
-|         Organelles        |
-|           Cells           |
-|           Tissue          |
-|           Organs          |
-|           System          |
+| _ Level of Organisation _ |     |
+|:-------------------------:| --- |
+| ------------------------- |     |
+|        Organelles         |     |
+|           Cells           |     | 
+|          Tissue           |     |
+|          Organs           |     |
+|          System           |     |
 
 Each level uses the level below them. For example, Cells are made up of different Organelles such as a nucleus or cytoplasm.
 
@@ -31,7 +35,7 @@ Each level uses the level below them. For example, Cells are made up of differen
 - Bone Cells
 - Blood Cells
 - Muscle Cells
-- and more...
+- and more…
 
 ## Tissue:
 
@@ -44,7 +48,7 @@ Each level uses the level below them. For example, Cells are made up of differen
 - Liver
 - Bladder
 - Lungs
-- and more...
+- and more…
 
 ## System:
 

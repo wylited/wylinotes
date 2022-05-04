@@ -1,5 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-03-18 04:42
+date modified: Sunday, April 17th 2022, 6:43:47 pm
+title: Enterprise
 ---
 
 #Design_Theory
@@ -16,9 +20,10 @@ Crowdfunding is using what could be average users to generate enterprise and fud
 
 ---
 
-## Virtual marketing
+## Virtual Marketing
 
 New developments in technology have also allowed for virtual marketing, making it way easier to advertise and get products out to customers.
+
 People don't have to spend time and energy to go to physical shops and therefore are able to shop more easily online making it a viable option.
 
 ---
@@ -26,6 +31,7 @@ People don't have to spend time and energy to go to physical shops and therefore
 ## Co-operatives
 
 This is where a business is organized, run and managed by its workers.
+
 Worker Unions can classify into this. Common examples are like indie game companies.
 
 ---
@@ -33,5 +39,7 @@ Worker Unions can classify into this. Common examples are like indie game compan
 ## Fair Trade
 
 Fair Trade is an initiative/movement to empower and achieve fair trading conditions for developing countries
+
 Traders benefit from this as they get paid a fair price.
+
 Fair Trade is usually found for products like tea, spice, coffee, cocoa beans, sugar and cotton.

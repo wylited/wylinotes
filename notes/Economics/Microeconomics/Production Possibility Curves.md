@@ -1,6 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:14
-date updated: 2022-04-17 16:53
+date modified: Sunday, April 17th 2022, 6:41:22 pm
+title: Production Possibility Curves
 ---
 
 #microeconomics #economics
@@ -20,4 +23,5 @@ PPC diagrams are used to help visualize opportunity cost.
 ---
 
 The PPF (production possibility frontier) is the line of the PPC.
+
 A shift in the PPF shows an [[Economic Growth]].

@@ -1,5 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-03-18 04:42
+date modified: Sunday, April 17th 2022, 6:43:47 pm
+title: Environment
 ---
 
 #Design_Theory
@@ -23,4 +27,5 @@ However, some are detrimental to the environment:
 - Increased global warming
 
 As well as this, Planned obsolescence degrades the environment. Planned obsolescence is the planned date of obsolescence of a product, making it pointless and trash
+
 Pollution and global warming are massive contributors for the damge to the environment.

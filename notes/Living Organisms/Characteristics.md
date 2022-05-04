@@ -1,9 +1,11 @@
 ---
+aliases: 
+tags: 
 title: Characteristics
 description: An overview of Characteristics
 date created: 2022-01-05 16:55
 state: empty
-date updated: 2022-01-05 17:37
+date modified: Sunday, April 17th 2022, 6:41:22 pm
 ---
 
 All living organisms have the following characteristics:

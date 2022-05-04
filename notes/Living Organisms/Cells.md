@@ -1,5 +1,9 @@
 ---
+aliases: 
+tags: 
 date created: 2022-01-09 20:22
+date modified: Sunday, April 17th 2022, 6:43:47 pm
+title: Cells
 ---
 
 Cells are divided into 2 sub-categories, Animal and Plant.
@@ -8,7 +12,7 @@ Cells are divided into 2 sub-categories, Animal and Plant.
 
 - Cell Wall
 	- A protective layer that surrounds a cell
-	- Not permeable 
+	- Not permeable
 
 - Cell Membrane
 	- A soft wall that wraps around and protects the cell
@@ -29,12 +33,9 @@ Cells are divided into 2 sub-categories, Animal and Plant.
 	- Contain a green pigment called chlorophyll
 	- Not present in parts of the plants that aren't green
 
-
-
 ## Animal
 
 ![Animal Cell Diagram](https://wylited.me/wylinotes/Images/Animal-Cell_2022-01-09.excalidraw.svg)
-
 
 ## Plants
 
@@ -42,8 +43,6 @@ Cells are divided into 2 sub-categories, Animal and Plant.
 
 ## Major Differences
 
-
-
 ## [[Stem Cells]]
 
-Stem Cells are the base form of all cells. These stem cells then develop into 
+Stem Cells are the base form of all cells. These stem cells then develop into

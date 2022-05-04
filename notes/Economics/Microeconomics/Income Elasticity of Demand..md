@@ -1,12 +1,17 @@
 ---
+aliases: 
+tags: 
 date created: 2022-04-03 16:14
-date updated: 2022-04-17 17:04
+date modified: Sunday, April 17th 2022, 6:43:47 pm
+title: Income Elasticity of Demand.
 ---
 
 #microeconomics #economics
 
 $$
+
 YED = \frac{ΔqD\%}{Δp\%}
+
 $$
 
 (YED = Percentage change in quantity demanded over percentage change in income)
