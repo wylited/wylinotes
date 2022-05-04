@@ -21,7 +21,7 @@ For an accurate one look at this link
 #### 1.1.1 [[The Economic Problem]]
 
 1. The [[Economic Problem of Scarcity|Problem of Scarcity]]
-2. [[Opportunity cost]] and its effect
+2. [[Opportunity Cost def.]] and its effect
 3. [[Production possibility curves]] diagrams 
 4. [[Economic growth]]
 
@@ -31,9 +31,9 @@ For an accurate one look at this link
 2. Why consumers may not reach their aims
 3. Why producers may not reach their aims
 
-#### 1.1.3 [[Demand]], [[Supply]] and [[Market Equilibrium]]
+#### 1.1.3 [[Demand def.]], [[Supply]] and [[Market Equilibrium]]
 
-1. [[Demand]]
+1. [[Demand def.]]
    1. Demand curves
    2. [[Factors of Demand|Factors]] that might affect the demand
 2. [[Supply]]
@@ -43,15 +43,15 @@ For an accurate one look at this link
    1. Equilibrium price and quantity
    2. Usage of diagrams for
 	  1. How shifts in supply and demand affect equilibrium price
-	  2. Excess [[demand]] and [[Economics/Microeconomics/Excess Supply|supply]]
+	  2. Excess [[Demand def.]] and [[Economics/Microeconomics/Excess Supply|supply]]
    3. [[Market Forces]]
 
 #### 1.1.4 Elasticity
 
-1. [[Price elasticity of demand ]](PED)
+1. [[Price Elasticity of Demand def. ]](PED)
    1. Factors that affect PED
    2. Interpret numerical values of PED
-2. [[Price elasticity of supply]] (PES)
+2. [[Price Elasticity of Supply def.]] (PES)
    1. Factors that affect PES
    2. Interpret numerical values of PES
 3. [[Income elasticity of demand]] (YED)

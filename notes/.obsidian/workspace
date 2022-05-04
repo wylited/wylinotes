@@ -7,8 +7,12 @@
         "id": "b286ad1108ae7570",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Economics/Definitions/Price Elasticity of Supply def..md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Definitions/Price Elasticity of Supply def..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Definitions/Price Elasticity of Supply def..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Definitions/Price Elasticity of Supply def..md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "b286ad1108ae7570",
   "lastOpenFiles": [
+    "Economics/Definitions/Price Elasticity of Supply def..md",
+    "Economics/Definitions/Price Elasticity of Demand def..md",
+    "Economics/Definitions/Opportunity Cost def..md",
     "Economics/Syllabus.md",
     "Economics/Microeconomics/Consumer Assumptions.md",
     "Economics/Definitions/Economic Problem of Scarcity.md",
     "Economics/Microeconomics/The Economic Problem.md",
     "Economics/Definitions/Economic Agents.md",
     "Economics/Microeconomics/Economic Growth.md",
-    "Economics/Definitions/Opportunity Cost.md",
-    "Economics/Microeconomics/Supply.md",
-    "Economics/Definitions/Inferior Goods.md",
-    "Economics/Microeconomics/Factors of Demand.md"
+    "Economics/Microeconomics/Supply.md"
   ]
 }
