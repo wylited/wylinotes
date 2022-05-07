@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-01-09 17:51
-date modified: Sunday, April 17th 2022, 6:41:22 pm
+date modified: Sunday, April 17th 2022, 7:26:06 pm
 title: Level of organisation
 ---
 
@@ -12,7 +12,7 @@ There are 5 levels of organisation in a organism
 |:-------------------------:| --- |
 | ------------------------- |     |
 |        Organelles         |     |
-|           Cells           |     | 
+|           Cells           |     |
 |          Tissue           |     |
 |          Organs           |     |
 |          System           |     |

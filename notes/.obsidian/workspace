@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b286ad1108ae7570",
+        "id": "0ba9b5ffda873e88",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics/Definitions/Price Elasticity of Supply def..md",
+            "file": "Economics/Definitions/Indirect Taxes def..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b4d2f36639ec8210",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Economics/Definitions/Subsidies def..md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Design_Theory",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Definitions/Price Elasticity of Supply def..md",
+                "file": "Economics/Definitions/Indirect Taxes def..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Definitions/Price Elasticity of Supply def..md",
+                "file": "Economics/Definitions/Indirect Taxes def..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Definitions/Price Elasticity of Supply def..md"
+                "file": "Economics/Definitions/Indirect Taxes def..md"
               }
             }
           },
@@ -145,17 +157,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "b286ad1108ae7570",
+  "active": "0ba9b5ffda873e88",
   "lastOpenFiles": [
-    "Economics/Definitions/Price Elasticity of Supply def..md",
-    "Economics/Definitions/Price Elasticity of Demand def..md",
-    "Economics/Definitions/Opportunity Cost def..md",
+    "Economics/Definitions/Indirect Taxes def..md",
+    "Economics/Definitions/Subsidies def..md",
+    "Economics/Microeconomics/Subsidies.md",
+    "Economics/Definitions/Mixed Economy def..md",
+    "Economics/Microeconomics/Mixed Economy.md",
     "Economics/Syllabus.md",
-    "Economics/Microeconomics/Consumer Assumptions.md",
-    "Economics/Definitions/Economic Problem of Scarcity.md",
-    "Economics/Microeconomics/The Economic Problem.md",
-    "Economics/Definitions/Economic Agents.md",
-    "Economics/Microeconomics/Economic Growth.md",
-    "Economics/Microeconomics/Supply.md"
+    "Economics/Microeconomics/Opportunity Cost.md",
+    "Economics/Microeconomics/Producer Assumptions.md",
+    "Economics/Microeconomics/Indirect Taxes.md",
+    "Images/D-  2022-05-04.excalidraw.md"
   ]
 }

@@ -10,5 +10,6 @@
   "foldIndent": true,
   "foldHeading": true,
   "legacyEditor": false,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "fileSortOrder": "alphabetical"
 }

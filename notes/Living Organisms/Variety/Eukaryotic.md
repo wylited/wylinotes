@@ -5,7 +5,7 @@ title: Eukaryotic
 description: An overview of Prokaryotic
 date created: 2022-01-05 17:09
 state: empty
-date modified: Sunday, April 17th 2022, 6:41:22 pm
+date modified: Sunday, April 17th 2022, 7:25:47 pm
 ---
 
 Prokaryotic organisms have a distinct nucleus and can further be separated into whether they are multi-cellular or single-cellular.

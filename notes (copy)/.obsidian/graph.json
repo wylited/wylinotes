@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Design_Theory",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
+    },
+    {
+      "query": "path:\"to be cleaned\"",
+      "color": {
+        "a": 1,
+        "rgb": 16736609
+      }
+    },
+    {
+      "query": "tag:#microeconomics",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#macroeconomics",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.4,
+  "nodeSizeMultiplier": 0.714431239388795,
+  "lineSizeMultiplier": 1.49405772495756,
+  "collapse-forces": false,
+  "centerStrength": 0.618299781712345,
+  "repelStrength": 16.0126121756003,
+  "linkStrength": 0.598835799175358,
+  "linkDistance": 500,
+  "scale": 0.2519270517655528,
+  "close": true
+}

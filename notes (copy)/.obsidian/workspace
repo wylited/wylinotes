@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c5c3c98e006cf088",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4d2f36639ec8210",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Economics/Definitions/Dividend.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07d7f7bcb8e8fd9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b289a3f655145905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1d489c83b57943",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b0bf8cc91136994",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Design_Theory",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6bae311c04cd20c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193.00556182861328
+  },
+  "right": {
+    "id": "f1b665e538e9da56",
+    "type": "split",
+    "children": [
+      {
+        "id": "75154026dd418dc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e910fa0a26537e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ed8bdbb6350e9ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Economics/Definitions/Dividend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "906665825306bd0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Economics/Definitions/Dividend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "213f8db26ffc988c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e6c6f5d6afbd19b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Economics/Definitions/Dividend.md"
+              }
+            }
+          },
+          {
+            "id": "8570e28cf4df96ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "b4d2f36639ec8210",
+  "lastOpenFiles": [
+    "Economics/Definitions/Dividend.md",
+    "Economics/Definitions/Assets.md",
+    "Economics/Definitions/Liabilities.md",
+    "Economics/Definitions/Shareholders.md",
+    "Economics/Definitions/Public Sector.md",
+    "Economics/Definitions/Market Failure.md",
+    "Economics/Definitions/Mixed Economy.md",
+    "Economics/Definitions/Public Goods.md",
+    "Economics/Definitions/Merit Goods.md",
+    "Economics/Definitions/Free Rider.md"
+  ]
+}

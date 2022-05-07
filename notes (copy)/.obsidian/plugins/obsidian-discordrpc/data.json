@@ -1,0 +1,10 @@
+{
+  "showVaultName": false,
+  "showCurrentFileName": true,
+  "showPopups": true,
+  "customVaultName": "Wylinotes",
+  "showFileExtension": true,
+  "useLoadedTime": true,
+  "connectOnStart": true,
+  "autoHideStatusBar": false
+}

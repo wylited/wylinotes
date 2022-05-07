@@ -2,8 +2,8 @@
 aliases: 
 tags: 
 date created: 2022-04-03 16:14
-date modified: Sunday, April 17th 2022, 7:21:15 pm
-title: Price Elasticity of Demand
+date modified: Wednesday, April 20th 2022, 1:46:52 am
+title: Price Elasticity of Demand def.
 ---
 
 #microeconomics #economics

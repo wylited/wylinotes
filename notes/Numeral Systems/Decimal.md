@@ -5,7 +5,7 @@ title: Decimal
 description: An overview of the denary number system.
 date created: 2021-12-21 22:32
 state: finished
-date modified: Sunday, April 17th 2022, 6:41:22 pm
+date modified: Sunday, April 17th 2022, 7:26:32 pm
 ---
 #numbers
 

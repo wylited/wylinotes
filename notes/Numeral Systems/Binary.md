@@ -5,7 +5,7 @@ title: Binary
 description: A explanation of binary
 date created: 2021-12-21 22:07
 state: finished
-date modified: Sunday, April 17th 2022, 6:41:22 pm
+date modified: Sunday, April 17th 2022, 7:26:30 pm
 ---
 #numbers
 
