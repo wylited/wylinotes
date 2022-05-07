@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics/Definitions/Indirect Taxes def..md",
+            "file": "Economics/Syllabus.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Definitions/Indirect Taxes def..md",
+                "file": "Economics/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Definitions/Indirect Taxes def..md",
+                "file": "Economics/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Definitions/Indirect Taxes def..md"
+                "file": "Economics/Syllabus.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "0ba9b5ffda873e88",
   "lastOpenFiles": [
+    "Economics/Syllabus.md",
+    "Economics/Economics.md",
+    "Economics/Microeconomics/Production Possibility Curves.md",
+    "Economics/Definitions/Production Possibility Curves def..md",
     "Economics/Definitions/Indirect Taxes def..md",
     "Economics/Definitions/Subsidies def..md",
     "Economics/Microeconomics/Subsidies.md",
     "Economics/Definitions/Mixed Economy def..md",
     "Economics/Microeconomics/Mixed Economy.md",
-    "Economics/Syllabus.md",
-    "Economics/Microeconomics/Opportunity Cost.md",
-    "Economics/Microeconomics/Producer Assumptions.md",
-    "Economics/Microeconomics/Indirect Taxes.md",
-    "Images/D-  2022-05-04.excalidraw.md"
+    "Economics/Microeconomics/Opportunity Cost.md"
   ]
 }

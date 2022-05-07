@@ -19,4 +19,4 @@ The 4 things that affect economic growth are:
 
 or the [[Economics/Microeconomics/Factors of Production | Factors of Production]].
 
-Economic growth also shifts the [[Production Possibility Curve |PPC]].
+Economic growth also shifts the [[Production Possibility Curves def. |PPC]].

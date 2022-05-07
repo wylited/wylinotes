@@ -20,14 +20,14 @@ For an accurate one look at this link
 
 #### 1.1.1 [[The Economic Problem]]
 
-1. The [[Economic Problem of Scarcity|Problem of Scarcity]]
-2. [[Opportunity Cost]] and its effect
-3. [[Production possibility curves]] diagrams
-4. [[Economic growth]]
+1. The [[Economic Problem of Scarcity|Problem of scarcity]]
+2. [[Opportunity Cost|Opportunity cost]] and its effect
+3. [[Production Possibility Curves|Production possibility curve]] diagrams
+4. [[Economic Growth|Economic growth]]
 
 #### 1.1.2 Economic [[Assumptions]]
 
-1. The assumptions of [[consumer assumptions|consumer]] and [[Producer Assumptions|producer]] aims
+1. The assumptions of [[Consumer Assumptions|consumer]] and [[Producer Assumptions|producer]] aims
 2. Why consumers may not reach their aims
 3. Why producers may not reach their aims
 
@@ -39,11 +39,11 @@ For an accurate one look at this link
 2. [[Supply]]
    1. Supply curves
    2. [[Factors of Supply|Factors]] that might affect the supply
-3. [[Market equilibrium]]
+3. [[Market Equilibrium|Market equilibrium]]
    1. Equilibrium price and quantity
    2. Usage of diagrams for
 	  1. How shifts in supply and demand affect equilibrium price
-	  2. Excess [[demand]] and [[Economics/Microeconomics/Excess Supply|supply]]
+	  2. Excess [[Excess Demand|demand]] and [[Excess Supply||supply]]
    3. [[Market Forces]]
 
 #### 1.1.4 Elasticity
@@ -54,14 +54,14 @@ For an accurate one look at this link
 2. [[Price Elasticity of Supply]] (PES)
    1. [[Factors of Supply|Factors]] that affect PES
    2. Interpret numerical values of PES
-3. [[Economics/Microeconomics/Income Elasticity of Demand|Income Elasticity of Demand]] (YED)
+3. [[Income Elasticity of Demand|Income Elasticity of Demand]] (YED)
    1. [[Indirect Taxes]] and [[Subsidies]].
    2. Changes in income
    3. Interpret numerical values of YED
 
 #### 1.1.5 The Mixed Market
 
-1. Mixed economy
+1. [[Mixed Economy|Mixed economy]]
 2. Public sector
    1. Control and aims
    2. Public goods
