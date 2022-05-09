@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-04-03 16:14
-date modified: Sunday, April 17th 2022, 7:25:19 pm
+date modified: Wednesday, May 4th 2022, 9:43:19 pm
 title: Producer Assumptions
 ---
 
@@ -19,4 +19,4 @@ However they may not achieve this for _four_ reasons:
 
 ---
 
-(TODO!) : write notes that explain these. eg what is a charity and what is a social enterprise.
+(TODO!) : write notes that explain these. e.g. what is a charity and what is a social enterprise.

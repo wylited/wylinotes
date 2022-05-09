@@ -28,6 +28,6 @@ In the long term, consumers are more elastic over longer periods, as over the lo
 
 ## Proportion of Income
 
-A high price to income ratio would cause a product to have an elastic PED.
+A high price to income ratio would cause a [[Economic Good def.|economic good]] to have an elastic PED.
 
-A low price to income ratio would make a product considered as inelastic.
+A low price to income ratio would make a [[Economic Good def.|economic good]] considered as inelastic.

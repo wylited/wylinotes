@@ -9,4 +9,6 @@ title: Mixed Economy
 
 #microeconomics #economics
 
-The mixed economy is a market system of resource allocation, commerce, and trade in which free markets coexist with government intervention.
+The mixed economy is a [[Market def.|market]] system of resource allocation, commerce, and trade in which free markets coexist with government intervention. 
+
+A mixed economy makes use of both the [[Public Sector|public sector]] and the [[Private Sector|private sector]].

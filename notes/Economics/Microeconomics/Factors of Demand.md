@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-04-03 16:14
-date modified: Sunday, April 17th 2022, 7:24:52 pm
+date modified: Monday, May 9th 2022, 11:05:31 am
 title: Factors of Demand
 ---
 
@@ -22,16 +22,16 @@ title: Factors of Demand
 
 ---
 
-## Supplementary Products
+## Supplementary Goods
 
-- A supplementary product is a product often bought instead of the product in question.
+- A supplementary good is a good often bought instead of the good in question.
 - A decrease in price of the supplementary would shift the demand curve inwards. Vice versa for an increase.
 
 ---
 
-## Complementary Products
+## Complementary Goods
 
-- A complementary product is a product often bought in combination with the product in question.
+- A complementary good is a good often bought in combination with the good in question.
 - A decrease in price of the supplementary would shift the demand curve outwards. Vice versa for an increase.
 
 ---

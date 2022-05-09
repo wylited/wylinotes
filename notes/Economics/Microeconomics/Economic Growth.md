@@ -17,6 +17,6 @@ The 4 things that affect economic growth are:
 - Land
 - Labor
 
-or the [[Economics/Microeconomics/Factors of Production | Factors of Production]].
+aka the [[Factors of Production|factors of production]].
 
 Economic growth also shifts the [[Production Possibility Curves def. |PPC]].

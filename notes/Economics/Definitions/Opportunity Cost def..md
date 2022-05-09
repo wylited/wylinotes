@@ -9,5 +9,3 @@ title: Opportunity Cost def.
 #economics #microeconomics
 
 The potential benefits that an individual, investor, or business misses out on when choosing one alternative over another.
-
-6

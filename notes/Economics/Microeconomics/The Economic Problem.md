@@ -8,7 +8,7 @@ title: The Economic Problem
 
 #economics #microeconomics
 
-The [[Economic Problem of Scarcity]] describes the decisions [[Economic Agents]] must make due to there being **infinite wants** and **finite resources**.
+The [[Economic Problem of Scarcity def]] describes the decisions [[Economic Agents def.]] must make due to there being **infinite wants** and **finite resources**.
 
 This creates 3 basic problems
 

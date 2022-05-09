@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-04-03 15:27
-date modified: Wednesday, May 4th 2022, 9:33:24 pm
+date modified: Monday, May 9th 2022, 12:34:28 pm
 title: Syllabus
 ---
 
@@ -20,7 +20,7 @@ For an accurate one look at this link
 
 #### 1.1.1 [[The Economic Problem]]
 
-1. The [[Economic Problem of Scarcity|Problem of scarcity]]
+1. The [[Economic Problem of Scarcity def|Problem of scarcity]]
 2. [[Opportunity Cost|Opportunity cost]] and its effect
 3. [[Production Possibility Curves|Production possibility curve]] diagrams
 4. [[Economic Growth|Economic growth]]
@@ -62,12 +62,12 @@ For an accurate one look at this link
 #### 1.1.5 The Mixed Market
 
 1. [[Mixed Economy|Mixed economy]]
-2. Public sector
+2. [[Public sector]]
    1. Control and aims
-   2. Public goods
-3. Private sector
+   2. [[Public goods]]
+3. [[Private sector]]
    1. Control and aims
-   2. Private goods
+   2. [[Private goods]]
 4. Market failure
 5. Privatization & effects
 

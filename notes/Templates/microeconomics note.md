@@ -1,6 +1,9 @@
 ---
-date created: 2022-04-03 16:14
-date updated: 2022-04-03 16:14
+aliases: 
+tags: 
+date created: <% tp.file.creation_date() %>
+date modified: <% tp.file.last_modified_date("dddd, MMMM Do YYYY, h:mm:ss a") %>
+title: <% tp.file.title %>
 ---
 
 #microeconomics #economics

@@ -2,34 +2,27 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "tag:#economics",
+      "color": {
+        "a": 1,
+        "rgb": 14708306
+      }
+    },
+    {
       "query": "tag:#Design_Theory",
       "color": {
         "a": 1,
-        "rgb": 5422560
+        "rgb": 1355179
       }
     },
     {
-      "query": "path:\"to be cleaned\"",
-      "color": {
-        "a": 1,
-        "rgb": 16736609
-      }
-    },
-    {
-      "query": "tag:#microeconomics",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#macroeconomics",
+      "query": "tag:#biology",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -38,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 1.4,
-  "nodeSizeMultiplier": 0.714431239388795,
-  "lineSizeMultiplier": 1.49405772495756,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.18684210526316,
+  "lineSizeMultiplier": 0.426230899830221,
   "collapse-forces": false,
-  "centerStrength": 0.618299781712345,
-  "repelStrength": 16.0126121756003,
-  "linkStrength": 0.598835799175358,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.2519270517655528,
-  "close": true
+  "scale": 0.020943267458225966,
+  "close": false
 }

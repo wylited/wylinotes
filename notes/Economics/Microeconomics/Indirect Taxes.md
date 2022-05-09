@@ -9,5 +9,5 @@ title: Indirect Taxes
 
 #microeconomics #economics
 
-Indirect taxes are taxes levied on the sale of products rather than on profit of the company.
+Indirect taxes are taxes levied on the sale of [[Economic Good def.|economic goods]] rather than on profit of the company.
 Some of the tax is paid by the consumer as well.

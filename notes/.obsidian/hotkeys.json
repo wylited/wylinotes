@@ -109,14 +109,6 @@
       "key": "G"
     }
   ],
-  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "obsidian-discordrpc:disconnect-discord": [
     {
       "modifiers": [
@@ -150,6 +142,87 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:Templates/microeconomics note.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
     }
   ]
 }

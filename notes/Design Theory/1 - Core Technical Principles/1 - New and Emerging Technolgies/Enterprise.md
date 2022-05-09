@@ -22,7 +22,7 @@ Crowdfunding is using what could be average users to generate enterprise and fud
 
 ## Virtual Marketing
 
-New developments in technology have also allowed for virtual marketing, making it way easier to advertise and get products out to customers.
+New developments in technology have also allowed for virtual marketing, making it way easier to advertise and get productss out to customers.
 
 People don't have to spend time and energy to go to physical shops and therefore are able to shop more easily online making it a viable option.
 

@@ -8,7 +8,7 @@ title: Determinants of PES
 
 #microeconomics #economics
 
-## [[Factors of production]]
+## [[Factors of Production]]
 
 The higher the factors of production are, the more elastic the PES is.
 
