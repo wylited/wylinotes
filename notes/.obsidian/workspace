@@ -18,6 +18,30 @@
         }
       },
       {
+        "id": "d77224ee98cd7e73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Economics/Microeconomics/Competition and Firms.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "076a3469b6087cfa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Economics/Microeconomics/Mixed Economy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "9de669ea2d3ba085",
         "type": "leaf",
         "state": {
@@ -162,14 +186,14 @@
   "active": "f56f6b28a3a894c6",
   "lastOpenFiles": [
     "Economics/Syllabus.md",
+    "Economics/Microeconomics/Competition and Firms.md",
+    "Economics/Microeconomics/Mixed Economy.md",
     "Economics/Microeconomics/Dis.advantages of Monopolies.md",
     "Economics/Microeconomics/Monopolies.md",
     "Economics/Microeconomics/Reasons firms do not grow.md",
     "Economics/Definitions/Economies of Scale def..md",
     "Economics/Microeconomics/Factors of Growth of Firms.md",
     "Economics/Microeconomics/Disadvantages of firm sizes.md",
-    "Economics/Microeconomics/Advantages of firm size.md",
-    "Economics/Microeconomics/Firm Size.md",
-    "Economics/Microeconomics/Competition and Consumers.md"
+    "Economics/Microeconomics/Advantages of firm size.md"
   ]
 }

@@ -2,8 +2,8 @@
 aliases: 
 tags: 
 date created: 2022-05-11 22:44
-date modified: Wednesday, May 11th 2022, 10:47:05 pm
-title: Comepition and Firms
+date modified: Wednesday, May 11th 2022, 10:48:36 pm
+title: Competition and Firms
 ---
 
 #microeconomics #economics

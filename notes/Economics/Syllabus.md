@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-04-03 15:27
-date modified: Wednesday, May 11th 2022, 11:31:13 pm
+date modified: Thursday, May 12th 2022, 6:37:06 am
 title: Syllabus
 ---
 
@@ -61,13 +61,13 @@ For an accurate one look at this link
 #### 1.1.5 The Mixed Market
 
 1. [[Mixed Economy|Mixed economy]]
-2. [[Public sector]]
+2. [[Public Sector|Public sector]]
    1. Control and aims
-   2. [[Public goods]]
-3. [[Private sector]]
+   2. [[Public Goods|Public goods]]
+3. [[Private Sector|Private sector]]
    1. Control and aims
-   2. [[Private goods]]
-4. [[Market failure]]
+   2. [[Private Goods|Private goods]]
+4. [[Market Failure|Market failure]]
 5. [[Privatisation]] and its [[Effects of Privatisation|effects]]
 
 #### 1.1.6 [[Externalities]]
