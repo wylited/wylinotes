@@ -2,8 +2,8 @@
 aliases: 
 tags: 
 date created: 2022-05-09 10:32
-date modified: Monday, May 9th 2022, 10:39:07 am
-title: Disceconomies of Scale
+date modified: Wednesday, May 11th 2022, 10:23:03 pm
+title: Diseconomies of Scale def.
 ---
 
 #microeconomics #economics

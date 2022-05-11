@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "e19db2d4754949c5",
+        "id": "9de669ea2d3ba085",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economics/Microeconomics/Private Goods.md",
+            "file": "Economics/Microeconomics/Dis.advantages of Monopolies.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Microeconomics/Private Goods.md",
+                "file": "Economics/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Microeconomics/Private Goods.md",
+                "file": "Economics/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Microeconomics/Private Goods.md"
+                "file": "Economics/Syllabus.md"
               }
             }
           },
@@ -156,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 341.2715759277344,
+    "collapsed": true
   },
-  "active": "e19db2d4754949c5",
+  "active": "f56f6b28a3a894c6",
   "lastOpenFiles": [
-    "Economics/Microeconomics/Private Goods.md",
-    "Economics/Microeconomics/Private Sector.md",
     "Economics/Syllabus.md",
-    "Economics/Microeconomics/Economies.md",
-    "Economics/Microeconomics/Mixed Economy.md",
-    "Economics/Definitions/Market Failure def..md",
-    "Economics/Microeconomics/Public Goods.md",
-    "Economics/Microeconomics/Public Sector.md",
-    "Economics/Definitions/Public Goods def..md",
-    "Economics/Definitions/Public Sector def..md"
+    "Economics/Microeconomics/Dis.advantages of Monopolies.md",
+    "Economics/Microeconomics/Monopolies.md",
+    "Economics/Microeconomics/Reasons firms do not grow.md",
+    "Economics/Definitions/Economies of Scale def..md",
+    "Economics/Microeconomics/Factors of Growth of Firms.md",
+    "Economics/Microeconomics/Disadvantages of firm sizes.md",
+    "Economics/Microeconomics/Advantages of firm size.md",
+    "Economics/Microeconomics/Firm Size.md",
+    "Economics/Microeconomics/Competition and Consumers.md"
   ]
 }

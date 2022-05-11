@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: 2022-04-03 15:27
-date modified: Monday, May 9th 2022, 12:34:28 pm
+date modified: Wednesday, May 11th 2022, 11:31:13 pm
 title: Syllabus
 ---
 
@@ -58,7 +58,6 @@ For an accurate one look at this link
    1. [[Indirect Taxes]] and [[Subsidies]].
    2. Changes in income
    3. Interpret numerical values of YED
-
 #### 1.1.5 The Mixed Market
 
 1. [[Mixed Economy|Mixed economy]]
@@ -68,28 +67,61 @@ For an accurate one look at this link
 3. [[Private sector]]
    1. Control and aims
    2. [[Private goods]]
-4. Market failure
-5. Privatization & effects
+4. [[Market failure]]
+5. [[Privatisation]] and its [[Effects of Privatisation|effects]]
 
-#### 1.1.6 Externalities
+#### 1.1.6 [[Externalities]]
 
 8. Cost of production
-   1. External
-   2. Internal
+   1. [[External Costs|External]]
+   2. [[Private Costs|Internal]]
 9. Benefit of consumption
-   1. External
-   2. Internal
-10. Social cost and benefit
+   1. [[External Benefits|External]]
+   2. [[Private Benefits|Internal]]
+10. [[Social Costs]] and [[Social Benefits|benefit]]
 
 ### 1.2 Business Economics
 
 #### 1.2.1 Production
-
+1) [[Factors of Production|Factors of production]]
+2) [[Sectors of the Economy|Sectors of the economy]]
+3) [[Changes in Sectors|Changes in sectors representing growth]]
 #### 1.2.2 Productivity and Division of Labor
+1) [[Productivity]]
+	1) [[Factors of Productivity|Factors of productivity]]
+2) [[Division of Labour|Division of labour]]
+	1) [[Advantages of Divison of Labour|Advantages]] and [[Disadvantages of Divison of Labour|disadvantages]]
 
 #### 1.2.3 Business Costs, Revenues and Profit
-
+1) [[Total Revenue def.|Total revenue]], [[Total Costs def.|total costs]], [[Fixed Costs def.|fixed costs]], [[Variable Costs def.|variable costs]], [[Average Total Costs def.|average (total) costs]], [[Total Profit def.|profit]]
+2) [[Economies of Scale|Economies of scale]]
+	1) [[Internal EOS]]
+		1) Purchasing
+		2) Technical
+		3) Managerial
+		4) Marketing
+		5) Financial
+		6) Risk bearing
+	2) [[External EOS]]
+		1) Skilled labour
+		2) Infrastructure
+		3) Access to suppliers
+		4) similar business in the area
+3) [[Diseconomies of Scale|Dis-economies of Scale]]
+	1) Bureaucracy
+	2) Communication problems
+	3) Lack of control
+	4) Distance of employees
+4) [[LRAC|Long run average cost]] (LRAC)
 #### 1.2.4 Business Competition
+1) Advantages and disadvantages of [[Competitive Markets|competition]] to [[Competition and Firms|firms]], [[Competition and Consumers|consumers]] and the [[Competition and Economy|economy]].
+2) [[Advantages of firm size|Advantages]] and [[Disadvantages of firm sizes|disadvantages]] of [[Firm Size|large firms and small firms.]]
+3) [[Factors of Growth of Firms|Factors influencing the growth of firms]]
+4) [[Reasons firms do not grow|Reasons firms stay small]]
+5) [[Monopolies]]
+6) [[Dis.advantages of Monopolies|Advantages and disadvantages of monopolies]]
+7) Oligopoly
+8) Advantages and disadvantages of oligopolies
 
 #### 1.2.5 The Labor Market
 
