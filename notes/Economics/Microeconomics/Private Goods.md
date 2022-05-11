@@ -2,8 +2,10 @@
 aliases: 
 tags: 
 date created: 2022-05-09 12:37
-date modified: Monday, May 9th 2022, 12:37:03 pm
+date modified: Wednesday, May 11th 2022, 5:30:19 pm
 title: Private Goods
 ---
 
 #microeconomics #economics
+
+Private goods are goods manufactured by the [[Private Sector|private sector]].
