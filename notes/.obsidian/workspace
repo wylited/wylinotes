@@ -8,6 +8,7 @@
         "type": "leaf",
         "pinned": true,
         "state": {
+<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "Economics/Syllabus.md",
@@ -51,6 +52,10 @@
             "mode": "source",
             "source": false
           }
+=======
+          "type": "graph",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -123,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Syllabus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,6 +186,7 @@
   },
   "active": "f56f6b28a3a894c6",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Economics/Syllabus.md",
     "Economics/Microeconomics/Competition and Firms.md",
     "Economics/Microeconomics/Mixed Economy.md",
@@ -195,5 +197,17 @@
     "Economics/Microeconomics/Factors of Growth of Firms.md",
     "Economics/Microeconomics/Disadvantages of firm sizes.md",
     "Economics/Microeconomics/Advantages of firm size.md"
+=======
+    "Economics/Definitions/Value-Added Tax.md",
+    "Economics/Definitions/Takeovers.md",
+    "Economics/Definitions/Substitute Goods.md",
+    "Economics/Definitions/Subsidies def..md",
+    "Economics/Definitions/Social Costs.md",
+    "Economics/Definitions/Social Benefits.md",
+    "Economics/Definitions/Shareholders.md",
+    "Economics/Definitions/Public Sector def..md",
+    "Economics/Definitions/Public Goods.md",
+    "Economics/Definitions/Production Possibility Curves def..md"
+>>>>>>> Stashed changes
   ]
 }

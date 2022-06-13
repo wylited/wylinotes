@@ -8,4 +8,8 @@ title: Subsidies def.
 
 #microeconomics #economics
 
+<<<<<<< Updated upstream
 Subsidies are grants provided by the government to improve production. Often provided as [[Economics/Microeconomics/Factors of Production]]
+=======
+Subsidies are grants provided by the government to improve production. Often provided as [[Factors of Production]]
+>>>>>>> Stashed changes

@@ -35,10 +35,18 @@
   "nodeSizeMultiplier": 0.388200339558574,
   "lineSizeMultiplier": 0.36918505942275,
   "collapse-forces": false,
+<<<<<<< Updated upstream
   "centerStrength": 0.435301964588892,
   "repelStrength": 9.55978656318215,
   "linkStrength": 0.563303419839922,
   "linkDistance": 302,
   "scale": 0.2556383924742769,
+=======
+  "centerStrength": 0.618299781712345,
+  "repelStrength": 16.0126121756003,
+  "linkStrength": 0.598835799175358,
+  "linkDistance": 500,
+  "scale": 0.2021161170227617,
+>>>>>>> Stashed changes
   "close": true
 }
