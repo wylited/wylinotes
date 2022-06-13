@@ -119,7 +119,7 @@ For an accurate one look at this link
 3) [[Factors of Growth of Firms|Factors influencing the growth of firms]]
 4) [[Reasons firms do not grow|Reasons firms stay small]]
 5) [[Monopolies]]
-6) [[Dis.advantages of Monopolies|Advantages and disadvantages of monopolies]]
+6) [[Disadvantages of Monopolies|Advantages and disadvantages of monopolies]]
 7) Oligopoly
 8) Advantages and disadvantages of oligopolies
 
