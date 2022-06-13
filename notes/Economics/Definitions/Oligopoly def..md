@@ -8,4 +8,4 @@ title: Oligopoly def.
 
 #microeconomics #economics
 
-An oligopoly is a small amount of firms that dominate the [[Market def.|market]].
+An [[Oligopoly|oligopoly]] is a small amount of firms that dominate the [[Market def.|market]].

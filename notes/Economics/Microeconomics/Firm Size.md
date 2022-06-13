@@ -12,4 +12,4 @@ A firm can be small, medium or large.
 
 ![[Pasted image 20220511225445.png]]
 
-There are the [[|advantages]] and [[|disadvantages]] of having a small firm vs a large firm.
+There are the [[Advantages of firm size|advantages]] and [[Disadvantages of firm sizes|disadvantages]] of having a small firm vs a large firm.

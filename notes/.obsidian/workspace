@@ -1,76 +1,89 @@
 {
   "main": {
-    "id": "c5c3c98e006cf088",
+    "id": "558b5e0259eed565",
     "type": "split",
     "children": [
       {
-        "id": "f56f6b28a3a894c6",
+        "id": "ba46e5ca689f4d7c",
         "type": "leaf",
-        "pinned": true,
+        "dimension": 33.577235772357724,
         "state": {
-<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "Economics/Syllabus.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "19c0d2413c6ac66d",
+        "type": "split",
+        "dimension": 66.42276422764228,
+        "children": [
+          {
+            "id": "bcec413c77e33fba",
+            "type": "leaf",
+            "dimension": 47.019867549668874,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Microeconomics/Labour Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
-          "pinned": true
-        }
-      },
-      {
-        "id": "d77224ee98cd7e73",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics/Microeconomics/Competition and Firms.md",
-            "mode": "source",
-            "source": false
+          {
+            "id": "b70284d47f79663b",
+            "type": "split",
+            "dimension": 52.980132450331126,
+            "children": [
+              {
+                "id": "294ebef396331e85",
+                "type": "leaf",
+                "dimension": 50,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Economics/Microeconomics/Factors of demand of labour.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5efa0ff33513ddc5",
+                "type": "leaf",
+                "dimension": 50,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Economics/Microeconomics/Factors of supply of labour.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
           }
-        }
-      },
-      {
-        "id": "076a3469b6087cfa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics/Microeconomics/Mixed Economy.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9de669ea2d3ba085",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Economics/Microeconomics/Dis.advantages of Monopolies.md",
-            "mode": "source",
-            "source": false
-          }
-=======
-          "type": "graph",
-          "state": {}
->>>>>>> Stashed changes
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "07d7f7bcb8e8fd9e",
+    "id": "447807b1c668725d",
     "type": "split",
     "children": [
       {
-        "id": "b289a3f655145905",
+        "id": "8440bf25f1888f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1d489c83b57943",
+            "id": "9f0b00e9c09f40a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,13 +91,13 @@
             }
           },
           {
-            "id": "2b0bf8cc91136994",
+            "id": "8623a18b8e2a8bc0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "o",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,7 +106,7 @@
             }
           },
           {
-            "id": "f6bae311c04cd20c",
+            "id": "7c39186a66c66d76",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -104,18 +117,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194.00556182861328
+    "width": 268.00793838500977
   },
   "right": {
-    "id": "f1b665e538e9da56",
+    "id": "6132a73ed594d11a",
     "type": "split",
     "children": [
       {
-        "id": "75154026dd418dc7",
+        "id": "472c3a1a52a4619f",
         "type": "tabs",
         "children": [
           {
-            "id": "08e910fa0a26537e",
+            "id": "a7efb88d577715a2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -123,11 +136,12 @@
             }
           },
           {
-            "id": "1ed8bdbb6350e9ca",
+            "id": "07c5b6bf8b48ff9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Microeconomics/Factors of demand of labour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,18 +153,19 @@
             }
           },
           {
-            "id": "906665825306bd0d",
+            "id": "caa19a59bb20b7b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Microeconomics/Factors of demand of labour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "213f8db26ffc988c",
+            "id": "e5143a459a3863f4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,53 +176,40 @@
             }
           },
           {
-            "id": "9e6c6f5d6afbd19b",
+            "id": "bcb21a0abc95e5d1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Microeconomics/Factors of demand of labour.md"
+              }
             }
           },
           {
-            "id": "8570e28cf4df96ce",
+            "id": "8dfc50f397a16b79",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.2715759277344,
-    "collapsed": true
+    "width": 212.21212768554688
   },
-  "active": "f56f6b28a3a894c6",
+  "active": "294ebef396331e85",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
+    "Economics/Microeconomics/Factors of demand of labour.md",
+    "Economics/Microeconomics/Labour Market.md",
     "Economics/Syllabus.md",
-    "Economics/Microeconomics/Competition and Firms.md",
-    "Economics/Microeconomics/Mixed Economy.md",
-    "Economics/Microeconomics/Dis.advantages of Monopolies.md",
-    "Economics/Microeconomics/Monopolies.md",
-    "Economics/Microeconomics/Reasons firms do not grow.md",
-    "Economics/Definitions/Economies of Scale def..md",
-    "Economics/Microeconomics/Factors of Growth of Firms.md",
-    "Economics/Microeconomics/Disadvantages of firm sizes.md",
-    "Economics/Microeconomics/Advantages of firm size.md"
-=======
-    "Economics/Definitions/Value-Added Tax.md",
-    "Economics/Definitions/Takeovers.md",
-    "Economics/Definitions/Substitute Goods.md",
-    "Economics/Definitions/Subsidies def..md",
-    "Economics/Definitions/Social Costs.md",
-    "Economics/Definitions/Social Benefits.md",
-    "Economics/Definitions/Shareholders.md",
-    "Economics/Definitions/Public Sector def..md",
-    "Economics/Definitions/Public Goods.md",
-    "Economics/Definitions/Production Possibility Curves def..md"
->>>>>>> Stashed changes
+    "Economics/Microeconomics/Factors of supply of labour.md",
+    "Economics/Microeconomics/Competition and Economy.md",
+    "Economics/Microeconomics/Firm Size.md",
+    "Economics/Microeconomics/Competitive Markets.md",
+    "Economics/Microeconomics/Dis.advantages of Oligopolies.md",
+    "Economics/Definitions/Price Wars def..md",
+    "Economics/Definitions/Collusion def..md"
   ]
 }

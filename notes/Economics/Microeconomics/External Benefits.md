@@ -12,4 +12,4 @@ title: External Benefits
 
 Decisions that are made which improve the welfare of society (a third party).
 
-External benefits positvely impact the third party.
+External benefits positively impact the third party. 

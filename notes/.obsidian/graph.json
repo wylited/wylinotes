@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -11,42 +11,20 @@
       "query": "tag:#economics",
       "color": {
         "a": 1,
-        "rgb": 14708306
-      }
-    },
-    {
-      "query": "tag:#Design_Theory",
-      "color": {
-        "a": 1,
-        "rgb": 1355179
-      }
-    },
-    {
-      "query": "tag:#biology",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
+        "rgb": 8708178
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 0.388200339558574,
-  "lineSizeMultiplier": 0.36918505942275,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.799490686845169,
+  "lineSizeMultiplier": 0.480049476135041,
   "collapse-forces": false,
-<<<<<<< Updated upstream
-  "centerStrength": 0.435301964588892,
-  "repelStrength": 9.55978656318215,
-  "linkStrength": 0.563303419839922,
-  "linkDistance": 302,
-  "scale": 0.2556383924742769,
-=======
-  "centerStrength": 0.618299781712345,
-  "repelStrength": 16.0126121756003,
-  "linkStrength": 0.598835799175358,
-  "linkDistance": 500,
-  "scale": 0.2021161170227617,
->>>>>>> Stashed changes
+  "centerStrength": 0.453191695770276,
+  "repelStrength": 10.9895227008149,
+  "linkStrength": 0.807140085370586,
+  "linkDistance": 316,
+  "scale": 0.40144298115340304,
   "close": true
 }

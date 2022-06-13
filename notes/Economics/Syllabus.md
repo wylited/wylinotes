@@ -80,6 +80,7 @@ For an accurate one look at this link
    2. [[Private Benefits|Internal]]
 10. [[Social Costs]] and [[Social Benefits|benefit]]
 
+---
 ### 1.2 Business Economics
 
 #### 1.2.1 Production
@@ -120,11 +121,22 @@ For an accurate one look at this link
 4) [[Reasons firms do not grow|Reasons firms stay small]]
 5) [[Monopolies]]
 6) [[Disadvantages of Monopolies|Advantages and disadvantages of monopolies]]
-7) Oligopoly
-8) Advantages and disadvantages of oligopolies
+7) [[Oligopoly]]
+8) [[Dis.advantages of Oligopolies|Advantages and disadvantages of oligopolies]]
 
-#### 1.2.5 The Labor Market
+#### 1.2.5 The Labour Market
+1) Factors affecting demand of labour
+2) Factors affecting supply of labour
+3) Quantity and quality of labour
+4) Educations impact on human capital and quality of labour.
+5) Labour market diagrams
+6) Trade unions
 
 #### 1.2.6 Government Intervention
+1) Government policies to deal with [[externalities]]
+2) Advantages and disadvantages of these policies
+3) Government regulation of competition
+4) Government intervention in the labour market
 
 ## 2 - Macroeconomics
+ 
